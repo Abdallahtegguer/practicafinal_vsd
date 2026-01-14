@@ -1,0 +1,207 @@
+================================================================================
+DOCUMENTACIÓN TÉCNICA - analizar.py
+Script de Procesamiento de Datos FAOSTAT Food Prices
+Autor: Abdallah Tegguer
+================================================================================
+
+RESUMEN EJECUTIVO
+================================================================================
+Script Python que realiza ETL (Extract, Transform, Load) sobre datos de precios
+alimentarios de FAOSTAT, transformándolos desde formato wide a formato long 
+(tidy data) optimizado para visualización en Tableau.
+
+TECNOLOGÍAS UTILIZADAS
+================================================================================
+- Python 3.x
+- pandas: Manipulación y transformación de datos
+- numpy: Cálculos numéricos y estadísticos
+- os: Gestión de sistema de archivos
+
+ARCHIVOS DE ENTRADA
+================================================================================
+1. Prices_E_All_Data.csv - Dataset principal (~1.6M registros)
+2. Prices_E_AreaCodes.csv - Códigos de países (276 registros)
+3. Prices_E_ItemCodes.csv - Códigos de productos (233 registros)
+4. Prices_E_Elements.csv - Tipos de medición (4 registros)
+5. Prices_E_Flags.csv - Banderas de calidad (12 registros)
+
+PIPELINE DE PROCESAMIENTO
+================================================================================
+
+PASO 1: CARGA DE DATOS
+--------------------------------------------------------------------------------
+Método: pd.read_csv() con encoding='latin-1'
+Propósito: Importar todos los CSV y verificar dimensiones
+Salida: 5 DataFrames independientes
+
+PASO 2: VALIDACIÓN ESTRUCTURAL
+--------------------------------------------------------------------------------
+Método: Set theory con issubset() + left join con merge()
+Propósito: Verificar integridad referencial (similar a foreign keys en SQL)
+Técnicas aplicadas:
+  - Limpieza de nombres de columnas con str.strip()
+  - Extracción de códigos únicos con unique()
+  - Validación de subconjuntos con sets
+  - Merge de validación para verificar M49 Codes (estándar UN)
+Salida: Confirmación de coherencia entre archivos auxiliares y principal
+
+PASO 3: FILTRADO POR ELEMENTO COMPARABLE
+--------------------------------------------------------------------------------
+Método: Boolean indexing de pandas
+Propósito: Filtrar solo Producer Price Index (Element Code = 5539)
+Justificación técnica:
+  - Elimina efecto de diferentes monedas
+  - Usa año base 2014-2016 = 100 para comparabilidad internacional
+  - Reducción de ~75% del dataset (1.6M → 400K registros)
+Código clave:
+  df_filtered = df_main[df_main['Element Code'] == 5539].copy()
+
+PASO 4: TRANSFORMACIÓN A FORMATO LONG
+--------------------------------------------------------------------------------
+Método: pandas.melt() (operación de unpivoting)
+Propósito: Convertir estructura wide (columnas por año) a long (filas por año)
+
+Transformación:
+  WIDE: Area | Item | Y1991 | Y1992 | ... | Y2024
+  LONG: Area | Item | Year | Price
+
+Técnicas aplicadas:
+  - Regex para identificar columnas: 'Y\d{4}' sin 'F' final
+  - melt() con id_vars + value_vars
+  - str.replace() + astype(int) para limpiar columna Year
+  - Selección de columnas relevantes
+Salida: ~13M registros en formato tidy
+
+PASO 5: LIMPIEZA DE DATOS
+--------------------------------------------------------------------------------
+Método: dropna() - eliminación directa de valores faltantes
+Filosofía: NO imputación (no fabricar datos económicos)
+Técnicas aplicadas:
+  - isna().sum() para conteo de NaN
+  - dropna(subset=['Price']) para eliminación selectiva
+  - groupby('Year').size() para verificar cobertura temporal
+Salida: ~5M registros limpios (reducción del 60%)
+
+PASO 6: CÁLCULO DE MÉTRICAS
+--------------------------------------------------------------------------------
+
+6.1 ASIGNACIÓN DE REGIONES
+  Método: Diccionario de mapping + apply()
+  Técnica: Función assign_region() con búsqueda en dict
+  Resultado: Nueva columna 'Region' (Africa, Americas, Asia, Europe, Oceania)
+
+6.2 CATEGORIZACIÓN DE PRODUCTOS
+  Método: Diccionario de categorías + apply()
+  Técnica: Función assign_category() que clasifica 233 productos en 10 categorías
+  Resultado: Nueva columna 'Product_Category'
+
+6.3 VARIACIÓN INTERANUAL (YoY)
+  Método: groupby() + shift() + cálculo porcentual
+  Fórmula: YoY = ((Price_t - Price_t-1) / Price_t-1) × 100
+  Técnicas aplicadas:
+    - sort_values() para ordenar series temporales
+    - shift(1) para obtener valor del año anterior
+    - replace([np.inf, -np.inf], np.nan) para manejar divisiones por cero
+  Resultado: Nueva columna 'YoY_Change'
+
+6.4 MÉTRICAS A NIVEL DE PAÍS
+  Método: groupby(['Area', 'Region']).apply(calculate_country_metrics)
+  Función personalizada que calcula:
+    - Avg_Price: Promedio de precios
+    - Min_Price / Max_Price: Rango de precios
+    - Volatility: Desviación estándar de cambios porcentuales (σ)
+    - Trend_2010_2023: Cambio porcentual total entre 2010 y 2023
+    - Data_Points: Número de observaciones
+  Técnicas estadísticas:
+    - np.std() para volatilidad
+    - Cálculo de cambios porcentuales iterativos
+    - Filtrado por disponibilidad de años específicos
+  Resultado: DataFrame con métricas agregadas por país
+
+6.5 MÉTRICAS A NIVEL DE PRODUCTO
+  Método: groupby(['Item', 'Product_Category']).apply(calculate_country_metrics)
+  Misma función que 6.4 pero agrupando por producto
+  Resultado: DataFrame con métricas agregadas por producto
+
+6.6 AGREGADOS REGIONALES
+  Método: groupby(['Region', 'Year', 'Product_Category']).agg()
+  Funciones de agregación: mean, std, min, max, count
+  Resultado: Series temporales por región y categoría de producto
+
+6.7 MÉTRICAS PAÍS-CATEGORÍA
+  Método: groupby(['Area', 'Region', 'Product_Category']).apply()
+  Propósito: Análisis granular a nivel país × categoría
+  Resultado: DataFrame con métricas cruzadas
+
+PASO 7: EXPORTACIÓN DE ARCHIVOS
+--------------------------------------------------------------------------------
+Método: to_csv() con index=False
+Estructura de salida (5 archivos en carpeta 'output/'):
+
+1. 01_FAOSTAT_Prices_Clean_Long.csv
+   Contenido: Dataset principal en formato long
+   Columnas: Area, Item, Element, Year, Price, Region, Product_Category, YoY_Change
+   Uso en Tableau: Base para todas las visualizaciones
+
+2. 02_Country_Metrics.csv
+   Contenido: Métricas agregadas por país
+   Columnas: Area, Region, Avg_Price, Volatility, Trend_2010_2023, etc.
+   Uso en Tableau: Mapa coroplético, ranking de países
+
+3. 03_Product_Metrics.csv
+   Contenido: Métricas agregadas por producto
+   Columnas: Item, Product_Category, Avg_Price, Volatility, Trend_2010_2023, etc.
+   Uso en Tableau: Scatter plot (volatilidad vs tendencia)
+
+4. 04_Regional_Aggregates.csv
+   Contenido: Promedios por región, año y categoría
+   Columnas: Region, Year, Product_Category, Avg_Price, Std_Price, etc.
+   Uso en Tableau: Area charts, comparaciones regionales
+
+5. 05_Country_Category_Metrics.csv
+   Contenido: Métricas detalladas por país y categoría
+   Columnas: Area, Region, Product_Category, métricas calculadas
+   Uso en Tableau: Análisis drill-down
+
+CONCEPTOS TÉCNICOS CLAVE APLICADOS
+================================================================================
+
+1. INTEGRIDAD REFERENCIAL
+   Validación de que todos los códigos en el dataset principal tienen 
+   correspondencia en tablas auxiliares (similar a validación de FK en SQL)
+
+2. TIDY DATA (Formato Long)
+   Principio de Hadley Wickham: cada variable en una columna, cada observación
+   en una fila, cada tipo de unidad observacional en una tabla
+
+3. OPERACIONES VECTORIZADAS
+   Uso de operaciones pandas sobre columnas completas en lugar de loops,
+   mejorando significativamente el rendimiento
+
+4. WINDOW FUNCTIONS
+   shift() para acceder a valores previos en series temporales agrupadas
+   (similar a LAG() en SQL)
+
+5. SPLIT-APPLY-COMBINE
+   Patrón groupby().apply() para aplicar funciones personalizadas a grupos
+   de datos y combinar resultados
+
+6. ESTADÍSTICA DESCRIPTIVA
+   Cálculo de volatilidad (desviación estándar), tendencias (cambio porcentual),
+   y agregaciones (media, mínimo, máximo)
+
+CONSIDERACIONES TÉCNICAS IMPORTANTES
+================================================================================
+
+- MANEJO DE ENCODING: latin-1 para caracteres especiales (Côte d'Ivoire, Türkiye)
+- MANEJO DE NaN: No se imputan valores, se eliminan directamente
+- MANEJO DE INFINITOS: División por cero produce inf → convertir a NaN
+- OPTIMIZACIÓN: copy() para evitar SettingWithCopyWarning de pandas
+- MEMORIA: Liberación de DataFrames temporales con del
+- REDONDEO: round(2) en todas las métricas para consistencia
+
+RESULTADO FINAL
+================================================================================
+Transformación exitosa de datos crudos de FAOSTAT en 5 archivos CSV listos
+Cada archivo está optimizado para un tipo específico de visualización.
+

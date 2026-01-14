@@ -1,0 +1,2023 @@
+Area,Region,Product_Category,Avg_Price,Min_Price,Max_Price,Volatility,Trend_2010_2023,Data_Points,Year_Min,Year_Max
+Afghanistan,Asia,Aggregates,70.55,14.84,112.77,43.73,46.09,68.0,1991.0,2024.0
+Afghanistan,Asia,Cereals,118.14,10.62,993.66,279.23,-34.73,238.0,1991.0,2024.0
+Afghanistan,Asia,Dairy & Eggs,68.5,2.28,126.49,68.94,25.86,238.0,1991.0,2024.0
+Afghanistan,Asia,Fibers,86.03,10.35,152.85,93.73,-11.1,102.0,1991.0,2024.0
+Afghanistan,Asia,Fruits,87.64,8.6,273.57,96.75,10.56,510.0,1991.0,2024.0
+Afghanistan,Asia,Meat,65.64,8.74,115.86,22.46,-2.34,408.0,1991.0,2024.0
+Afghanistan,Asia,Nuts,81.72,7.92,208.18,229.6,-13.6,170.0,1991.0,2024.0
+Afghanistan,Asia,Oilseeds,62.97,10.33,114.15,11.54,-38.93,204.0,1991.0,2024.0
+Afghanistan,Asia,Other Industrial,66.33,8.6,112.77,35.79,-36.24,102.0,1991.0,2024.0
+Afghanistan,Asia,Pulses,62.83,11.18,112.77,13.47,-39.05,68.0,1991.0,2024.0
+Afghanistan,Asia,Roots & Tubers,59.33,17.41,145.29,28.08,83.94,34.0,1991.0,2024.0
+Afghanistan,Asia,Spices,61.68,10.62,112.77,18.82,-43.75,34.0,1991.0,2024.0
+Afghanistan,Asia,Sugar Crops,63.11,11.24,112.77,18.51,-36.14,34.0,1991.0,2024.0
+Afghanistan,Asia,Vegetables,71.04,17.41,145.29,101.1,83.94,68.0,1991.0,2024.0
+Albania,Europe,Aggregates,87.46,42.76,177.06,13.12,74.29,64.0,1993.0,2024.0
+Albania,Europe,Beverages,89.48,61.94,120.85,14.12,56.76,29.0,1996.0,2024.0
+Albania,Europe,Cereals,84.88,33.93,133.03,20.44,38.5,287.0,1993.0,2024.0
+Albania,Europe,Dairy & Eggs,87.82,22.49,284.52,32.69,105.78,224.0,1993.0,2024.0
+Albania,Europe,Fibers,64.74,20.21,111.57,15.59,121.02,96.0,1993.0,2024.0
+Albania,Europe,Fruits,88.01,13.78,255.19,53.1,102.14,629.0,1993.0,2024.0
+Albania,Europe,Meat,87.25,16.23,261.27,33.68,2.44,440.0,1993.0,2024.0
+Albania,Europe,Nuts,67.36,22.04,157.64,25.82,312.7,96.0,1993.0,2024.0
+Albania,Europe,Oilseeds,65.5,9.85,153.89,59.01,121.02,160.0,1993.0,2024.0
+Albania,Europe,Other Industrial,108.55,21.6,243.24,115.85,77.14,96.0,1993.0,2024.0
+Albania,Europe,Pulses,73.34,13.41,147.55,25.12,105.41,179.0,1993.0,2024.0
+Albania,Europe,Roots & Tubers,101.46,60.1,190.73,27.69,69.54,32.0,1993.0,2024.0
+Albania,Europe,Spices,89.4,61.94,120.62,14.04,56.47,29.0,1996.0,2024.0
+Albania,Europe,Sugar Crops,93.96,60.1,171.71,26.14,10.28,32.0,1993.0,2024.0
+Albania,Europe,Vegetables,94.57,32.17,276.35,38.79,8.24,713.0,1993.0,2024.0
+Algeria,Africa,Aggregates,74.59,8.77,149.89,44.19,81.08,68.0,1991.0,2024.0
+Algeria,Africa,Cereals,75.64,9.2,125.58,29.21,-1.13,306.0,1991.0,2024.0
+Algeria,Africa,Dairy & Eggs,79.88,17.03,131.91,15.21,64.26,238.0,1991.0,2024.0
+Algeria,Africa,Fibers,78.68,14.85,114.05,12.74,-1.18,102.0,1991.0,2024.0
+Algeria,Africa,Fruits,76.44,4.02,332.35,93.19,161.74,782.0,1991.0,2024.0
+Algeria,Africa,Meat,71.95,3.8,185.14,74.82,42.48,646.0,1991.0,2024.0
+Algeria,Africa,Nuts,78.94,12.58,114.05,31.57,0.2,68.0,1991.0,2024.0
+Algeria,Africa,Oilseeds,77.87,8.5,114.05,28.83,-1.18,204.0,1991.0,2024.0
+Algeria,Africa,Other Industrial,82.48,15.37,165.41,45.37,-4.13,102.0,1991.0,2024.0
+Algeria,Africa,Pulses,79.09,9.5,141.45,32.85,10.43,272.0,1991.0,2024.0
+Algeria,Africa,Roots & Tubers,75.01,8.63,166.1,30.35,100.35,34.0,1991.0,2024.0
+Algeria,Africa,Spices,69.38,9.9,105.66,23.98,0.82,34.0,1991.0,2024.0
+Algeria,Africa,Vegetables,71.84,2.59,196.39,65.85,33.01,714.0,1991.0,2024.0
+Angola,Africa,Aggregates,108.29,81.83,141.48,17.29,35.25,30.0,2010.0,2024.0
+Angola,Africa,Beverages,103.03,55.5,128.65,9.74,123.19,15.0,2010.0,2024.0
+Angola,Africa,Cereals,110.7,84.69,164.97,13.85,9.61,90.0,2010.0,2024.0
+Angola,Africa,Dairy & Eggs,101.68,81.83,115.09,2.46,38.73,30.0,2010.0,2024.0
+Angola,Africa,Fruits,109.01,17.71,228.39,75.87,-5.43,105.0,2010.0,2024.0
+Angola,Africa,Oilseeds,105.22,95.8,140.48,9.64,-10.18,45.0,2010.0,2024.0
+Angola,Africa,Pulses,107.06,91.41,149.83,11.28,17.61,30.0,2010.0,2024.0
+Angola,Africa,Roots & Tubers,120.73,84.05,180.75,23.45,-16.89,45.0,2010.0,2024.0
+Angola,Africa,Spices,101.68,81.83,115.09,3.07,38.73,15.0,2010.0,2024.0
+Angola,Africa,Vegetables,106.01,81.83,231.27,18.66,38.97,135.0,2010.0,2024.0
+Antigua and Barbuda,Americas,Aggregates,88.54,38.29,147.22,39.9,56.82,58.0,1996.0,2024.0
+Antigua and Barbuda,Americas,Cereals,106.62,57.96,295.41,7.47,216.17,87.0,1996.0,2024.0
+Antigua and Barbuda,Americas,Dairy & Eggs,92.91,63.36,111.95,14.39,3.57,116.0,1996.0,2024.0
+Antigua and Barbuda,Americas,Fruits,103.35,39.07,320.24,45.49,25.59,201.0,1996.0,2024.0
+Antigua and Barbuda,Americas,Meat,94.25,50.5,208.62,21.55,14.12,319.0,1996.0,2024.0
+Antigua and Barbuda,Americas,Roots & Tubers,115.5,81.78,248.2,18.03,79.79,68.0,2008.0,2024.0
+Antigua and Barbuda,Americas,Vegetables,111.01,45.8,224.35,28.94,97.18,204.0,2008.0,2024.0
+Argentina,Americas,Aggregates,152.75,4.47,1453.28,46.11,1870.46,68.0,1991.0,2024.0
+Argentina,Americas,Beverages,68.88,4.12,356.72,158.17,95.09,68.0,1991.0,2024.0
+Argentina,Americas,Cereals,93.7,2.43,979.16,80.03,189.94,408.0,1991.0,2024.0
+Argentina,Americas,Dairy & Eggs,217.95,4.03,3070.33,33.51,12290.36,136.0,1991.0,2024.0
+Argentina,Americas,Fibers,82.73,3.84,470.37,123.44,1131.8,170.0,1991.0,2024.0
+Argentina,Americas,Fruits,59.69,2.65,163.98,65.93,109.15,748.0,1991.0,2024.0
+Argentina,Americas,Meat,154.02,0.36,9031.02,1829.93,36.43,748.0,1991.0,2024.0
+Argentina,Americas,Nuts,53.64,1.45,189.19,146.31,321.18,102.0,1991.0,2024.0
+Argentina,Americas,Oilseeds,79.49,3.41,713.04,56.16,1235.07,340.0,1991.0,2024.0
+Argentina,Americas,Other,70.58,7.42,244.46,29.03,1022.9,34.0,1991.0,2024.0
+Argentina,Americas,Other Industrial,125.62,2.51,4597.15,287.56,198.45,170.0,1991.0,2024.0
+Argentina,Americas,Pulses,65.45,4.29,188.35,48.67,399.14,238.0,1991.0,2024.0
+Argentina,Americas,Roots & Tubers,96.64,2.26,531.66,31.97,1504.83,102.0,1991.0,2024.0
+Argentina,Americas,Spices,70.91,11.27,207.36,104.41,7.77,102.0,1991.0,2024.0
+Argentina,Americas,Sugar Crops,85.4,4.57,440.68,35.62,1518.54,34.0,1991.0,2024.0
+Argentina,Americas,Vegetables,59.81,0.9,533.85,183.83,242.06,476.0,1991.0,2024.0
+Armenia,Asia,Aggregates,89.13,55.15,131.76,10.67,9.16,56.0,1997.0,2024.0
+Armenia,Asia,Cereals,93.93,60.6,156.35,15.67,-6.82,224.0,1997.0,2024.0
+Armenia,Asia,Dairy & Eggs,87.25,63.23,132.0,8.04,30.56,196.0,1997.0,2024.0
+Armenia,Asia,Fruits,86.51,12.35,280.0,51.26,-31.92,476.0,1997.0,2024.0
+Armenia,Asia,Meat,79.45,15.57,165.56,35.71,69.27,308.0,1997.0,2024.0
+Armenia,Asia,Nuts,74.75,42.1,137.45,14.03,13.54,56.0,1997.0,2024.0
+Armenia,Asia,Other Industrial,155.5,57.62,706.13,269.05,66.78,84.0,1997.0,2024.0
+Armenia,Asia,Pulses,80.33,20.05,373.23,78.52,58.6,168.0,1997.0,2024.0
+Armenia,Asia,Roots & Tubers,88.82,53.69,152.33,30.16,6.84,28.0,1997.0,2024.0
+Armenia,Asia,Sugar Crops,90.87,64.25,130.99,13.5,-3.44,28.0,1997.0,2024.0
+Armenia,Asia,Vegetables,89.57,12.31,224.41,41.54,56.45,448.0,1997.0,2024.0
+Australia,Oceania,Aggregates,87.03,57.31,120.86,8.34,43.41,68.0,1991.0,2024.0
+Australia,Oceania,Beverages,74.4,32.74,163.16,28.15,-17.57,34.0,1991.0,2024.0
+Australia,Oceania,Cereals,82.6,33.94,199.97,20.12,61.47,408.0,1991.0,2024.0
+Australia,Oceania,Dairy & Eggs,88.09,60.01,123.08,11.86,31.77,136.0,1991.0,2024.0
+Australia,Oceania,Fibers,154.29,29.63,356.82,70.02,-21.95,102.0,1991.0,2024.0
+Australia,Oceania,Fruits,89.78,16.83,281.38,50.5,49.26,1075.0,1991.0,2024.0
+Australia,Oceania,Meat,96.58,18.56,253.5,57.32,14.45,578.0,1991.0,2024.0
+Australia,Oceania,Nuts,77.92,18.3,145.66,38.42,2.29,136.0,1991.0,2024.0
+Australia,Oceania,Oilseeds,90.31,29.99,188.41,41.16,-2.77,306.0,1991.0,2024.0
+Australia,Oceania,Other Industrial,78.04,34.01,154.6,19.52,37.74,136.0,1991.0,2024.0
+Australia,Oceania,Pulses,89.7,40.9,243.81,37.97,12.45,306.0,1991.0,2024.0
+Australia,Oceania,Roots & Tubers,95.91,56.65,144.41,33.7,35.28,68.0,1991.0,2024.0
+Australia,Oceania,Spices,80.07,52.52,113.59,7.93,36.6,34.0,1991.0,2024.0
+Australia,Oceania,Sugar Crops,89.29,58.97,130.64,14.43,5.39,34.0,1991.0,2024.0
+Australia,Oceania,Vegetables,89.05,21.99,715.73,51.8,70.59,646.0,1991.0,2024.0
+Austria,Europe,Aggregates,98.67,74.39,157.05,7.52,41.59,68.0,1991.0,2024.0
+Austria,Europe,Beverages,91.84,59.92,159.66,9.63,39.84,34.0,1991.0,2024.0
+Austria,Europe,Cereals,116.66,58.94,231.07,13.9,19.0,365.0,1991.0,2024.0
+Austria,Europe,Dairy & Eggs,95.42,50.82,156.02,23.52,53.01,204.0,1991.0,2024.0
+Austria,Europe,Fruits,89.52,25.55,290.85,43.15,139.3,520.0,1991.0,2024.0
+Austria,Europe,Meat,93.84,37.16,219.45,42.6,34.08,748.0,1991.0,2024.0
+Austria,Europe,Nuts,92.97,62.92,205.42,10.01,115.95,68.0,1991.0,2024.0
+Austria,Europe,Oilseeds,89.91,39.59,190.6,28.55,55.72,228.0,1991.0,2024.0
+Austria,Europe,Other Industrial,101.63,47.28,373.94,124.1,73.65,102.0,1991.0,2024.0
+Austria,Europe,Pulses,93.65,17.53,164.56,123.17,69.05,202.0,1991.0,2024.0
+Austria,Europe,Roots & Tubers,110.25,45.6,392.16,44.59,147.98,34.0,1991.0,2024.0
+Austria,Europe,Sugar Crops,151.21,93.77,242.31,18.67,119.23,34.0,1991.0,2024.0
+Austria,Europe,Vegetables,87.24,25.13,392.16,49.22,-0.67,736.0,1991.0,2024.0
+Azerbaijan,Asia,Aggregates,78.69,2.55,182.54,100.66,52.81,62.0,1994.0,2024.0
+Azerbaijan,Asia,Beverages,63.3,3.41,130.04,94.35,67.15,31.0,1994.0,2024.0
+Azerbaijan,Asia,Cereals,85.65,3.32,404.49,80.57,45.01,298.0,1994.0,2024.0
+Azerbaijan,Asia,Dairy & Eggs,91.51,0.39,283.53,322.65,77.2,246.0,1994.0,2024.0
+Azerbaijan,Asia,Fibers,189.41,4.38,1251.05,183.86,4620.47,93.0,1994.0,2024.0
+Azerbaijan,Asia,Fruits,72.1,0.83,227.5,66.1,-9.83,755.0,1994.0,2024.0
+Azerbaijan,Asia,Meat,83.49,1.37,691.01,74.95,117.22,589.0,1994.0,2024.0
+Azerbaijan,Asia,Nuts,78.35,5.66,240.0,66.47,54.75,208.0,1994.0,2024.0
+Azerbaijan,Asia,Oilseeds,83.92,5.4,207.74,78.02,53.52,155.0,1994.0,2024.0
+Azerbaijan,Asia,Other Industrial,82.39,0.48,498.94,1072.0,39.68,124.0,1994.0,2024.0
+Azerbaijan,Asia,Pulses,66.41,0.75,260.87,58.76,190.81,190.0,1994.0,2024.0
+Azerbaijan,Asia,Roots & Tubers,82.89,4.41,200.39,138.72,44.0,31.0,1994.0,2024.0
+Azerbaijan,Asia,Spices,73.87,4.43,247.67,70.15,150.98,60.0,1994.0,2024.0
+Azerbaijan,Asia,Sugar Crops,84.4,5.83,171.43,137.36,0.0,31.0,1994.0,2024.0
+Azerbaijan,Asia,Vegetables,74.5,1.45,333.92,107.56,-3.23,500.0,1994.0,2024.0
+Bangladesh,Asia,Aggregates,75.36,32.14,144.4,19.09,92.7,68.0,1991.0,2024.0
+Bangladesh,Asia,Beverages,80.13,33.24,125.11,14.84,52.7,34.0,1991.0,2024.0
+Bangladesh,Asia,Cereals,75.25,16.03,145.33,34.93,54.92,304.0,1991.0,2024.0
+Bangladesh,Asia,Dairy & Eggs,76.85,14.49,163.03,77.2,84.44,272.0,1991.0,2024.0
+Bangladesh,Asia,Fibers,76.34,9.83,217.2,82.39,-15.98,238.0,1991.0,2024.0
+Bangladesh,Asia,Fruits,79.04,11.11,307.59,131.34,153.59,510.0,1991.0,2024.0
+Bangladesh,Asia,Meat,81.21,43.78,131.78,10.58,49.28,442.0,1991.0,2024.0
+Bangladesh,Asia,Nuts,66.36,22.07,166.82,22.64,197.41,68.0,1991.0,2024.0
+Bangladesh,Asia,Oilseeds,77.23,21.29,203.64,52.11,45.08,327.0,1991.0,2024.0
+Bangladesh,Asia,Other Industrial,77.81,22.57,138.8,27.82,49.75,102.0,1991.0,2024.0
+Bangladesh,Asia,Pulses,71.68,16.65,140.12,37.85,53.36,238.0,1991.0,2024.0
+Bangladesh,Asia,Roots & Tubers,70.15,13.05,177.41,36.3,174.99,68.0,1991.0,2024.0
+Bangladesh,Asia,Spices,75.95,14.47,192.66,56.77,126.61,102.0,1991.0,2024.0
+Bangladesh,Asia,Sugar Crops,72.38,31.41,136.92,6.84,62.24,68.0,1991.0,2024.0
+Bangladesh,Asia,Vegetables,72.77,13.09,260.94,43.71,108.81,510.0,1991.0,2024.0
+Barbados,Americas,Aggregates,90.48,61.59,120.09,5.25,23.7,68.0,1991.0,2024.0
+Barbados,Americas,Cereals,80.6,34.74,121.54,4.89,32.05,102.0,1991.0,2024.0
+Barbados,Americas,Dairy & Eggs,90.27,63.36,112.92,4.04,17.3,136.0,1991.0,2024.0
+Barbados,Americas,Fruits,93.61,18.92,239.21,43.15,29.95,418.0,1991.0,2024.0
+Barbados,Americas,Meat,84.75,42.02,128.17,13.49,39.25,408.0,1991.0,2024.0
+Barbados,Americas,Oilseeds,86.95,18.7,128.62,24.33,31.89,102.0,1991.0,2024.0
+Barbados,Americas,Pulses,88.59,18.7,137.62,23.41,37.51,102.0,1991.0,2024.0
+Barbados,Americas,Roots & Tubers,80.53,17.15,135.29,36.79,50.01,170.0,1991.0,2024.0
+Barbados,Americas,Sugar Crops,115.51,88.03,169.23,7.47,1.87,34.0,1991.0,2024.0
+Barbados,Americas,Vegetables,94.91,30.76,211.46,36.97,14.0,523.0,1991.0,2024.0
+Belarus,Europe,Aggregates,66.09,0.01,256.9,62.71,915.67,62.0,1994.0,2024.0
+Belarus,Europe,Cereals,72.17,0.01,461.85,70.89,1451.3,292.0,1994.0,2024.0
+Belarus,Europe,Dairy & Eggs,67.86,0.0,301.26,135.41,755.12,174.0,1994.0,2024.0
+Belarus,Europe,Fibers,73.65,4.32,246.85,32.31,798.12,48.0,2000.0,2024.0
+Belarus,Europe,Fruits,83.73,0.0,834.9,254.27,545.7,380.0,1994.0,2024.0
+Belarus,Europe,Meat,77.61,0.0,351.87,82.78,893.61,348.0,1994.0,2024.0
+Belarus,Europe,Nuts,99.11,51.86,139.77,7.69,-13.41,100.0,2000.0,2024.0
+Belarus,Europe,Oilseeds,82.01,0.01,432.82,65.65,2788.63,112.0,1994.0,2024.0
+Belarus,Europe,Other Industrial,84.6,0.01,170.41,184.62,537.6,81.0,1994.0,2024.0
+Belarus,Europe,Pulses,116.47,2.94,827.56,45.29,5309.4,119.0,2000.0,2024.0
+Belarus,Europe,Roots & Tubers,62.45,0.01,234.01,135.81,235.85,31.0,1994.0,2024.0
+Belarus,Europe,Sugar Crops,58.91,0.02,227.31,96.82,952.92,31.0,1994.0,2024.0
+Belarus,Europe,Vegetables,67.14,0.01,283.83,151.88,425.06,345.0,1994.0,2024.0
+Belgium,Europe,Aggregates,109.85,85.39,173.13,12.58,26.05,50.0,2000.0,2024.0
+Belgium,Europe,Beverages,92.59,64.81,130.94,8.06,50.48,25.0,2000.0,2024.0
+Belgium,Europe,Cereals,121.44,60.98,355.73,39.99,29.75,225.0,2000.0,2024.0
+Belgium,Europe,Dairy & Eggs,121.37,79.19,278.01,26.31,59.69,100.0,2000.0,2024.0
+Belgium,Europe,Fibers,98.24,50.79,211.14,17.91,46.59,48.0,2000.0,2024.0
+Belgium,Europe,Fruits,123.91,19.02,322.61,75.81,41.14,275.0,2000.0,2024.0
+Belgium,Europe,Meat,100.45,36.66,196.92,36.27,38.9,400.0,2000.0,2024.0
+Belgium,Europe,Nuts,124.14,88.83,174.84,13.77,31.23,50.0,2000.0,2024.0
+Belgium,Europe,Oilseeds,111.07,63.21,229.73,27.93,26.61,75.0,2000.0,2024.0
+Belgium,Europe,Other Industrial,98.31,67.82,133.71,20.19,35.83,75.0,2000.0,2024.0
+Belgium,Europe,Pulses,103.98,79.17,127.09,8.2,-2.02,75.0,2000.0,2024.0
+Belgium,Europe,Roots & Tubers,116.5,28.3,223.67,71.13,177.15,25.0,2000.0,2024.0
+Belgium,Europe,Sugar Crops,113.23,83.41,174.01,9.14,-22.67,25.0,2000.0,2024.0
+Belgium,Europe,Vegetables,113.89,16.31,272.71,64.61,-7.52,500.0,2000.0,2024.0
+Belize,Americas,Aggregates,89.55,31.49,163.95,39.15,69.35,68.0,1991.0,2024.0
+Belize,Americas,Beverages,106.61,53.72,174.08,62.79,-22.41,61.0,1991.0,2024.0
+Belize,Americas,Cereals,99.62,49.03,318.6,17.8,126.91,170.0,1991.0,2024.0
+Belize,Americas,Dairy & Eggs,80.93,19.97,143.89,36.27,36.52,136.0,1991.0,2024.0
+Belize,Americas,Fruits,101.32,13.35,271.36,59.67,14.69,442.0,1991.0,2024.0
+Belize,Americas,Meat,98.32,35.16,198.24,56.08,12.24,510.0,1991.0,2024.0
+Belize,Americas,Nuts,92.61,58.0,149.07,5.54,94.92,52.0,1999.0,2024.0
+Belize,Americas,Oilseeds,89.93,7.96,285.95,185.81,89.34,136.0,1991.0,2024.0
+Belize,Americas,Other Industrial,84.02,49.67,152.57,8.53,98.97,34.0,1991.0,2024.0
+Belize,Americas,Pulses,88.71,39.3,161.57,53.24,90.4,102.0,1991.0,2024.0
+Belize,Americas,Roots & Tubers,91.26,44.48,147.09,31.42,-35.87,204.0,1991.0,2024.0
+Belize,Americas,Sugar Crops,94.1,47.33,201.09,12.17,121.44,34.0,1991.0,2024.0
+Belize,Americas,Vegetables,94.64,25.51,187.62,41.42,-39.34,392.0,1991.0,2024.0
+Benin,Africa,Aggregates,65.87,3.78,117.83,387.83,10.11,57.0,1991.0,2024.0
+Benin,Africa,Cereals,95.0,21.47,200.38,24.35,46.27,150.0,1991.0,2024.0
+Benin,Africa,Dairy & Eggs,93.79,13.95,112.02,75.43,18.35,67.0,1991.0,2024.0
+Benin,Africa,Fibers,101.11,91.51,111.96,2.61,18.5,32.0,2009.0,2024.0
+Benin,Africa,Oilseeds,101.11,91.51,111.96,3.66,18.5,16.0,2009.0,2024.0
+Benin,Africa,Pulses,107.69,33.63,147.02,34.96,274.81,32.0,2009.0,2024.0
+Benin,Africa,Roots & Tubers,91.87,42.33,142.16,31.6,-35.29,80.0,2009.0,2024.0
+Benin,Africa,Vegetables,99.26,64.53,136.75,13.14,42.08,96.0,2009.0,2024.0
+Bhutan,Asia,Aggregates,67.9,10.34,190.65,17.18,149.53,68.0,1991.0,2024.0
+Bhutan,Asia,Cereals,72.62,8.65,323.14,50.18,239.11,306.0,1991.0,2024.0
+Bhutan,Asia,Dairy & Eggs,60.39,7.72,187.31,29.54,96.61,204.0,1991.0,2024.0
+Bhutan,Asia,Fibers,65.03,4.87,133.22,19.25,40.56,102.0,1991.0,2024.0
+Bhutan,Asia,Fruits,98.26,3.46,539.8,122.69,117.25,406.0,1991.0,2024.0
+Bhutan,Asia,Meat,63.51,4.17,165.15,66.42,157.15,476.0,1991.0,2024.0
+Bhutan,Asia,Nuts,87.57,7.43,226.21,419.79,12.88,76.0,1991.0,2024.0
+Bhutan,Asia,Oilseeds,57.42,4.63,161.54,121.74,-59.03,102.0,1991.0,2024.0
+Bhutan,Asia,Other Industrial,68.41,4.87,123.22,115.41,44.58,68.0,1991.0,2024.0
+Bhutan,Asia,Pulses,57.47,3.35,139.53,110.62,83.8,80.0,1991.0,2024.0
+Bhutan,Asia,Roots & Tubers,70.87,5.28,167.57,38.77,170.07,78.0,1991.0,2024.0
+Bhutan,Asia,Spices,68.71,0.72,420.83,957.4,28.1,136.0,1991.0,2024.0
+Bhutan,Asia,Sugar Crops,71.19,2.43,235.01,80.23,1235.44,34.0,1991.0,2024.0
+Bhutan,Asia,Vegetables,99.56,3.13,456.64,96.08,432.95,456.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Aggregates,64.81,18.54,150.08,22.83,85.92,68.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Beverages,81.18,20.04,178.2,30.39,-34.48,102.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Cereals,70.34,12.25,166.33,43.88,-25.87,374.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Dairy & Eggs,76.53,17.58,221.1,48.51,48.09,204.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Fibers,97.53,30.9,200.75,21.49,83.74,102.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Fruits,97.36,9.23,648.65,100.67,254.35,884.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Meat,74.73,11.86,328.25,70.87,53.22,782.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Nuts,84.71,19.85,233.7,60.37,175.9,136.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Oilseeds,82.35,25.01,189.9,34.84,31.98,170.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Other Industrial,77.53,17.05,171.87,60.23,132.47,136.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Pulses,80.9,18.55,135.7,27.31,9.2,170.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Roots & Tubers,86.07,22.69,299.5,42.59,169.9,136.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Spices,89.94,44.93,151.49,41.95,90.13,68.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Sugar Crops,20.61,3.45,135.83,189.17,269.03,34.0,1991.0,2024.0
+Bolivia (Plurinational State of),Americas,Vegetables,118.29,7.44,810.28,213.24,96.89,612.0,1991.0,2024.0
+Bosnia and Herzegovina,Europe,Aggregates,100.12,47.05,217.61,13.55,51.94,58.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Cereals,103.06,29.3,288.46,28.3,47.8,230.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Dairy & Eggs,110.73,47.62,231.01,31.13,34.9,145.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Fruits,91.56,10.82,346.94,66.72,16.87,585.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Meat,95.93,19.63,248.86,106.69,45.74,435.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Nuts,81.03,19.02,167.73,65.06,10.84,87.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Oilseeds,96.81,30.75,289.15,34.61,14.23,116.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Other Industrial,96.19,37.63,204.82,39.08,69.73,87.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Pulses,90.44,31.92,133.07,21.56,65.07,174.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Roots & Tubers,114.77,49.1,351.85,29.12,123.63,29.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Spices,94.68,60.09,122.14,7.59,10.84,29.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Sugar Crops,97.55,60.09,153.03,7.97,32.63,29.0,1996.0,2024.0
+Bosnia and Herzegovina,Europe,Vegetables,93.08,11.8,351.85,65.26,45.77,417.0,1996.0,2024.0
+Botswana,Africa,Aggregates,66.4,14.92,119.3,98.37,150.24,68.0,1991.0,2024.0
+Botswana,Africa,Cereals,57.42,5.92,160.68,47.79,255.75,149.0,1991.0,2024.0
+Botswana,Africa,Dairy & Eggs,79.14,40.5,119.3,10.21,4.85,68.0,1991.0,2024.0
+Botswana,Africa,Fruits,92.98,49.71,151.51,9.92,,28.0,2011.0,2024.0
+Botswana,Africa,Oilseeds,86.59,29.51,155.25,28.43,32.9,102.0,1991.0,2024.0
+Botswana,Africa,Pulses,42.62,4.71,113.36,65.49,434.28,68.0,1991.0,2024.0
+Botswana,Africa,Vegetables,92.98,49.71,151.51,13.35,,14.0,2011.0,2024.0
+Brazil,Americas,Aggregates,69.76,0.0,259.11,445.38,269.83,68.0,1991.0,2024.0
+Brazil,Americas,Beverages,77.38,0.0,300.81,790.86,1408.41,102.0,1991.0,2024.0
+Brazil,Americas,Cereals,87.66,0.0,474.55,175.35,308.26,365.0,1991.0,2024.0
+Brazil,Americas,Dairy & Eggs,65.18,0.0,275.37,309.77,401.6,204.0,1991.0,2024.0
+Brazil,Americas,Fibers,81.94,0.0,605.58,2049.47,83.73,306.0,1991.0,2024.0
+Brazil,Americas,Fruits,81.68,0.0,576.12,246.29,318.53,816.0,1991.0,2024.0
+Brazil,Americas,Meat,72.21,0.0,140.96,79.02,1.49,646.0,1991.0,2024.0
+Brazil,Americas,Nuts,72.4,0.0,248.41,629.68,-11.47,170.0,1991.0,2024.0
+Brazil,Americas,Oilseeds,87.12,0.0,420.9,466.0,110.42,476.0,1991.0,2024.0
+Brazil,Americas,Other,81.08,0.0,251.13,767.06,182.21,34.0,1991.0,2024.0
+Brazil,Americas,Other Industrial,72.43,0.0,321.19,1215.24,12.39,271.0,1991.0,2024.0
+Brazil,Americas,Pulses,65.26,0.0,215.16,317.92,150.86,136.0,1991.0,2024.0
+Brazil,Americas,Roots & Tubers,78.44,0.0,387.9,206.29,346.77,136.0,1991.0,2024.0
+Brazil,Americas,Spices,75.78,0.0,208.39,928.55,90.58,34.0,1991.0,2024.0
+Brazil,Americas,Sugar Crops,74.01,0.0,262.92,568.93,258.57,34.0,1991.0,2024.0
+Brazil,Americas,Vegetables,67.09,0.0,299.1,1014.4,405.53,238.0,1991.0,2024.0
+Brunei Darussalam,Asia,Aggregates,86.44,66.83,112.45,15.16,23.26,68.0,1991.0,2024.0
+Brunei Darussalam,Asia,Cereals,140.13,19.08,253.99,312.25,-44.79,102.0,1991.0,2024.0
+Brunei Darussalam,Asia,Dairy & Eggs,82.58,53.4,107.19,15.81,-9.65,170.0,1991.0,2024.0
+Brunei Darussalam,Asia,Fruits,91.35,14.32,179.77,53.72,-48.63,599.0,1991.0,2024.0
+Brunei Darussalam,Asia,Meat,82.56,33.26,157.53,40.43,43.37,374.0,1991.0,2024.0
+Brunei Darussalam,Asia,Oilseeds,101.5,48.35,341.59,26.8,456.38,68.0,1991.0,2024.0
+Brunei Darussalam,Asia,Roots & Tubers,95.7,19.83,233.35,46.99,131.95,202.0,1991.0,2024.0
+Brunei Darussalam,Asia,Spices,79.45,35.15,129.76,29.86,17.47,136.0,1991.0,2024.0
+Brunei Darussalam,Asia,Vegetables,94.26,49.47,245.28,29.33,20.71,511.0,1991.0,2024.0
+Bulgaria,Europe,Aggregates,94.62,43.83,175.39,11.86,60.63,54.0,1998.0,2024.0
+Bulgaria,Europe,Beverages,86.68,40.14,168.5,39.28,137.76,27.0,1998.0,2024.0
+Bulgaria,Europe,Cereals,95.43,34.25,226.04,26.0,92.3,351.0,1998.0,2024.0
+Bulgaria,Europe,Dairy & Eggs,94.9,25.17,265.04,31.72,73.59,216.0,1998.0,2024.0
+Bulgaria,Europe,Fibers,103.42,85.07,175.78,13.1,81.55,108.0,1998.0,2024.0
+Bulgaria,Europe,Fruits,90.93,14.76,235.44,60.55,-18.53,486.0,1998.0,2024.0
+Bulgaria,Europe,Meat,96.21,15.77,299.36,50.47,4.72,702.0,1998.0,2024.0
+Bulgaria,Europe,Nuts,91.42,37.19,420.72,68.27,2.46,162.0,1998.0,2024.0
+Bulgaria,Europe,Oilseeds,90.98,35.57,192.06,33.2,12.39,324.0,1998.0,2024.0
+Bulgaria,Europe,Other Industrial,90.48,13.36,249.19,130.46,28.75,135.0,1998.0,2024.0
+Bulgaria,Europe,Pulses,78.86,37.0,193.42,37.62,-1.38,189.0,1998.0,2024.0
+Bulgaria,Europe,Roots & Tubers,104.49,57.21,196.01,22.69,-11.84,54.0,1998.0,2024.0
+Bulgaria,Europe,Spices,96.26,32.46,273.92,42.44,5.09,108.0,1998.0,2024.0
+Bulgaria,Europe,Sugar Crops,114.0,88.67,140.43,11.8,-36.86,27.0,1998.0,2024.0
+Bulgaria,Europe,Vegetables,96.14,9.12,1184.29,119.96,-38.48,567.0,1998.0,2024.0
+Burkina Faso,Africa,Aggregates,87.09,38.49,160.21,14.8,52.2,68.0,1991.0,2024.0
+Burkina Faso,Africa,Cereals,101.4,28.85,380.18,45.46,104.81,238.0,1991.0,2024.0
+Burkina Faso,Africa,Dairy & Eggs,82.77,36.92,126.88,8.76,13.5,170.0,1991.0,2024.0
+Burkina Faso,Africa,Fibers,79.85,39.8,106.26,7.35,15.03,102.0,1991.0,2024.0
+Burkina Faso,Africa,Fruits,87.9,10.67,263.81,59.98,31.2,340.0,1991.0,2024.0
+Burkina Faso,Africa,Meat,83.34,13.65,406.77,75.29,15.91,612.0,1991.0,2024.0
+Burkina Faso,Africa,Nuts,84.08,38.47,134.31,11.05,14.72,102.0,1991.0,2024.0
+Burkina Faso,Africa,Oilseeds,80.93,23.75,133.33,43.76,13.67,204.0,1991.0,2024.0
+Burkina Faso,Africa,Other Industrial,80.28,34.53,114.74,22.96,-8.38,34.0,1991.0,2024.0
+Burkina Faso,Africa,Pulses,88.0,37.97,148.14,21.18,10.77,136.0,1991.0,2024.0
+Burkina Faso,Africa,Roots & Tubers,75.01,7.72,128.11,157.99,16.69,136.0,1991.0,2024.0
+Burkina Faso,Africa,Spices,87.05,41.39,131.34,17.37,12.05,34.0,1991.0,2024.0
+Burkina Faso,Africa,Sugar Crops,83.33,39.25,124.56,17.72,12.9,34.0,1991.0,2024.0
+Burkina Faso,Africa,Vegetables,95.35,53.35,194.58,41.79,-1.32,306.0,1991.0,2024.0
+Burundi,Africa,Aggregates,67.26,4.95,157.98,33.7,33.97,68.0,1991.0,2024.0
+Burundi,Africa,Beverages,103.41,9.05,661.17,476.88,51.0,68.0,1991.0,2024.0
+Burundi,Africa,Cereals,72.8,4.88,177.7,132.68,-0.24,271.0,1991.0,2024.0
+Burundi,Africa,Dairy & Eggs,61.55,2.7,136.67,39.61,37.54,204.0,1991.0,2024.0
+Burundi,Africa,Fibers,104.77,9.98,336.25,121.11,-62.39,102.0,1991.0,2024.0
+Burundi,Africa,Fruits,74.02,4.28,137.11,54.46,12.42,169.0,1991.0,2024.0
+Burundi,Africa,Meat,71.16,3.27,220.83,337.23,80.51,475.0,1991.0,2024.0
+Burundi,Africa,Oilseeds,67.97,1.54,145.04,219.7,85.19,170.0,1991.0,2024.0
+Burundi,Africa,Other Industrial,62.28,0.69,131.77,890.77,69.17,102.0,1991.0,2024.0
+Burundi,Africa,Pulses,78.87,6.62,175.45,89.06,24.48,170.0,1991.0,2024.0
+Burundi,Africa,Roots & Tubers,68.91,4.11,210.02,71.24,30.82,170.0,1991.0,2024.0
+Burundi,Africa,Sugar Crops,120.81,90.68,133.62,5.57,14.93,28.0,1997.0,2024.0
+Burundi,Africa,Vegetables,63.85,7.21,134.12,35.49,51.7,136.0,1991.0,2024.0
+Cabo Verde,Africa,Aggregates,88.51,45.6,113.99,16.62,19.69,68.0,1991.0,2024.0
+Cabo Verde,Africa,Cereals,72.38,19.04,114.04,11.14,2.06,117.0,1991.0,2024.0
+Cabo Verde,Africa,Dairy & Eggs,84.84,34.65,128.26,21.41,23.04,170.0,1991.0,2024.0
+Cabo Verde,Africa,Fruits,93.75,45.17,123.22,14.65,37.41,204.0,1991.0,2024.0
+Cabo Verde,Africa,Meat,95.06,43.77,175.51,19.45,21.62,374.0,1991.0,2024.0
+Cabo Verde,Africa,Oilseeds,98.44,75.85,123.22,2.74,-1.3,102.0,1991.0,2024.0
+Cabo Verde,Africa,Pulses,104.9,74.46,128.0,7.65,-3.69,68.0,1991.0,2024.0
+Cabo Verde,Africa,Roots & Tubers,86.61,37.48,147.95,32.62,46.76,102.0,1991.0,2024.0
+Cabo Verde,Africa,Spices,239.05,79.48,470.32,17.9,1.53,34.0,1991.0,2024.0
+Cabo Verde,Africa,Sugar Crops,98.76,75.85,123.22,4.61,1.65,34.0,1991.0,2024.0
+Cabo Verde,Africa,Vegetables,89.48,18.73,173.13,38.57,42.23,476.0,1991.0,2024.0
+Cambodia,Asia,Aggregates,77.38,9.61,148.24,21.85,55.83,68.0,1991.0,2024.0
+Cambodia,Asia,Beverages,71.4,7.46,120.12,26.55,36.43,34.0,1991.0,2024.0
+Cambodia,Asia,Cereals,73.12,4.56,150.2,29.28,29.76,136.0,1991.0,2024.0
+Cambodia,Asia,Dairy & Eggs,76.53,5.05,125.51,27.25,28.28,170.0,1991.0,2024.0
+Cambodia,Asia,Fibers,76.11,14.57,147.99,26.14,62.19,204.0,1991.0,2024.0
+Cambodia,Asia,Fruits,74.92,5.63,161.14,56.28,92.38,340.0,1991.0,2024.0
+Cambodia,Asia,Meat,77.52,2.58,189.84,68.53,31.01,374.0,1991.0,2024.0
+Cambodia,Asia,Nuts,73.69,14.57,145.75,20.42,61.45,68.0,1991.0,2024.0
+Cambodia,Asia,Oilseeds,72.1,5.57,182.45,31.48,61.6,272.0,1991.0,2024.0
+Cambodia,Asia,Other Industrial,76.52,13.62,119.75,27.83,30.85,102.0,1991.0,2024.0
+Cambodia,Asia,Pulses,72.66,9.6,155.94,23.72,71.66,68.0,1991.0,2024.0
+Cambodia,Asia,Roots & Tubers,90.23,20.55,188.97,59.0,80.72,161.0,1991.0,2024.0
+Cambodia,Asia,Spices,78.82,12.16,141.86,48.19,30.85,68.0,1991.0,2024.0
+Cambodia,Asia,Sugar Crops,66.18,7.4,134.36,61.62,60.21,34.0,1991.0,2024.0
+Cambodia,Asia,Vegetables,81.83,5.11,429.98,131.03,58.75,127.0,1991.0,2024.0
+Cameroon,Africa,Aggregates,81.62,36.43,124.49,23.42,22.43,68.0,1991.0,2024.0
+Cameroon,Africa,Beverages,83.82,16.8,221.96,46.37,83.62,102.0,1991.0,2024.0
+Cameroon,Africa,Cereals,80.26,24.05,143.44,25.8,40.23,238.0,1991.0,2024.0
+Cameroon,Africa,Dairy & Eggs,85.62,42.43,122.59,8.94,22.37,136.0,1991.0,2024.0
+Cameroon,Africa,Fibers,87.06,38.18,108.86,6.24,2.94,102.0,1991.0,2024.0
+Cameroon,Africa,Fruits,86.47,31.8,162.51,27.24,17.61,544.0,1991.0,2024.0
+Cameroon,Africa,Meat,87.65,27.33,124.16,19.46,24.6,544.0,1991.0,2024.0
+Cameroon,Africa,Nuts,90.33,53.92,126.44,7.42,17.61,153.0,1991.0,2024.0
+Cameroon,Africa,Oilseeds,84.01,26.71,115.45,26.45,17.61,306.0,1991.0,2024.0
+Cameroon,Africa,Other Industrial,78.34,10.88,125.96,93.04,19.11,136.0,1991.0,2024.0
+Cameroon,Africa,Pulses,86.55,20.87,125.78,35.13,13.24,167.0,1991.0,2024.0
+Cameroon,Africa,Roots & Tubers,77.42,14.95,156.7,49.71,5.74,204.0,1991.0,2024.0
+Cameroon,Africa,Spices,79.09,19.28,109.62,26.37,-1.54,102.0,1991.0,2024.0
+Cameroon,Africa,Vegetables,85.08,18.31,318.07,49.26,17.61,442.0,1991.0,2024.0
+Canada,Americas,Aggregates,88.45,51.92,162.95,12.91,74.87,68.0,1991.0,2024.0
+Canada,Americas,Cereals,87.95,27.95,249.69,26.06,148.9,374.0,1991.0,2024.0
+Canada,Americas,Dairy & Eggs,90.42,58.06,152.93,15.8,76.18,136.0,1991.0,2024.0
+Canada,Americas,Fibers,85.8,63.59,136.68,4.6,62.74,68.0,1991.0,2024.0
+Canada,Americas,Fruits,96.01,20.49,396.78,56.89,90.53,612.0,1991.0,2024.0
+Canada,Americas,Meat,82.52,34.8,182.47,31.29,151.49,612.0,1991.0,2024.0
+Canada,Americas,Oilseeds,88.6,27.23,243.57,24.39,62.42,238.0,1991.0,2024.0
+Canada,Americas,Other Industrial,98.78,38.38,222.19,47.4,39.58,102.0,1991.0,2024.0
+Canada,Americas,Pulses,77.4,18.09,200.62,50.93,80.58,204.0,1991.0,2024.0
+Canada,Americas,Roots & Tubers,86.89,51.04,161.45,9.37,60.89,34.0,1991.0,2024.0
+Canada,Americas,Spices,86.13,63.59,139.0,6.33,65.33,34.0,1991.0,2024.0
+Canada,Americas,Sugar Crops,80.08,47.75,114.73,10.04,21.77,34.0,1991.0,2024.0
+Canada,Americas,Vegetables,87.14,41.47,380.47,23.44,55.51,694.0,1991.0,2024.0
+Central African Republic,Africa,Aggregates,63.7,1.61,110.61,431.29,,21.0,1991.0,2024.0
+Central African Republic,Africa,Cereals,85.24,24.1,110.61,21.86,,76.0,1991.0,2024.0
+Central African Republic,Africa,Fruits,96.69,66.16,111.0,9.81,,65.0,2012.0,2024.0
+Central African Republic,Africa,Roots & Tubers,102.27,86.71,116.46,7.79,,39.0,2012.0,2024.0
+Central African Republic,Africa,Vegetables,100.06,67.96,110.61,12.55,,13.0,2012.0,2024.0
+Chad,Africa,Aggregates,101.4,77.93,131.31,13.47,-10.31,36.0,2007.0,2024.0
+Chad,Africa,Cereals,99.73,38.44,296.05,36.83,-8.86,144.0,2007.0,2024.0
+Chad,Africa,Dairy & Eggs,101.18,69.99,131.31,5.98,-42.67,126.0,2007.0,2024.0
+Chad,Africa,Fibers,100.64,77.75,131.31,8.25,-23.91,54.0,2007.0,2024.0
+Chad,Africa,Fruits,97.79,53.61,174.82,20.12,-51.82,90.0,2007.0,2024.0
+Chad,Africa,Meat,96.71,63.86,146.7,11.63,-36.69,126.0,2007.0,2024.0
+Chad,Africa,Oilseeds,103.07,55.85,148.88,21.63,-23.91,90.0,2007.0,2024.0
+Chad,Africa,Pulses,118.14,70.3,209.44,23.56,-39.46,54.0,2007.0,2024.0
+Chad,Africa,Roots & Tubers,100.78,55.17,137.47,27.05,-14.95,90.0,2007.0,2024.0
+Chad,Africa,Sugar Crops,102.04,73.46,131.31,7.5,-39.88,18.0,2007.0,2024.0
+Chad,Africa,Vegetables,100.51,44.77,157.92,38.74,-13.7,90.0,2007.0,2024.0
+Chile,Americas,Aggregates,74.7,20.09,194.34,49.1,244.47,68.0,1991.0,2024.0
+Chile,Americas,Cereals,94.21,8.46,312.53,84.16,192.56,293.0,1991.0,2024.0
+Chile,Americas,Dairy & Eggs,81.18,25.15,217.91,19.29,23.81,170.0,1991.0,2024.0
+Chile,Americas,Fibers,76.8,50.97,109.22,12.92,37.18,170.0,1991.0,2024.0
+Chile,Americas,Fruits,69.18,0.21,274.47,287.74,647.41,750.0,1991.0,2024.0
+Chile,Americas,Meat,81.0,25.77,245.26,37.07,41.11,508.0,1991.0,2024.0
+Chile,Americas,Nuts,76.68,47.84,116.12,14.54,-12.66,136.0,1991.0,2024.0
+Chile,Americas,Oilseeds,81.47,50.68,116.66,21.6,41.95,170.0,1991.0,2024.0
+Chile,Americas,Other Industrial,73.15,14.84,131.86,19.14,49.33,102.0,1991.0,2024.0
+Chile,Americas,Pulses,63.6,9.53,217.25,82.87,355.47,204.0,1991.0,2024.0
+Chile,Americas,Roots & Tubers,67.18,18.17,129.59,33.0,163.43,68.0,1991.0,2024.0
+Chile,Americas,Sugar Crops,100.12,61.21,203.94,12.6,189.72,34.0,1991.0,2024.0
+Chile,Americas,Vegetables,74.19,6.98,752.99,80.55,57.27,713.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Aggregates,73.15,21.73,146.71,62.17,162.11,68.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Dairy & Eggs,73.52,19.22,145.14,45.04,84.78,170.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Fruits,65.16,8.97,138.46,85.74,109.99,78.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Meat,62.1,10.63,176.29,52.01,135.29,306.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Roots & Tubers,58.92,8.82,136.9,125.27,160.41,68.0,1991.0,2024.0
+"China, Hong Kong SAR",Other,Vegetables,64.21,9.08,156.22,75.82,180.9,501.0,1991.0,2024.0
+"China, mainland",Asia,Aggregates,89.81,28.68,128.17,33.25,43.64,68.0,1991.0,2024.0
+"China, mainland",Asia,Beverages,77.64,21.42,179.05,32.88,-18.14,102.0,1991.0,2024.0
+"China, mainland",Asia,Cereals,76.95,2.85,233.62,91.02,-34.58,442.0,1991.0,2024.0
+"China, mainland",Asia,Dairy & Eggs,90.69,17.94,176.52,58.93,13.53,306.0,1991.0,2024.0
+"China, mainland",Asia,Fibers,97.0,32.28,408.59,103.47,77.77,306.0,1991.0,2024.0
+"China, mainland",Asia,Fruits,86.04,0.96,338.57,314.4,2.21,1020.0,1991.0,2024.0
+"China, mainland",Asia,Meat,75.38,7.91,338.46,46.54,42.61,1020.0,1991.0,2024.0
+"China, mainland",Asia,Nuts,73.37,10.6,237.4,46.51,80.51,272.0,1991.0,2024.0
+"China, mainland",Asia,Oilseeds,79.77,5.3,317.8,131.87,45.33,611.0,1991.0,2024.0
+"China, mainland",Asia,Other Industrial,70.31,10.76,150.6,53.28,-12.01,306.0,1991.0,2024.0
+"China, mainland",Asia,Pulses,70.35,17.11,138.47,31.83,-32.47,238.0,1991.0,2024.0
+"China, mainland",Asia,Roots & Tubers,103.16,10.43,395.41,114.16,-14.83,170.0,1991.0,2024.0
+"China, mainland",Asia,Spices,76.48,12.14,295.87,103.84,32.16,272.0,1991.0,2024.0
+"China, mainland",Asia,Sugar Crops,68.8,5.92,251.19,180.91,49.9,68.0,1991.0,2024.0
+"China, mainland",Asia,Vegetables,85.42,7.37,373.59,164.21,42.6,850.0,1991.0,2024.0
+Colombia,Americas,Aggregates,86.66,11.36,253.02,15.08,170.02,68.0,1991.0,2024.0
+Colombia,Americas,Beverages,81.02,8.12,257.94,37.82,131.05,68.0,1991.0,2024.0
+Colombia,Americas,Cereals,84.87,1.6,544.14,136.69,-1.35,271.0,1991.0,2024.0
+Colombia,Americas,Dairy & Eggs,88.68,11.76,266.52,11.02,172.99,136.0,1991.0,2024.0
+Colombia,Americas,Fibers,69.67,11.13,131.78,26.76,59.06,136.0,1991.0,2024.0
+Colombia,Americas,Fruits,92.21,5.61,606.25,77.4,603.09,694.0,1991.0,2024.0
+Colombia,Americas,Meat,85.58,9.79,560.26,38.73,62.04,510.0,1991.0,2024.0
+Colombia,Americas,Nuts,86.64,32.53,126.12,5.34,41.58,54.0,1998.0,2024.0
+Colombia,Americas,Oilseeds,76.01,3.38,357.18,116.73,626.98,271.0,1991.0,2024.0
+Colombia,Americas,Other Industrial,76.45,13.03,291.11,20.27,150.39,136.0,1991.0,2024.0
+Colombia,Americas,Pulses,85.71,10.64,334.7,52.23,153.91,215.0,1991.0,2024.0
+Colombia,Americas,Roots & Tubers,94.18,6.57,766.28,59.79,387.84,136.0,1991.0,2024.0
+Colombia,Americas,Spices,89.59,33.64,143.43,12.33,43.89,34.0,1991.0,2024.0
+Colombia,Americas,Sugar Crops,75.08,14.21,134.13,20.52,57.05,34.0,1991.0,2024.0
+Colombia,Americas,Vegetables,95.94,4.34,464.69,87.35,46.65,680.0,1991.0,2024.0
+Congo,Africa,Aggregates,63.9,10.41,134.95,78.56,77.4,68.0,1991.0,2024.0
+Congo,Africa,Beverages,97.69,39.68,390.91,68.04,-3.1,68.0,1991.0,2024.0
+Congo,Africa,Cereals,64.73,7.39,139.42,14.04,40.13,170.0,1991.0,2024.0
+Congo,Africa,Dairy & Eggs,84.72,30.09,118.39,48.57,4.89,136.0,1991.0,2024.0
+Congo,Africa,Fruits,64.81,7.73,155.59,71.74,64.36,476.0,1991.0,2024.0
+Congo,Africa,Meat,78.07,9.51,120.42,71.4,49.4,408.0,1991.0,2024.0
+Congo,Africa,Oilseeds,72.69,6.41,142.58,145.28,55.96,238.0,1991.0,2024.0
+Congo,Africa,Other Industrial,84.18,32.45,364.8,105.66,-3.17,102.0,1991.0,2024.0
+Congo,Africa,Pulses,65.21,21.47,131.12,11.05,17.68,102.0,1991.0,2024.0
+Congo,Africa,Roots & Tubers,69.14,6.08,148.89,73.9,107.28,170.0,1991.0,2024.0
+Congo,Africa,Sugar Crops,79.74,29.55,118.39,40.54,-5.44,34.0,1991.0,2024.0
+Congo,Africa,Vegetables,83.55,8.1,204.85,148.96,8.06,476.0,1991.0,2024.0
+Cook Islands,Oceania,Aggregates,67.99,21.0,213.59,21.0,195.68,68.0,1991.0,2024.0
+Cook Islands,Oceania,Beverages,83.27,48.36,138.82,19.84,101.01,34.0,1991.0,2024.0
+Cook Islands,Oceania,Dairy & Eggs,63.93,23.03,116.92,10.76,82.2,68.0,1991.0,2024.0
+Cook Islands,Oceania,Fruits,68.68,11.61,296.93,23.54,64.34,408.0,1991.0,2024.0
+Cook Islands,Oceania,Meat,65.43,22.76,125.21,13.55,73.47,306.0,1991.0,2024.0
+Cook Islands,Oceania,Oilseeds,78.26,13.82,307.32,18.77,350.87,68.0,1991.0,2024.0
+Cook Islands,Oceania,Other Industrial,62.3,26.6,113.25,10.45,56.75,34.0,1991.0,2024.0
+Cook Islands,Oceania,Roots & Tubers,81.78,21.03,438.46,30.53,313.28,136.0,1991.0,2024.0
+Cook Islands,Oceania,Spices,66.31,19.34,132.0,14.04,104.01,34.0,1991.0,2024.0
+Cook Islands,Oceania,Vegetables,62.6,23.79,156.29,8.37,48.64,136.0,1991.0,2024.0
+Costa Rica,Americas,Aggregates,80.56,11.14,153.98,98.03,47.7,68.0,1991.0,2024.0
+Costa Rica,Americas,Beverages,81.4,8.8,182.57,121.65,5.85,68.0,1991.0,2024.0
+Costa Rica,Americas,Cereals,62.22,7.78,134.39,31.48,11.46,170.0,1991.0,2024.0
+Costa Rica,Americas,Dairy & Eggs,187.19,28.45,784.91,358.5,-68.84,170.0,1991.0,2024.0
+Costa Rica,Americas,Fibers,80.17,22.91,117.03,5.57,27.17,136.0,1991.0,2024.0
+Costa Rica,Americas,Fruits,78.84,1.83,246.58,248.67,248.94,588.0,1991.0,2024.0
+Costa Rica,Americas,Meat,96.94,42.22,166.36,26.0,4.15,374.0,1991.0,2024.0
+Costa Rica,Americas,Nuts,78.6,23.83,122.28,13.92,36.73,68.0,1991.0,2024.0
+Costa Rica,Americas,Oilseeds,75.6,12.82,175.37,38.16,51.35,238.0,1991.0,2024.0
+Costa Rica,Americas,Other Industrial,83.87,12.76,116.99,69.32,-1.09,102.0,1991.0,2024.0
+Costa Rica,Americas,Pulses,53.84,7.91,142.56,17.98,70.83,68.0,1991.0,2024.0
+Costa Rica,Americas,Roots & Tubers,82.48,6.58,309.44,130.31,312.82,151.0,1991.0,2024.0
+Costa Rica,Americas,Spices,81.73,20.81,173.54,45.41,116.79,68.0,1991.0,2024.0
+Costa Rica,Americas,Sugar Crops,65.95,12.54,107.92,7.74,19.15,34.0,1991.0,2024.0
+Costa Rica,Americas,Vegetables,80.72,4.52,283.99,96.31,20.91,332.0,1991.0,2024.0
+Croatia,Europe,Aggregates,84.94,2.87,170.65,152.32,-78.66,66.0,1992.0,2024.0
+Croatia,Europe,Cereals,95.87,2.18,243.22,172.44,-81.95,427.0,1992.0,2024.0
+Croatia,Europe,Dairy & Eggs,78.36,1.78,127.87,94.92,-75.83,197.0,1992.0,2024.0
+Croatia,Europe,Fruits,102.22,0.98,275.93,177.63,-76.91,673.0,1992.0,2024.0
+Croatia,Europe,Meat,103.47,1.85,426.75,296.79,22.7,646.0,1992.0,2024.0
+Croatia,Europe,Nuts,65.34,9.2,153.16,87.94,24.89,131.0,1992.0,2024.0
+Croatia,Europe,Oilseeds,95.83,2.32,205.1,124.58,-80.94,198.0,1992.0,2024.0
+Croatia,Europe,Other Industrial,95.9,1.5,193.83,131.18,-83.18,99.0,1992.0,2024.0
+Croatia,Europe,Pulses,105.02,1.84,415.15,653.81,-84.66,263.0,1992.0,2024.0
+Croatia,Europe,Roots & Tubers,99.12,3.45,173.48,159.81,-75.89,60.0,1992.0,2024.0
+Croatia,Europe,Sugar Crops,101.75,4.65,135.3,202.98,-82.79,32.0,1992.0,2023.0
+Croatia,Europe,Vegetables,93.26,0.94,564.52,170.6,22.95,684.0,1992.0,2024.0
+Cuba,Americas,Aggregates,76.42,8.21,174.02,59.37,75.8,58.0,1996.0,2024.0
+Cuba,Americas,Beverages,72.71,8.17,152.29,79.86,409.89,58.0,1996.0,2024.0
+Cuba,Americas,Cereals,66.37,4.16,158.55,122.75,125.24,116.0,1996.0,2024.0
+Cuba,Americas,Dairy & Eggs,80.71,15.05,211.08,56.53,9.49,145.0,1996.0,2024.0
+Cuba,Americas,Fruits,73.79,2.8,179.2,123.29,34.39,406.0,1996.0,2024.0
+Cuba,Americas,Meat,88.54,10.11,118.03,93.89,9.63,319.0,1996.0,2024.0
+Cuba,Americas,Oilseeds,79.3,11.67,141.33,79.38,75.88,87.0,1996.0,2024.0
+Cuba,Americas,Other Industrial,64.63,4.54,172.38,220.37,1828.19,58.0,1996.0,2024.0
+Cuba,Americas,Pulses,76.07,4.28,170.89,91.86,103.02,58.0,1996.0,2024.0
+Cuba,Americas,Roots & Tubers,74.92,4.11,170.71,44.22,24.67,145.0,1996.0,2024.0
+Cuba,Americas,Spices,73.21,13.41,102.5,110.1,-1.35,29.0,1996.0,2024.0
+Cuba,Americas,Vegetables,77.8,3.25,208.1,96.61,48.1,290.0,1996.0,2024.0
+Cyprus,Asia,Aggregates,85.23,46.39,128.74,16.73,13.03,68.0,1991.0,2024.0
+Cyprus,Asia,Cereals,95.26,55.96,201.93,25.8,87.97,180.0,1991.0,2024.0
+Cyprus,Asia,Dairy & Eggs,82.62,37.0,164.18,19.35,2.61,204.0,1991.0,2024.0
+Cyprus,Asia,Fruits,107.82,24.41,326.92,55.9,48.12,850.0,1991.0,2024.0
+Cyprus,Asia,Meat,93.47,21.93,310.33,48.6,43.92,646.0,1991.0,2024.0
+Cyprus,Asia,Nuts,97.82,31.92,176.21,45.54,59.74,170.0,1991.0,2024.0
+Cyprus,Asia,Oilseeds,101.49,58.26,200.95,36.08,-18.85,136.0,1991.0,2024.0
+Cyprus,Asia,Other Industrial,106.82,61.19,276.13,81.89,35.15,102.0,1991.0,2024.0
+Cyprus,Asia,Pulses,96.72,25.59,203.02,65.65,-50.62,272.0,1991.0,2024.0
+Cyprus,Asia,Roots & Tubers,108.88,48.74,215.69,43.59,-4.83,68.0,1991.0,2024.0
+Cyprus,Asia,Vegetables,105.19,1.33,256.83,433.57,-6.23,816.0,1991.0,2024.0
+Czechia,Europe,Aggregates,97.85,66.68,152.67,11.28,72.02,64.0,1993.0,2024.0
+Czechia,Europe,Beverages,92.15,58.3,147.02,13.68,40.61,32.0,1993.0,2024.0
+Czechia,Europe,Cereals,94.69,50.61,179.05,15.27,121.04,352.0,1993.0,2024.0
+Czechia,Europe,Dairy & Eggs,100.18,71.12,210.12,13.06,84.98,192.0,1993.0,2024.0
+Czechia,Europe,Fibers,119.25,72.61,160.6,10.28,44.8,62.0,1993.0,2024.0
+Czechia,Europe,Fruits,97.07,23.3,272.07,52.03,255.47,480.0,1993.0,2024.0
+Czechia,Europe,Meat,93.54,25.13,142.61,25.38,5.57,701.0,1993.0,2024.0
+Czechia,Europe,Nuts,63.25,31.92,130.42,9.61,35.11,64.0,1993.0,2024.0
+Czechia,Europe,Oilseeds,85.54,35.51,178.6,29.5,105.08,256.0,1993.0,2024.0
+Czechia,Europe,Other Industrial,79.27,25.33,123.3,33.53,27.99,64.0,1993.0,2024.0
+Czechia,Europe,Pulses,84.81,41.2,119.64,14.24,28.17,224.0,1993.0,2024.0
+Czechia,Europe,Roots & Tubers,91.11,44.26,208.15,44.01,168.31,32.0,1993.0,2024.0
+Czechia,Europe,Spices,89.57,63.53,135.06,15.64,-11.73,32.0,1993.0,2024.0
+Czechia,Europe,Sugar Crops,101.07,81.25,154.16,10.89,22.25,32.0,1993.0,2024.0
+Czechia,Europe,Vegetables,92.57,24.21,270.25,46.43,7.22,601.0,1993.0,2024.0
+CÃ´te d'Ivoire,Other,Aggregates,74.5,27.05,125.23,23.15,19.29,68.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Beverages,83.61,24.89,141.75,65.9,-17.4,68.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Cereals,73.88,20.38,201.62,46.52,9.32,238.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Dairy & Eggs,136.15,33.55,429.26,182.88,19.98,136.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Fibers,83.33,34.27,119.36,14.95,-1.83,102.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Fruits,125.31,30.32,2190.79,333.09,-5.22,463.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Meat,98.03,8.65,514.71,174.72,50.89,442.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Nuts,91.37,9.86,217.53,83.16,37.47,204.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Oilseeds,78.34,3.25,248.96,284.65,94.4,340.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Other Industrial,75.67,13.41,187.39,167.36,-67.25,102.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Pulses,74.02,19.89,181.95,11.57,231.78,68.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Roots & Tubers,80.45,11.34,281.86,50.52,47.5,199.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Spices,74.63,4.88,221.77,74.22,41.38,121.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Sugar Crops,74.06,22.83,123.1,13.12,29.28,34.0,1991.0,2024.0
+CÃ´te d'Ivoire,Other,Vegetables,89.49,15.88,313.04,113.38,19.1,408.0,1991.0,2024.0
+Denmark,Europe,Aggregates,102.09,77.01,161.25,10.09,67.89,68.0,1991.0,2024.0
+Denmark,Europe,Cereals,105.83,65.86,201.43,12.49,87.78,251.0,1991.0,2024.0
+Denmark,Europe,Dairy & Eggs,96.27,58.6,165.26,19.66,17.17,136.0,1991.0,2024.0
+Denmark,Europe,Fruits,97.57,28.4,359.01,83.83,83.93,368.0,1991.0,2024.0
+Denmark,Europe,Meat,92.27,26.28,197.73,30.07,-4.56,612.0,1991.0,2024.0
+Denmark,Europe,Oilseeds,90.86,52.42,210.19,16.4,27.79,136.0,1991.0,2024.0
+Denmark,Europe,Other Industrial,136.03,78.42,295.8,15.94,-4.78,34.0,1991.0,2024.0
+Denmark,Europe,Pulses,112.7,75.87,235.08,15.6,19.69,102.0,1991.0,2024.0
+Denmark,Europe,Roots & Tubers,87.46,49.57,177.25,28.03,121.89,34.0,1991.0,2024.0
+Denmark,Europe,Spices,104.28,75.99,160.76,20.31,6.48,34.0,1991.0,2024.0
+Denmark,Europe,Sugar Crops,108.74,64.42,136.93,11.95,15.5,34.0,1991.0,2024.0
+Denmark,Europe,Vegetables,101.67,20.82,349.31,77.33,42.3,467.0,1991.0,2024.0
+Dominican Republic,Americas,Aggregates,76.98,16.97,294.58,26.92,201.84,68.0,1991.0,2024.0
+Dominican Republic,Americas,Beverages,61.04,7.32,188.59,43.84,44.86,68.0,1991.0,2024.0
+Dominican Republic,Americas,Cereals,87.6,13.78,382.62,77.09,143.72,204.0,1991.0,2024.0
+Dominican Republic,Americas,Dairy & Eggs,67.11,10.95,147.43,40.63,43.83,136.0,1991.0,2024.0
+Dominican Republic,Americas,Fibers,75.94,6.25,138.96,16.76,31.56,68.0,1991.0,2024.0
+Dominican Republic,Americas,Fruits,100.23,1.19,1458.29,320.67,86.61,442.0,1991.0,2024.0
+Dominican Republic,Americas,Meat,68.5,6.79,321.7,67.46,169.51,374.0,1991.0,2024.0
+Dominican Republic,Americas,Nuts,57.3,13.85,146.31,17.79,103.49,68.0,1991.0,2024.0
+Dominican Republic,Americas,Oilseeds,58.99,6.45,176.94,40.68,221.22,170.0,1991.0,2024.0
+Dominican Republic,Americas,Other Industrial,90.61,6.71,217.96,263.93,-3.43,170.0,1991.0,2024.0
+Dominican Republic,Americas,Pulses,82.98,20.29,195.82,29.24,112.32,179.0,1991.0,2024.0
+Dominican Republic,Americas,Roots & Tubers,80.98,9.52,531.74,120.31,144.45,204.0,1991.0,2024.0
+Dominican Republic,Americas,Spices,66.81,6.95,180.38,123.66,130.14,68.0,1991.0,2024.0
+Dominican Republic,Americas,Sugar Crops,172.47,25.8,909.44,43.8,1207.04,33.0,1991.0,2023.0
+Dominican Republic,Americas,Vegetables,75.59,6.18,594.04,92.59,238.44,476.0,1991.0,2024.0
+Ecuador,Americas,Aggregates,63.05,1.97,119.53,23.4,25.59,68.0,1991.0,2024.0
+Ecuador,Americas,Beverages,51.19,0.26,114.85,191.17,3.87,102.0,1991.0,2024.0
+Ecuador,Americas,Cereals,67.21,1.36,241.58,70.21,97.06,340.0,1991.0,2024.0
+Ecuador,Americas,Dairy & Eggs,65.32,1.74,168.33,25.3,68.61,204.0,1991.0,2024.0
+Ecuador,Americas,Fibers,59.71,1.23,128.47,43.5,34.46,136.0,1991.0,2024.0
+Ecuador,Americas,Fruits,64.29,0.58,476.01,82.3,14.04,936.0,1991.0,2024.0
+Ecuador,Americas,Meat,68.25,0.97,344.59,93.88,593.0,680.0,1991.0,2024.0
+Ecuador,Americas,Oilseeds,66.15,1.21,177.34,39.57,9.83,374.0,1991.0,2024.0
+Ecuador,Americas,Other Industrial,77.1,1.19,382.33,66.39,59.88,170.0,1991.0,2024.0
+Ecuador,Americas,Pulses,70.16,1.49,193.99,65.71,25.05,204.0,1991.0,2024.0
+Ecuador,Americas,Roots & Tubers,59.37,0.61,159.91,64.68,61.05,136.0,1991.0,2024.0
+Ecuador,Americas,Spices,58.91,1.61,136.81,47.77,-7.0,102.0,1991.0,2024.0
+Ecuador,Americas,Sugar Crops,69.17,1.53,142.6,30.68,6.78,68.0,1991.0,2024.0
+Ecuador,Americas,Vegetables,64.84,1.1,352.94,317.36,-10.95,646.0,1991.0,2024.0
+Egypt,Africa,Aggregates,95.6,20.54,397.9,16.31,438.94,68.0,1991.0,2024.0
+Egypt,Africa,Cereals,86.02,9.24,654.92,49.28,132.34,272.0,1991.0,2024.0
+Egypt,Africa,Dairy & Eggs,80.89,14.26,467.48,34.32,195.65,238.0,1991.0,2024.0
+Egypt,Africa,Fibers,74.27,14.91,186.51,39.97,-17.29,204.0,1991.0,2024.0
+Egypt,Africa,Fruits,112.13,13.7,3079.83,68.49,517.85,850.0,1991.0,2024.0
+Egypt,Africa,Meat,84.13,4.7,1150.66,57.19,141.94,865.0,1991.0,2024.0
+Egypt,Africa,Nuts,83.67,23.87,191.08,26.87,92.88,102.0,1991.0,2024.0
+Egypt,Africa,Oilseeds,96.29,0.41,868.95,1653.11,441.37,272.0,1991.0,2024.0
+Egypt,Africa,Other Industrial,79.57,19.47,219.38,23.08,54.42,136.0,1991.0,2024.0
+Egypt,Africa,Pulses,90.74,17.03,598.3,59.14,150.57,340.0,1991.0,2024.0
+Egypt,Africa,Roots & Tubers,122.17,12.74,980.86,96.45,27.63,136.0,1991.0,2024.0
+Egypt,Africa,Spices,81.8,24.61,186.02,6.39,92.72,68.0,1991.0,2024.0
+Egypt,Africa,Sugar Crops,66.91,12.25,158.63,20.41,81.87,68.0,1991.0,2024.0
+Egypt,Africa,Vegetables,120.18,6.87,1804.8,110.75,12.42,714.0,1991.0,2024.0
+El Salvador,Americas,Aggregates,81.63,44.62,122.34,16.73,16.1,68.0,1991.0,2024.0
+El Salvador,Americas,Beverages,76.39,10.91,137.81,107.21,-4.54,68.0,1991.0,2024.0
+El Salvador,Americas,Cereals,78.15,42.23,209.89,20.77,48.06,170.0,1991.0,2024.0
+El Salvador,Americas,Dairy & Eggs,84.48,46.28,126.34,18.9,-1.26,136.0,1991.0,2024.0
+El Salvador,Americas,Fibers,113.42,39.35,443.42,100.28,-15.76,238.0,1991.0,2024.0
+El Salvador,Americas,Fruits,83.19,15.51,236.19,57.49,144.71,583.0,1991.0,2024.0
+El Salvador,Americas,Meat,79.56,35.74,135.38,16.03,67.09,374.0,1991.0,2024.0
+El Salvador,Americas,Nuts,80.42,39.96,129.5,6.49,39.79,68.0,1991.0,2024.0
+El Salvador,Americas,Oilseeds,98.55,29.19,448.34,106.76,50.24,238.0,1991.0,2024.0
+El Salvador,Americas,Other Industrial,76.28,22.49,142.4,29.88,114.65,68.0,1991.0,2024.0
+El Salvador,Americas,Pulses,69.27,24.23,124.55,39.53,-8.51,68.0,1991.0,2024.0
+El Salvador,Americas,Roots & Tubers,81.01,24.44,164.67,21.79,24.15,170.0,1991.0,2024.0
+El Salvador,Americas,Sugar Crops,79.49,36.7,152.36,20.9,-16.87,34.0,1991.0,2024.0
+El Salvador,Americas,Vegetables,91.83,35.51,277.84,53.57,-19.79,352.0,1991.0,2024.0
+Equatorial Guinea,Africa,Aggregates,69.93,15.56,116.51,16.62,-24.15,68.0,1991.0,2024.0
+Equatorial Guinea,Africa,Beverages,66.25,12.51,116.51,51.69,-36.06,68.0,1991.0,2024.0
+Equatorial Guinea,Africa,Dairy & Eggs,72.32,17.87,116.51,10.65,-0.9,68.0,1991.0,2024.0
+Equatorial Guinea,Africa,Fruits,64.66,2.59,116.51,75.91,-42.15,136.0,1991.0,2024.0
+Equatorial Guinea,Africa,Meat,76.47,21.73,116.51,26.69,-12.04,442.0,1991.0,2024.0
+Equatorial Guinea,Africa,Oilseeds,67.56,17.56,116.51,7.68,-26.53,136.0,1991.0,2024.0
+Equatorial Guinea,Africa,Other Industrial,69.16,17.56,116.51,14.23,-13.33,34.0,1991.0,2024.0
+Equatorial Guinea,Africa,Roots & Tubers,68.42,17.56,116.51,7.85,-16.67,136.0,1991.0,2024.0
+Eritrea,Africa,Aggregates,63.75,6.3,172.8,15.41,133.24,64.0,1993.0,2024.0
+Eritrea,Africa,Cereals,62.32,3.13,154.81,16.48,148.3,256.0,1993.0,2024.0
+Eritrea,Africa,Dairy & Eggs,65.74,9.57,182.89,10.68,138.94,224.0,1993.0,2024.0
+Eritrea,Africa,Fruits,61.5,6.1,138.18,9.26,129.8,96.0,1993.0,2024.0
+Eritrea,Africa,Meat,63.84,4.51,177.99,23.22,184.86,480.0,1993.0,2024.0
+Eritrea,Africa,Oilseeds,63.15,4.91,152.21,9.82,110.02,160.0,1993.0,2024.0
+Eritrea,Africa,Other Industrial,62.2,4.69,147.19,16.7,136.13,32.0,1993.0,2024.0
+Eritrea,Africa,Pulses,62.77,5.04,146.41,11.83,128.07,256.0,1993.0,2024.0
+Eritrea,Africa,Roots & Tubers,53.04,3.46,121.71,18.68,49.03,64.0,1993.0,2024.0
+Eritrea,Africa,Spices,63.36,6.11,159.34,12.75,150.34,32.0,1993.0,2024.0
+Eritrea,Africa,Vegetables,56.43,5.88,136.57,18.08,58.47,128.0,1993.0,2024.0
+Estonia,Europe,Aggregates,89.78,21.28,163.75,14.68,33.3,66.0,1992.0,2024.0
+Estonia,Europe,Cereals,93.59,26.99,195.23,27.25,-1.25,297.0,1992.0,2024.0
+Estonia,Europe,Dairy & Eggs,94.84,20.83,237.51,24.2,60.08,165.0,1992.0,2024.0
+Estonia,Europe,Fibers,135.13,49.74,265.47,53.4,255.82,33.0,1992.0,2024.0
+Estonia,Europe,Fruits,81.87,3.45,422.19,47.43,141.96,297.0,1992.0,2024.0
+Estonia,Europe,Meat,89.73,9.62,212.77,41.58,44.18,363.0,1992.0,2024.0
+Estonia,Europe,Oilseeds,94.88,33.88,279.14,49.41,-31.19,99.0,1992.0,2024.0
+Estonia,Europe,Other Industrial,80.55,21.94,140.53,89.76,66.58,66.0,1992.0,2024.0
+Estonia,Europe,Pulses,103.02,34.0,184.54,12.92,47.57,99.0,1992.0,2024.0
+Estonia,Europe,Roots & Tubers,50.98,14.63,114.76,46.97,50.57,33.0,1992.0,2024.0
+Estonia,Europe,Sugar Crops,84.16,15.32,230.51,19.6,198.23,33.0,1992.0,2024.0
+Estonia,Europe,Vegetables,92.82,2.92,210.8,151.19,35.38,429.0,1992.0,2024.0
+Ethiopia,Africa,Aggregates,68.68,13.67,224.5,17.98,285.55,64.0,1993.0,2024.0
+Ethiopia,Africa,Beverages,75.75,9.93,298.23,30.31,134.87,96.0,1993.0,2024.0
+Ethiopia,Africa,Cereals,69.93,9.84,361.19,27.88,203.94,320.0,1993.0,2024.0
+Ethiopia,Africa,Dairy & Eggs,69.05,8.3,332.94,30.54,704.88,224.0,1993.0,2024.0
+Ethiopia,Africa,Fibers,75.01,12.6,310.89,49.28,107.62,160.0,1993.0,2024.0
+Ethiopia,Africa,Fruits,71.95,6.63,370.67,51.15,338.17,448.0,1993.0,2024.0
+Ethiopia,Africa,Meat,78.54,4.12,696.87,243.48,208.31,558.0,1993.0,2024.0
+Ethiopia,Africa,Nuts,67.43,6.52,164.92,35.36,230.21,64.0,1993.0,2024.0
+Ethiopia,Africa,Oilseeds,69.1,2.18,314.72,149.33,927.47,371.0,1993.0,2024.0
+Ethiopia,Africa,Other Industrial,68.14,7.55,238.46,109.83,300.0,96.0,1993.0,2024.0
+Ethiopia,Africa,Pulses,74.71,7.81,402.43,21.59,392.61,256.0,1993.0,2024.0
+Ethiopia,Africa,Roots & Tubers,72.47,9.97,342.36,33.81,370.06,128.0,1993.0,2024.0
+Ethiopia,Africa,Spices,75.43,4.71,467.49,87.35,272.56,192.0,1993.0,2024.0
+Ethiopia,Africa,Sugar Crops,77.26,11.99,235.69,15.71,311.73,51.0,1993.0,2024.0
+Ethiopia,Africa,Vegetables,73.06,8.17,406.03,38.38,341.85,582.0,1993.0,2024.0
+Fiji,Oceania,Aggregates,61.22,7.52,136.77,61.43,126.85,68.0,1991.0,2024.0
+Fiji,Oceania,Beverages,81.69,29.56,160.09,10.99,105.25,27.0,1998.0,2024.0
+Fiji,Oceania,Cereals,77.34,1.88,217.74,207.62,-11.93,129.0,1991.0,2024.0
+Fiji,Oceania,Dairy & Eggs,73.49,26.7,132.5,31.88,3.44,122.0,1991.0,2024.0
+Fiji,Oceania,Fruits,62.67,9.52,176.88,79.93,43.41,254.0,1991.0,2024.0
+Fiji,Oceania,Meat,94.26,15.9,260.27,54.73,6.12,413.0,1991.0,2024.0
+Fiji,Oceania,Oilseeds,83.81,9.96,298.65,97.43,1055.1,54.0,1998.0,2024.0
+Fiji,Oceania,Other Industrial,116.36,80.0,150.0,11.1,0.0,34.0,1991.0,2024.0
+Fiji,Oceania,Pulses,86.28,34.93,249.89,23.51,501.0,66.0,1992.0,2024.0
+Fiji,Oceania,Roots & Tubers,86.66,13.9,297.65,64.16,66.07,156.0,1991.0,2024.0
+Fiji,Oceania,Spices,64.02,36.35,152.18,33.2,43.24,27.0,1998.0,2024.0
+Fiji,Oceania,Sugar Crops,96.61,64.41,128.95,19.53,82.68,27.0,1998.0,2024.0
+Fiji,Oceania,Vegetables,55.1,0.82,260.53,531.21,235.27,303.0,1991.0,2024.0
+Finland,Europe,Aggregates,104.28,79.32,151.58,8.86,52.78,68.0,1991.0,2024.0
+Finland,Europe,Cereals,117.39,63.9,262.76,14.51,99.11,272.0,1991.0,2024.0
+Finland,Europe,Dairy & Eggs,101.98,47.33,197.34,16.51,68.41,136.0,1991.0,2024.0
+Finland,Europe,Fruits,86.04,33.13,395.76,35.17,11.92,304.0,1991.0,2024.0
+Finland,Europe,Meat,102.73,44.94,289.87,22.49,72.57,374.0,1991.0,2024.0
+Finland,Europe,Oilseeds,98.75,46.21,179.6,13.15,53.73,68.0,1991.0,2024.0
+Finland,Europe,Other Industrial,93.8,44.98,191.7,29.16,9.87,68.0,1991.0,2024.0
+Finland,Europe,Pulses,101.22,61.41,195.82,6.64,36.8,102.0,1991.0,2024.0
+Finland,Europe,Roots & Tubers,106.5,58.85,142.78,27.19,80.01,34.0,1991.0,2024.0
+Finland,Europe,Sugar Crops,125.94,75.31,215.63,13.35,-5.02,34.0,1991.0,2024.0
+Finland,Europe,Vegetables,93.23,45.67,253.1,19.94,43.92,680.0,1991.0,2024.0
+France,Europe,Aggregates,96.24,67.5,164.76,13.73,54.44,68.0,1991.0,2024.0
+France,Europe,Beverages,111.32,83.92,154.6,6.73,-0.49,34.0,1991.0,2024.0
+France,Europe,Cereals,97.75,39.76,211.56,16.3,40.63,460.0,1991.0,2024.0
+France,Europe,Dairy & Eggs,101.38,61.89,250.37,23.22,151.0,204.0,1991.0,2024.0
+France,Europe,Fibers,64.55,28.95,106.5,16.99,61.52,100.0,1991.0,2024.0
+France,Europe,Fruits,84.86,25.64,220.96,37.01,57.51,850.0,1991.0,2024.0
+France,Europe,Meat,92.08,53.92,180.14,22.25,35.83,748.0,1991.0,2024.0
+France,Europe,Nuts,73.62,26.02,112.04,27.78,20.85,170.0,1991.0,2024.0
+France,Europe,Oilseeds,88.11,39.72,206.17,32.27,-0.98,306.0,1991.0,2024.0
+France,Europe,Other Industrial,79.02,17.26,111.42,124.63,10.38,102.0,1991.0,2024.0
+France,Europe,Pulses,88.18,57.71,149.2,7.14,56.3,238.0,1991.0,2024.0
+France,Europe,Roots & Tubers,82.53,45.18,167.31,34.36,85.14,34.0,1991.0,2024.0
+France,Europe,Sugar Crops,131.88,82.55,203.62,13.39,47.7,34.0,1991.0,2024.0
+France,Europe,Vegetables,92.75,27.02,483.92,46.57,104.5,918.0,1991.0,2024.0
+Gambia,Africa,Aggregates,71.44,10.41,195.54,17.26,233.88,68.0,1991.0,2024.0
+Gambia,Africa,Cereals,70.91,6.37,333.89,51.69,-34.78,238.0,1991.0,2024.0
+Gambia,Africa,Dairy & Eggs,71.23,10.69,203.37,34.65,118.55,136.0,1991.0,2024.0
+Gambia,Africa,Fibers,56.97,14.87,101.52,9.82,-17.86,102.0,1991.0,2024.0
+Gambia,Africa,Fruits,58.32,3.02,178.98,91.5,73.92,136.0,1991.0,2024.0
+Gambia,Africa,Meat,64.25,4.72,176.89,67.11,-7.74,408.0,1991.0,2024.0
+Gambia,Africa,Oilseeds,72.73,5.29,222.0,116.76,4.27,204.0,1991.0,2024.0
+Gambia,Africa,Other Industrial,71.51,6.61,143.43,26.65,94.46,34.0,1991.0,2024.0
+Gambia,Africa,Pulses,62.37,17.16,101.16,9.35,-33.12,68.0,1991.0,2024.0
+Gambia,Africa,Roots & Tubers,50.82,1.36,114.92,27.54,91.27,68.0,1991.0,2024.0
+Gambia,Africa,Vegetables,56.64,10.12,100.16,17.6,-22.42,102.0,1991.0,2024.0
+Georgia,Asia,Aggregates,94.61,51.99,185.58,12.46,93.04,62.0,1994.0,2024.0
+Georgia,Asia,Beverages,67.6,0.28,260.77,128.22,11012.39,31.0,1994.0,2024.0
+Georgia,Asia,Cereals,115.17,0.0,903.82,187.39,22.91,248.0,1994.0,2024.0
+Georgia,Asia,Dairy & Eggs,92.35,14.88,194.68,59.95,83.46,217.0,1994.0,2024.0
+Georgia,Asia,Fibers,84.28,25.66,157.15,16.21,69.17,31.0,1994.0,2024.0
+Georgia,Asia,Fruits,90.87,16.8,268.45,123.1,4.58,558.0,1994.0,2024.0
+Georgia,Asia,Meat,89.37,10.54,201.88,60.27,196.98,455.0,1994.0,2024.0
+Georgia,Asia,Nuts,77.32,20.07,193.94,87.42,86.34,186.0,1994.0,2024.0
+Georgia,Asia,Oilseeds,86.98,25.18,209.66,25.25,83.08,124.0,1994.0,2024.0
+Georgia,Asia,Other Industrial,84.37,15.92,322.28,42.1,91.11,93.0,1994.0,2024.0
+Georgia,Asia,Pulses,90.46,39.42,194.76,34.36,47.91,93.0,1994.0,2024.0
+Georgia,Asia,Roots & Tubers,88.42,54.09,150.97,20.96,25.81,31.0,1994.0,2024.0
+Georgia,Asia,Spices,80.49,1.49,280.55,399.81,91.43,124.0,1994.0,2024.0
+Georgia,Asia,Sugar Crops,86.57,24.43,184.23,16.47,93.77,31.0,1994.0,2024.0
+Georgia,Asia,Vegetables,102.05,28.37,211.29,36.57,22.87,279.0,1994.0,2024.0
+Germany,Europe,Aggregates,102.16,75.78,166.13,12.42,53.46,68.0,1991.0,2024.0
+Germany,Europe,Beverages,111.57,11.65,185.0,156.49,112.08,34.0,1991.0,2024.0
+Germany,Europe,Cereals,101.44,55.53,225.18,11.9,51.8,306.0,1991.0,2024.0
+Germany,Europe,Dairy & Eggs,107.01,58.18,229.05,29.01,20.65,170.0,1991.0,2024.0
+Germany,Europe,Fruits,96.24,12.52,246.0,61.22,38.88,568.0,1991.0,2024.0
+Germany,Europe,Meat,100.82,28.51,274.24,70.69,159.77,748.0,1991.0,2024.0
+Germany,Europe,Nuts,63.26,31.02,123.58,17.81,126.6,68.0,1991.0,2024.0
+Germany,Europe,Oilseeds,90.81,42.67,205.21,21.63,37.09,238.0,1991.0,2024.0
+Germany,Europe,Other Industrial,85.58,13.7,224.12,131.15,122.36,114.0,1991.0,2024.0
+Germany,Europe,Pulses,114.7,46.43,329.78,43.1,22.43,204.0,1991.0,2024.0
+Germany,Europe,Roots & Tubers,97.06,29.23,258.33,54.39,95.15,34.0,1991.0,2024.0
+Germany,Europe,Sugar Crops,84.88,58.21,115.85,14.94,47.06,34.0,1991.0,2024.0
+Germany,Europe,Vegetables,94.11,20.84,388.67,61.22,45.32,637.0,1991.0,2024.0
+Ghana,Africa,Aggregates,65.91,0.89,315.68,717.83,523.36,68.0,1991.0,2024.0
+Ghana,Africa,Beverages,61.12,0.62,160.95,188.9,37.87,68.0,1991.0,2024.0
+Ghana,Africa,Cereals,78.55,0.53,625.24,84.61,751.19,238.0,1991.0,2024.0
+Ghana,Africa,Dairy & Eggs,58.74,1.69,102.96,63.0,20.26,136.0,1991.0,2024.0
+Ghana,Africa,Fibers,72.78,6.53,113.54,19.96,17.32,102.0,1991.0,2024.0
+Ghana,Africa,Fruits,60.35,0.11,314.47,145.81,62.18,417.0,1991.0,2024.0
+Ghana,Africa,Meat,68.7,1.36,137.48,245.78,64.89,442.0,1991.0,2024.0
+Ghana,Africa,Nuts,63.39,3.72,124.67,17.74,45.68,136.0,1991.0,2024.0
+Ghana,Africa,Oilseeds,70.34,0.22,532.8,245.09,80.03,238.0,1991.0,2024.0
+Ghana,Africa,Other Industrial,71.83,0.29,188.18,189.7,-19.52,102.0,1991.0,2024.0
+Ghana,Africa,Pulses,63.97,0.18,212.11,1106.41,85.08,77.0,1991.0,2024.0
+Ghana,Africa,Roots & Tubers,62.89,0.22,396.2,89.11,885.41,170.0,1991.0,2024.0
+Ghana,Africa,Spices,57.67,0.28,156.25,201.73,-16.67,102.0,1991.0,2024.0
+Ghana,Africa,Sugar Crops,66.48,2.39,116.34,31.96,25.75,34.0,1991.0,2024.0
+Ghana,Africa,Vegetables,56.34,0.17,269.22,165.0,335.11,340.0,1991.0,2024.0
+Greece,Europe,Aggregates,88.84,43.32,165.99,6.64,42.2,68.0,1991.0,2024.0
+Greece,Europe,Cereals,98.65,55.1,210.55,23.11,17.62,340.0,1991.0,2024.0
+Greece,Europe,Dairy & Eggs,88.98,40.52,186.7,30.74,53.48,238.0,1991.0,2024.0
+Greece,Europe,Fibers,146.98,51.46,263.53,33.93,-54.31,102.0,1991.0,2024.0
+Greece,Europe,Fruits,97.62,18.63,400.47,58.42,15.02,984.0,1991.0,2024.0
+Greece,Europe,Meat,88.44,32.86,219.01,29.2,-8.32,758.0,1991.0,2024.0
+Greece,Europe,Nuts,75.42,14.42,156.49,27.58,62.37,229.0,1991.0,2024.0
+Greece,Europe,Oilseeds,92.78,39.18,255.15,65.86,-52.5,272.0,1991.0,2024.0
+Greece,Europe,Other Industrial,87.7,9.74,205.59,135.59,0.03,170.0,1991.0,2024.0
+Greece,Europe,Pulses,75.74,17.32,164.19,23.02,58.0,305.0,1991.0,2024.0
+Greece,Europe,Roots & Tubers,85.76,29.8,162.08,15.55,45.56,68.0,1991.0,2024.0
+Greece,Europe,Spices,79.12,46.75,105.57,6.58,-1.62,68.0,1991.0,2024.0
+Greece,Europe,Sugar Crops,144.33,87.5,226.97,11.94,37.75,34.0,1991.0,2024.0
+Greece,Europe,Vegetables,95.36,17.12,289.05,34.5,29.62,876.0,1991.0,2024.0
+Grenada,Americas,Aggregates,103.21,75.02,158.31,24.91,31.76,30.0,2010.0,2024.0
+Grenada,Americas,Beverages,91.12,87.44,125.03,13.97,6.2,15.0,2010.0,2024.0
+Grenada,Americas,Cereals,91.93,58.3,122.08,13.74,49.86,51.0,1993.0,2024.0
+Grenada,Americas,Dairy & Eggs,114.36,75.28,158.31,9.8,110.29,30.0,2010.0,2024.0
+Grenada,Americas,Fruits,98.14,18.0,200.85,54.22,-7.68,276.0,2010.0,2024.0
+Grenada,Americas,Meat,98.82,77.68,136.81,14.62,28.12,90.0,2010.0,2024.0
+Grenada,Americas,Oilseeds,88.83,71.62,129.78,10.37,-5.09,30.0,2010.0,2024.0
+Grenada,Americas,Pulses,99.72,86.43,117.95,8.22,31.31,45.0,2010.0,2024.0
+Grenada,Americas,Roots & Tubers,93.03,58.69,127.84,13.46,33.22,81.0,1993.0,2024.0
+Grenada,Americas,Spices,112.31,49.93,171.24,31.3,21.44,45.0,2010.0,2024.0
+Grenada,Americas,Sugar Crops,95.45,73.33,105.13,13.93,,9.0,2016.0,2024.0
+Grenada,Americas,Vegetables,99.41,32.28,149.66,35.22,-5.45,150.0,2010.0,2024.0
+Guinea,Africa,Aggregates,85.99,10.62,424.15,116.85,334.94,68.0,1991.0,2024.0
+Guinea,Africa,Beverages,106.33,9.56,489.97,224.04,259.76,68.0,1991.0,2024.0
+Guinea,Africa,Cereals,134.79,8.73,855.1,77.21,613.36,238.0,1991.0,2024.0
+Guinea,Africa,Dairy & Eggs,72.02,6.56,218.48,377.19,54.34,198.0,1991.0,2024.0
+Guinea,Africa,Fibers,89.83,15.97,173.75,59.63,31.47,102.0,1991.0,2024.0
+Guinea,Africa,Fruits,94.77,9.06,184.43,133.61,45.37,406.0,1991.0,2024.0
+Guinea,Africa,Meat,67.94,3.65,331.88,201.46,12.98,374.0,1991.0,2024.0
+Guinea,Africa,Nuts,49.57,6.04,131.85,22.05,-9.76,68.0,1991.0,2024.0
+Guinea,Africa,Oilseeds,92.41,16.36,248.09,111.05,209.02,238.0,1991.0,2024.0
+Guinea,Africa,Other Industrial,84.44,5.6,167.72,335.06,124.03,136.0,1991.0,2024.0
+Guinea,Africa,Pulses,110.48,42.25,300.61,62.52,-48.7,92.0,1991.0,2024.0
+Guinea,Africa,Roots & Tubers,274.33,36.07,3257.82,404.12,185.65,170.0,1991.0,2024.0
+Guinea,Africa,Sugar Crops,79.07,27.89,124.11,8.83,38.7,34.0,1991.0,2024.0
+Guinea,Africa,Vegetables,126.45,23.77,918.75,96.27,112.34,127.0,1991.0,2024.0
+Guinea-Bissau,Africa,Aggregates,93.47,44.82,135.88,28.86,8.52,54.0,1998.0,2024.0
+Guinea-Bissau,Africa,Cereals,93.21,35.62,147.68,24.72,54.85,135.0,1998.0,2024.0
+Guinea-Bissau,Africa,Dairy & Eggs,102.5,82.6,167.08,10.35,41.08,108.0,1998.0,2024.0
+Guinea-Bissau,Africa,Fruits,101.84,56.97,139.69,4.92,51.7,207.0,2002.0,2024.0
+Guinea-Bissau,Africa,Meat,109.81,82.6,135.03,2.84,52.57,162.0,2007.0,2024.0
+Guinea-Bissau,Africa,Oilseeds,117.17,82.6,170.68,9.56,82.41,16.0,2009.0,2024.0
+Guinea-Bissau,Africa,Other Industrial,109.81,82.6,135.03,6.0,52.57,36.0,2007.0,2024.0
+Guinea-Bissau,Africa,Pulses,113.85,73.85,145.45,5.62,68.23,34.0,2008.0,2024.0
+Guinea-Bissau,Africa,Roots & Tubers,92.6,24.48,224.23,36.13,0.03,99.0,1998.0,2024.0
+Guyana,Americas,Aggregates,86.13,3.22,223.88,101.96,111.3,68.0,1991.0,2024.0
+Guyana,Americas,Dairy & Eggs,71.3,16.86,181.01,47.68,53.01,134.0,1991.0,2024.0
+Guyana,Americas,Fruits,120.95,24.04,2046.44,185.41,-8.99,462.0,1992.0,2024.0
+Guyana,Americas,Meat,175.72,56.06,743.11,86.51,124.06,165.0,1992.0,2024.0
+Guyana,Americas,Other Industrial,326.52,54.04,2657.16,47.2,3760.23,33.0,1992.0,2024.0
+Guyana,Americas,Roots & Tubers,102.76,8.2,351.37,114.46,115.68,200.0,1991.0,2024.0
+Guyana,Americas,Spices,92.75,32.15,173.77,39.24,35.21,33.0,1992.0,2024.0
+Guyana,Americas,Vegetables,139.31,33.47,1026.35,81.85,0.5,363.0,1992.0,2024.0
+Honduras,Americas,Aggregates,76.49,12.16,147.41,28.04,51.98,68.0,1991.0,2024.0
+Honduras,Americas,Beverages,82.41,10.57,139.0,52.21,10.79,68.0,1991.0,2024.0
+Honduras,Americas,Cereals,74.36,9.3,142.93,58.51,36.72,204.0,1991.0,2024.0
+Honduras,Americas,Dairy & Eggs,81.05,8.72,150.84,43.39,46.41,136.0,1991.0,2024.0
+Honduras,Americas,Fibers,71.37,13.39,134.88,8.24,58.53,102.0,1991.0,2024.0
+Honduras,Americas,Fruits,68.44,1.25,235.89,130.45,104.45,646.0,1991.0,2024.0
+Honduras,Americas,Meat,79.6,12.2,161.39,32.59,106.97,484.0,1991.0,2024.0
+Honduras,Americas,Nuts,95.33,75.17,120.06,4.88,12.15,68.0,1991.0,2024.0
+Honduras,Americas,Oilseeds,71.18,3.56,139.11,56.45,35.08,272.0,1991.0,2024.0
+Honduras,Americas,Other Industrial,72.01,4.85,132.57,36.81,40.49,102.0,1991.0,2024.0
+Honduras,Americas,Pulses,78.97,9.5,156.77,34.45,57.29,68.0,1991.0,2024.0
+Honduras,Americas,Roots & Tubers,78.45,6.16,166.83,60.61,92.69,136.0,1991.0,2024.0
+Honduras,Americas,Spices,73.11,10.12,129.96,21.38,41.77,68.0,1991.0,2024.0
+Honduras,Americas,Sugar Crops,83.91,12.68,122.29,12.26,27.41,54.0,1991.0,2024.0
+Honduras,Americas,Vegetables,71.86,1.7,187.17,114.51,40.31,550.0,1991.0,2024.0
+Hungary,Europe,Aggregates,86.32,15.42,229.15,18.37,99.61,68.0,1991.0,2024.0
+Hungary,Europe,Cereals,82.08,4.35,306.1,61.35,97.87,476.0,1991.0,2024.0
+Hungary,Europe,Dairy & Eggs,88.94,15.9,327.32,30.36,168.81,238.0,1991.0,2024.0
+Hungary,Europe,Fibers,116.97,65.09,200.94,9.65,-10.18,68.0,1991.0,2024.0
+Hungary,Europe,Fruits,91.14,4.18,758.26,92.79,72.19,622.0,1991.0,2024.0
+Hungary,Europe,Meat,77.87,15.54,260.97,22.22,13.01,748.0,1991.0,2024.0
+Hungary,Europe,Nuts,87.74,7.13,312.49,72.77,148.24,170.0,1991.0,2024.0
+Hungary,Europe,Oilseeds,76.55,5.51,260.71,38.18,71.04,306.0,1991.0,2024.0
+Hungary,Europe,Other Industrial,65.82,9.69,268.61,103.35,22.04,102.0,1991.0,2024.0
+Hungary,Europe,Pulses,66.03,4.74,188.64,48.19,93.77,306.0,1991.0,2024.0
+Hungary,Europe,Roots & Tubers,85.19,17.78,428.7,31.28,33.78,68.0,1991.0,2024.0
+Hungary,Europe,Spices,79.57,15.38,144.67,54.85,51.24,102.0,1991.0,2024.0
+Hungary,Europe,Sugar Crops,97.54,21.55,246.84,18.27,159.88,34.0,1991.0,2024.0
+Hungary,Europe,Vegetables,90.36,5.86,449.26,48.18,127.81,758.0,1991.0,2024.0
+Iceland,Europe,Aggregates,91.81,57.48,168.76,8.77,74.93,68.0,1991.0,2024.0
+Iceland,Europe,Cereals,93.21,70.78,124.35,4.78,,39.0,2012.0,2024.0
+Iceland,Europe,Dairy & Eggs,86.47,40.15,178.04,34.3,108.06,136.0,1991.0,2024.0
+Iceland,Europe,Fruits,98.83,61.23,131.78,18.33,19.11,34.0,1991.0,2024.0
+Iceland,Europe,Meat,76.58,27.57,164.66,29.5,47.76,408.0,1991.0,2024.0
+Iceland,Europe,Other Industrial,65.77,19.29,107.45,20.64,-57.91,34.0,1991.0,2024.0
+Iceland,Europe,Roots & Tubers,71.5,26.96,147.52,34.51,50.11,34.0,1991.0,2024.0
+Iceland,Europe,Vegetables,78.59,21.12,225.93,27.29,113.45,306.0,1991.0,2024.0
+India,Asia,Aggregates,68.42,17.36,147.53,6.74,84.59,68.0,1991.0,2024.0
+India,Asia,Beverages,70.53,15.07,150.11,35.92,89.24,102.0,1991.0,2024.0
+India,Asia,Cereals,67.92,12.89,166.03,20.93,85.25,272.0,1991.0,2024.0
+India,Asia,Dairy & Eggs,68.81,15.73,148.33,7.69,85.25,204.0,1991.0,2024.0
+India,Asia,Fibers,71.77,17.82,155.99,19.57,52.98,204.0,1991.0,2024.0
+India,Asia,Fruits,68.44,8.6,191.35,12.46,82.84,850.0,1991.0,2024.0
+India,Asia,Meat,70.12,14.35,148.31,19.31,59.53,510.0,1991.0,2024.0
+India,Asia,Nuts,68.95,16.89,152.06,11.25,93.1,136.0,1991.0,2024.0
+India,Asia,Oilseeds,70.75,3.35,144.34,39.73,62.74,408.0,1991.0,2024.0
+India,Asia,Other Industrial,71.43,15.43,165.92,22.82,80.39,170.0,1991.0,2024.0
+India,Asia,Pulses,69.03,9.79,155.8,22.74,82.28,238.0,1991.0,2024.0
+India,Asia,Roots & Tubers,70.59,19.79,148.6,12.76,74.38,102.0,1991.0,2024.0
+India,Asia,Spices,69.92,13.13,152.3,46.99,83.2,204.0,1991.0,2024.0
+India,Asia,Sugar Crops,74.1,27.31,123.97,10.24,59.26,34.0,1991.0,2024.0
+India,Asia,Vegetables,69.25,8.5,200.33,20.83,66.22,646.0,1991.0,2024.0
+Indonesia,Asia,Aggregates,62.47,5.95,140.08,67.5,82.16,68.0,1991.0,2024.0
+Indonesia,Asia,Beverages,66.85,5.53,158.98,80.69,25.22,102.0,1991.0,2024.0
+Indonesia,Asia,Cereals,57.8,3.43,142.97,59.94,108.06,150.0,1991.0,2024.0
+Indonesia,Asia,Dairy & Eggs,67.63,4.86,148.57,50.57,48.46,238.0,1991.0,2024.0
+Indonesia,Asia,Fibers,60.93,7.01,131.46,8.29,66.51,238.0,1991.0,2024.0
+Indonesia,Asia,Fruits,67.11,2.88,193.8,87.36,160.08,442.0,1991.0,2024.0
+Indonesia,Asia,Meat,61.36,3.31,234.52,38.12,75.88,578.0,1991.0,2024.0
+Indonesia,Asia,Nuts,66.27,9.96,181.28,34.08,113.47,136.0,1991.0,2024.0
+Indonesia,Asia,Oilseeds,61.43,7.46,186.27,28.31,65.62,272.0,1991.0,2024.0
+Indonesia,Asia,Other Industrial,67.0,8.01,132.66,50.37,-5.04,136.0,1991.0,2024.0
+Indonesia,Asia,Pulses,60.32,5.79,135.19,9.89,61.28,102.0,1991.0,2024.0
+Indonesia,Asia,Roots & Tubers,59.4,3.22,150.05,37.08,75.04,136.0,1991.0,2024.0
+Indonesia,Asia,Spices,76.93,3.82,677.95,254.07,57.0,238.0,1991.0,2024.0
+Indonesia,Asia,Sugar Crops,62.01,10.07,140.09,11.68,72.56,68.0,1991.0,2024.0
+Indonesia,Asia,Vegetables,60.96,2.15,174.15,127.45,113.58,612.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Aggregates,143.21,1.2,1191.25,18.56,3160.11,68.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Beverages,118.26,2.02,1046.73,29.02,3873.75,34.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Cereals,148.68,0.67,1720.09,54.81,4108.98,272.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Dairy & Eggs,133.76,0.68,1874.82,89.09,674.67,238.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Fibers,55.32,1.18,234.17,42.58,52.37,102.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Fruits,134.28,0.27,2822.21,137.97,2874.88,1054.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Meat,86.98,0.84,2786.47,93.57,599.45,680.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Nuts,139.6,0.62,1312.32,48.08,5436.67,204.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Oilseeds,117.3,0.71,2015.04,92.81,345.48,328.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Other Industrial,142.24,0.49,1230.99,207.15,2091.85,136.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Pulses,181.67,0.63,1584.81,37.51,4349.41,170.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Roots & Tubers,196.3,1.6,1672.9,88.4,2548.34,34.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Spices,60.27,0.78,259.99,219.73,627.23,102.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Sugar Crops,131.59,1.5,1355.96,97.67,3402.87,68.0,1991.0,2024.0
+Iran (Islamic Republic of),Asia,Vegetables,134.14,0.68,1672.9,67.67,727.23,816.0,1991.0,2024.0
+Iraq,Asia,Aggregates,59.9,0.02,125.22,438.0,17.08,66.0,1991.0,2024.0
+Iraq,Asia,Cereals,74.7,0.01,177.55,199.37,-30.47,217.0,1991.0,2024.0
+Iraq,Asia,Dairy & Eggs,89.41,0.23,135.17,240.93,27.17,126.0,1991.0,2024.0
+Iraq,Asia,Fruits,99.83,17.49,289.83,57.8,-27.47,320.0,1999.0,2024.0
+Iraq,Asia,Meat,106.91,27.36,212.84,23.89,-21.69,156.0,1999.0,2024.0
+Iraq,Asia,Oilseeds,56.7,0.6,107.13,50.43,-0.83,68.0,1991.0,2024.0
+Iraq,Asia,Pulses,95.03,69.27,116.18,11.7,,55.0,2011.0,2024.0
+Iraq,Asia,Roots & Tubers,72.73,31.35,105.8,21.73,26.96,26.0,1999.0,2024.0
+Iraq,Asia,Vegetables,77.75,11.53,179.18,62.8,11.09,448.0,1999.0,2024.0
+Ireland,Europe,Aggregates,101.14,71.97,190.49,11.07,49.5,68.0,1991.0,2024.0
+Ireland,Europe,Beverages,99.95,69.86,150.64,12.67,-2.33,34.0,1991.0,2024.0
+Ireland,Europe,Cereals,93.86,37.13,200.7,31.13,94.82,272.0,1991.0,2024.0
+Ireland,Europe,Dairy & Eggs,90.56,54.71,194.54,29.0,74.87,136.0,1991.0,2024.0
+Ireland,Europe,Fruits,84.21,47.78,132.75,8.56,14.07,238.0,1991.0,2024.0
+Ireland,Europe,Meat,84.99,40.12,186.23,20.53,25.1,578.0,1991.0,2024.0
+Ireland,Europe,Oilseeds,92.19,59.18,150.64,9.97,5.92,68.0,1991.0,2024.0
+Ireland,Europe,Other Industrial,83.38,29.14,125.05,64.21,-4.99,68.0,1991.0,2024.0
+Ireland,Europe,Pulses,95.18,60.01,117.36,10.33,3.84,136.0,1991.0,2024.0
+Ireland,Europe,Roots & Tubers,80.94,40.41,155.05,25.65,-4.99,34.0,1991.0,2024.0
+Ireland,Europe,Sugar Crops,94.34,66.07,150.64,11.37,-3.93,34.0,1991.0,2024.0
+Ireland,Europe,Vegetables,95.49,28.69,263.09,50.82,58.66,544.0,1991.0,2024.0
+Israel,Asia,Aggregates,82.4,32.86,123.65,18.54,21.92,68.0,1991.0,2024.0
+Israel,Asia,Cereals,80.61,25.2,145.85,56.25,82.11,238.0,1991.0,2024.0
+Israel,Asia,Dairy & Eggs,88.73,31.19,143.0,28.42,20.23,204.0,1991.0,2024.0
+Israel,Asia,Fibers,80.79,27.23,146.53,26.38,42.87,102.0,1991.0,2024.0
+Israel,Asia,Fruits,74.99,11.04,248.44,40.98,17.51,1054.0,1991.0,2024.0
+Israel,Asia,Meat,82.57,14.57,191.77,31.24,13.58,612.0,1991.0,2024.0
+Israel,Asia,Nuts,66.88,14.2,148.29,114.95,555.89,131.0,1991.0,2024.0
+Israel,Asia,Oilseeds,79.74,8.27,186.93,68.89,12.14,272.0,1991.0,2024.0
+Israel,Asia,Other Industrial,83.8,25.9,144.62,30.23,4.28,92.0,1991.0,2024.0
+Israel,Asia,Pulses,87.12,24.08,171.26,30.63,34.22,204.0,1991.0,2024.0
+Israel,Asia,Roots & Tubers,75.15,14.96,141.34,31.32,-13.9,68.0,1991.0,2024.0
+Israel,Asia,Vegetables,74.2,1.38,233.72,85.52,70.35,816.0,1991.0,2024.0
+Italy,Europe,Aggregates,97.49,76.63,144.99,8.92,53.64,68.0,1991.0,2024.0
+Italy,Europe,Cereals,99.38,31.1,216.47,32.88,16.62,374.0,1991.0,2024.0
+Italy,Europe,Dairy & Eggs,96.54,45.48,172.74,27.12,71.72,238.0,1991.0,2024.0
+Italy,Europe,Fibers,100.66,88.42,123.32,5.63,5.94,66.0,1991.0,2024.0
+Italy,Europe,Fruits,101.16,49.24,339.21,34.69,24.42,1054.0,1991.0,2024.0
+Italy,Europe,Meat,91.03,53.99,173.13,17.72,14.72,680.0,1991.0,2024.0
+Italy,Europe,Nuts,64.75,20.03,197.62,24.05,51.75,238.0,1991.0,2024.0
+Italy,Europe,Oilseeds,89.25,42.17,201.14,36.13,-1.3,340.0,1991.0,2024.0
+Italy,Europe,Other Industrial,90.87,32.4,128.75,25.58,41.41,170.0,1991.0,2024.0
+Italy,Europe,Pulses,88.54,37.18,186.35,21.1,66.8,306.0,1991.0,2024.0
+Italy,Europe,Roots & Tubers,92.98,45.54,226.13,22.08,87.28,68.0,1991.0,2024.0
+Italy,Europe,Sugar Crops,103.93,74.6,137.25,11.14,12.77,34.0,1991.0,2024.0
+Italy,Europe,Vegetables,98.26,45.35,226.61,32.33,11.4,816.0,1991.0,2024.0
+Jamaica,Americas,Aggregates,69.69,3.44,306.69,41.04,202.24,68.0,1991.0,2024.0
+Jamaica,Americas,Beverages,57.77,1.33,252.53,115.74,94.15,68.0,1991.0,2024.0
+Jamaica,Americas,Cereals,76.33,1.38,394.97,38.94,426.79,136.0,1991.0,2024.0
+Jamaica,Americas,Dairy & Eggs,67.65,2.63,357.79,58.65,342.8,136.0,1991.0,2024.0
+Jamaica,Americas,Fibers,75.94,11.52,125.38,15.12,39.83,102.0,1991.0,2024.0
+Jamaica,Americas,Fruits,75.04,3.74,320.53,77.97,44.13,537.0,1991.0,2024.0
+Jamaica,Americas,Meat,92.38,2.1,950.38,116.57,11.33,374.0,1991.0,2024.0
+Jamaica,Americas,Oilseeds,81.85,5.42,338.6,99.98,36.51,102.0,1991.0,2024.0
+Jamaica,Americas,Other Industrial,67.08,1.78,205.34,164.15,539.98,68.0,1991.0,2024.0
+Jamaica,Americas,Pulses,69.18,3.66,230.23,21.89,108.54,204.0,1991.0,2024.0
+Jamaica,Americas,Roots & Tubers,78.98,3.14,397.73,33.57,123.95,170.0,1991.0,2024.0
+Jamaica,Americas,Spices,76.61,2.69,333.96,68.96,205.14,102.0,1991.0,2024.0
+Jamaica,Americas,Sugar Crops,79.84,4.87,298.49,24.07,298.63,34.0,1991.0,2024.0
+Jamaica,Americas,Vegetables,82.41,4.05,416.85,56.03,213.36,646.0,1991.0,2024.0
+Japan,Asia,Aggregates,98.47,75.56,144.86,21.03,18.32,68.0,1991.0,2024.0
+Japan,Asia,Beverages,112.21,79.77,201.61,27.96,-2.08,68.0,1991.0,2024.0
+Japan,Asia,Cereals,202.74,55.65,568.82,122.8,-10.34,306.0,1991.0,2024.0
+Japan,Asia,Dairy & Eggs,90.24,64.04,169.04,11.22,81.56,136.0,1991.0,2024.0
+Japan,Asia,Fibers,79.62,43.24,117.14,3.03,30.99,32.0,1993.0,2024.0
+Japan,Asia,Fruits,103.03,44.72,271.11,37.23,42.63,770.0,1991.0,2024.0
+Japan,Asia,Meat,92.83,58.33,156.46,23.27,79.41,544.0,1991.0,2024.0
+Japan,Asia,Nuts,107.54,51.2,285.31,17.72,320.42,68.0,1991.0,2024.0
+Japan,Asia,Oilseeds,108.64,34.14,204.85,63.1,5.12,136.0,1991.0,2024.0
+Japan,Asia,Other Industrial,93.51,75.63,125.84,7.3,38.98,102.0,1991.0,2024.0
+Japan,Asia,Pulses,97.19,47.84,157.1,25.88,63.94,204.0,1991.0,2024.0
+Japan,Asia,Roots & Tubers,90.19,46.43,152.39,31.34,9.74,170.0,1991.0,2024.0
+Japan,Asia,Spices,71.38,33.49,106.37,12.98,5.78,34.0,1991.0,2024.0
+Japan,Asia,Sugar Crops,112.51,90.75,166.82,32.31,14.14,68.0,1991.0,2024.0
+Japan,Asia,Vegetables,93.55,16.32,479.91,46.46,40.56,850.0,1991.0,2024.0
+Jordan,Asia,Aggregates,68.45,37.1,112.72,11.44,32.54,68.0,1991.0,2024.0
+Jordan,Asia,Cereals,79.45,25.32,233.23,103.48,53.81,238.0,1991.0,2024.0
+Jordan,Asia,Dairy & Eggs,70.43,32.44,112.22,17.07,80.19,204.0,1991.0,2024.0
+Jordan,Asia,Fruits,78.27,11.35,377.16,74.48,51.1,782.0,1991.0,2024.0
+Jordan,Asia,Meat,73.04,20.5,138.48,19.31,34.63,612.0,1991.0,2024.0
+Jordan,Asia,Nuts,76.57,34.02,158.97,11.27,55.95,77.0,1991.0,2024.0
+Jordan,Asia,Oilseeds,66.16,14.01,165.53,74.59,40.62,111.0,1991.0,2024.0
+Jordan,Asia,Other Industrial,70.47,20.2,116.34,54.9,75.65,102.0,1991.0,2024.0
+Jordan,Asia,Pulses,70.43,18.79,120.26,63.06,62.39,170.0,1991.0,2024.0
+Jordan,Asia,Roots & Tubers,71.39,26.4,129.49,41.6,15.58,34.0,1991.0,2024.0
+Jordan,Asia,Spices,137.07,76.77,215.16,31.28,,10.0,2015.0,2024.0
+Jordan,Asia,Vegetables,65.31,12.15,216.69,49.26,127.49,785.0,1991.0,2024.0
+Kazakhstan,Asia,Aggregates,85.7,3.94,311.47,39.6,284.54,62.0,1994.0,2024.0
+Kazakhstan,Asia,Cereals,95.09,4.65,441.2,34.05,408.26,372.0,1994.0,2024.0
+Kazakhstan,Asia,Dairy & Eggs,80.7,2.62,312.03,43.99,218.44,240.0,1994.0,2024.0
+Kazakhstan,Asia,Fibers,72.54,17.63,220.1,56.77,-23.6,93.0,1994.0,2024.0
+Kazakhstan,Asia,Fruits,76.15,2.02,896.1,80.62,249.0,567.0,1994.0,2024.0
+Kazakhstan,Asia,Meat,77.49,1.3,330.39,47.72,278.75,507.0,1994.0,2024.0
+Kazakhstan,Asia,Nuts,79.45,6.98,316.7,19.23,115.36,124.0,1994.0,2024.0
+Kazakhstan,Asia,Oilseeds,90.12,5.72,470.38,34.75,-1.44,310.0,1994.0,2024.0
+Kazakhstan,Asia,Other Industrial,71.19,1.22,268.16,96.72,53.36,93.0,1994.0,2024.0
+Kazakhstan,Asia,Pulses,70.59,3.12,338.28,45.71,42.47,155.0,1994.0,2024.0
+Kazakhstan,Asia,Roots & Tubers,88.69,14.1,223.21,20.01,123.84,31.0,1994.0,2024.0
+Kazakhstan,Asia,Spices,72.21,10.18,158.97,17.89,100.77,31.0,1994.0,2024.0
+Kazakhstan,Asia,Sugar Crops,79.49,17.5,174.56,31.11,59.54,31.0,1994.0,2024.0
+Kazakhstan,Asia,Vegetables,76.19,3.23,338.97,43.46,122.99,651.0,1994.0,2024.0
+Kenya,Africa,Aggregates,65.78,8.86,145.34,30.08,90.53,68.0,1991.0,2024.0
+Kenya,Africa,Beverages,72.9,10.59,176.09,38.34,54.79,68.0,1991.0,2024.0
+Kenya,Africa,Cereals,68.39,2.18,228.96,83.26,21.3,306.0,1991.0,2024.0
+Kenya,Africa,Dairy & Eggs,64.4,6.32,139.3,30.75,50.18,238.0,1991.0,2024.0
+Kenya,Africa,Fibers,68.36,5.96,171.15,70.53,24.48,136.0,1991.0,2024.0
+Kenya,Africa,Fruits,82.3,5.56,595.33,98.71,36.8,816.0,1991.0,2024.0
+Kenya,Africa,Meat,70.16,5.95,195.4,62.14,68.59,544.0,1991.0,2024.0
+Kenya,Africa,Nuts,68.7,20.41,161.59,12.71,142.16,136.0,1991.0,2024.0
+Kenya,Africa,Oilseeds,95.67,13.49,671.69,67.89,141.67,272.0,1991.0,2024.0
+Kenya,Africa,Other Industrial,64.31,2.51,203.29,101.76,108.91,170.0,1991.0,2024.0
+Kenya,Africa,Pulses,64.48,4.24,136.7,37.95,104.95,238.0,1991.0,2024.0
+Kenya,Africa,Roots & Tubers,66.75,4.87,221.18,32.21,117.72,170.0,1991.0,2024.0
+Kenya,Africa,Spices,69.38,10.08,161.63,31.71,142.53,272.0,1991.0,2024.0
+Kenya,Africa,Sugar Crops,83.72,16.38,192.29,16.66,72.36,34.0,1991.0,2024.0
+Kenya,Africa,Vegetables,82.0,3.65,575.4,210.85,45.15,646.0,1991.0,2024.0
+Kuwait,Asia,Aggregates,95.86,78.88,115.55,16.2,,22.0,2014.0,2024.0
+Kuwait,Asia,Cereals,93.69,68.57,130.82,25.71,,66.0,2014.0,2024.0
+Kuwait,Asia,Dairy & Eggs,100.36,100.0,106.25,1.45,,33.0,2014.0,2024.0
+Kuwait,Asia,Fruits,90.44,24.0,293.7,158.97,,119.0,2014.0,2024.0
+Kuwait,Asia,Oilseeds,71.63,29.85,115.38,74.5,,33.0,2014.0,2024.0
+Kuwait,Asia,Other Industrial,100.0,100.0,100.0,0.0,,11.0,2014.0,2024.0
+Kuwait,Asia,Roots & Tubers,101.4,100.0,115.38,6.43,,11.0,2014.0,2024.0
+Kuwait,Asia,Vegetables,110.65,32.31,200.0,63.78,,198.0,2014.0,2024.0
+Kyrgyzstan,Asia,Aggregates,79.91,16.85,168.63,14.55,160.1,54.0,1998.0,2024.0
+Kyrgyzstan,Asia,Cereals,77.38,8.5,243.01,41.01,294.07,324.0,1998.0,2024.0
+Kyrgyzstan,Asia,Dairy & Eggs,74.01,15.88,170.36,18.81,107.36,189.0,1998.0,2024.0
+Kyrgyzstan,Asia,Fibers,130.47,40.51,324.27,40.58,-25.09,81.0,1998.0,2024.0
+Kyrgyzstan,Asia,Fruits,97.09,8.25,232.32,143.97,-36.17,540.0,1998.0,2024.0
+Kyrgyzstan,Asia,Meat,70.63,11.07,181.76,23.54,98.72,405.0,1998.0,2024.0
+Kyrgyzstan,Asia,Nuts,90.87,14.3,182.78,52.67,69.39,189.0,1998.0,2024.0
+Kyrgyzstan,Asia,Oilseeds,97.28,36.42,378.36,21.26,28.73,270.0,1998.0,2024.0
+Kyrgyzstan,Asia,Other Industrial,134.37,16.69,1259.23,190.03,406.04,108.0,1998.0,2024.0
+Kyrgyzstan,Asia,Pulses,73.77,10.47,223.74,53.78,54.6,108.0,1998.0,2024.0
+Kyrgyzstan,Asia,Roots & Tubers,78.91,14.3,171.18,39.29,159.31,27.0,1998.0,2024.0
+Kyrgyzstan,Asia,Spices,97.84,40.51,144.76,8.72,28.73,81.0,1998.0,2024.0
+Kyrgyzstan,Asia,Sugar Crops,85.98,20.2,183.33,47.02,16.55,27.0,1998.0,2024.0
+Kyrgyzstan,Asia,Vegetables,92.39,3.83,621.35,103.0,55.43,459.0,1998.0,2024.0
+Lao People's Democratic Republic,Asia,Aggregates,57.05,2.68,107.95,83.04,-5.75,68.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Beverages,64.59,4.11,104.21,164.77,27.55,68.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Cereals,62.03,4.18,122.18,19.32,4.57,136.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Dairy & Eggs,51.71,2.3,104.15,78.93,6.45,170.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Fibers,70.81,3.82,151.13,95.35,62.45,136.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Fruits,66.84,4.44,111.81,68.16,4.23,476.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Meat,59.04,1.67,156.79,49.38,61.95,510.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Oilseeds,62.88,3.78,158.99,72.85,79.16,170.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Other Industrial,62.17,4.02,123.26,23.19,40.0,34.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Pulses,58.87,5.92,137.42,32.53,103.53,102.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Roots & Tubers,74.88,2.24,171.1,83.3,-20.43,102.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Spices,55.41,2.93,104.15,19.76,36.53,68.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Sugar Crops,60.41,0.61,148.18,386.7,20.67,34.0,1991.0,2024.0
+Lao People's Democratic Republic,Asia,Vegetables,74.43,1.94,184.68,65.46,18.51,170.0,1991.0,2024.0
+Latvia,Europe,Aggregates,92.66,22.97,188.54,18.37,44.35,66.0,1992.0,2024.0
+Latvia,Europe,Cereals,95.52,30.15,245.05,27.97,36.47,363.0,1992.0,2024.0
+Latvia,Europe,Dairy & Eggs,88.92,16.41,217.51,33.67,109.06,198.0,1992.0,2024.0
+Latvia,Europe,Fibers,60.97,11.79,130.39,54.87,107.35,64.0,1992.0,2024.0
+Latvia,Europe,Fruits,83.36,12.44,287.48,58.0,134.16,362.0,1992.0,2024.0
+Latvia,Europe,Meat,96.07,6.02,535.21,152.1,6.76,495.0,1992.0,2024.0
+Latvia,Europe,Oilseeds,89.2,16.68,251.62,41.64,307.28,132.0,1992.0,2024.0
+Latvia,Europe,Other Industrial,90.98,16.99,177.95,48.31,-2.02,66.0,1992.0,2024.0
+Latvia,Europe,Pulses,95.86,32.4,422.69,65.83,125.01,194.0,1992.0,2024.0
+Latvia,Europe,Roots & Tubers,84.01,31.19,156.72,22.61,44.41,33.0,1992.0,2024.0
+Latvia,Europe,Sugar Crops,68.06,42.14,137.62,28.44,10.82,33.0,1992.0,2024.0
+Latvia,Europe,Vegetables,99.03,5.71,286.72,92.07,19.05,520.0,1992.0,2024.0
+Lebanon,Asia,Aggregates,72.36,15.01,128.77,26.5,81.4,68.0,1991.0,2024.0
+Lebanon,Asia,Cereals,89.81,13.01,188.19,38.0,57.14,238.0,1991.0,2024.0
+Lebanon,Asia,Dairy & Eggs,72.78,3.0,128.57,89.52,34.87,204.0,1991.0,2024.0
+Lebanon,Asia,Fruits,69.6,1.53,191.84,89.67,32.96,768.0,1991.0,2024.0
+Lebanon,Asia,Meat,75.77,4.52,140.91,49.5,140.65,374.0,1991.0,2024.0
+Lebanon,Asia,Nuts,78.53,14.42,142.43,50.08,35.05,136.0,1991.0,2024.0
+Lebanon,Asia,Oilseeds,84.14,13.66,143.56,42.69,30.96,170.0,1991.0,2024.0
+Lebanon,Asia,Other Industrial,82.91,9.44,176.52,42.52,94.96,136.0,1991.0,2024.0
+Lebanon,Asia,Pulses,79.36,4.95,223.74,45.34,125.38,306.0,1991.0,2024.0
+Lebanon,Asia,Roots & Tubers,76.91,7.93,122.31,74.85,78.46,68.0,1991.0,2024.0
+Lebanon,Asia,Spices,75.17,24.11,126.46,9.3,6.82,68.0,1991.0,2024.0
+Lebanon,Asia,Sugar Crops,67.1,1.28,172.03,116.06,203.1,68.0,1991.0,2024.0
+Lebanon,Asia,Vegetables,71.85,0.45,391.61,145.61,238.34,714.0,1991.0,2024.0
+Lithuania,Europe,Aggregates,94.7,5.17,206.15,90.65,48.93,66.0,1992.0,2024.0
+Lithuania,Europe,Cereals,100.95,8.81,242.83,28.04,56.81,350.0,1992.0,2024.0
+Lithuania,Europe,Dairy & Eggs,97.78,2.13,215.52,123.9,62.87,164.0,1992.0,2024.0
+Lithuania,Europe,Fibers,165.32,55.35,404.72,26.29,-77.43,62.0,1993.0,2024.0
+Lithuania,Europe,Fruits,85.95,0.84,386.05,154.02,73.15,410.0,1992.0,2024.0
+Lithuania,Europe,Meat,94.53,6.41,202.63,58.58,39.07,536.0,1992.0,2024.0
+Lithuania,Europe,Oilseeds,85.2,11.09,197.26,59.75,15.03,130.0,1992.0,2024.0
+Lithuania,Europe,Other Industrial,101.01,5.08,200.41,171.32,14.85,65.0,1992.0,2024.0
+Lithuania,Europe,Pulses,92.48,35.7,221.98,50.23,85.86,256.0,1993.0,2024.0
+Lithuania,Europe,Roots & Tubers,106.0,5.4,252.61,77.75,99.68,33.0,1992.0,2024.0
+Lithuania,Europe,Sugar Crops,118.87,12.74,170.06,152.78,-10.17,33.0,1992.0,2024.0
+Lithuania,Europe,Vegetables,97.45,5.4,304.18,155.18,8.95,629.0,1992.0,2024.0
+Luxembourg,Europe,Aggregates,107.23,80.86,160.1,9.79,39.91,50.0,2000.0,2024.0
+Luxembourg,Europe,Cereals,98.99,55.43,164.75,14.66,5.45,250.0,2000.0,2024.0
+Luxembourg,Europe,Dairy & Eggs,101.59,55.06,162.66,25.98,47.95,100.0,2000.0,2024.0
+Luxembourg,Europe,Fruits,90.99,33.81,140.71,18.68,33.06,200.0,2000.0,2024.0
+Luxembourg,Europe,Meat,107.11,61.67,226.02,35.34,24.17,350.0,2000.0,2024.0
+Luxembourg,Europe,Nuts,96.12,74.58,119.87,5.81,4.83,50.0,2000.0,2024.0
+Luxembourg,Europe,Oilseeds,92.38,53.44,149.15,14.29,2.94,50.0,2000.0,2024.0
+Luxembourg,Europe,Other Industrial,95.78,66.67,119.61,22.29,47.37,50.0,2000.0,2024.0
+Luxembourg,Europe,Pulses,87.95,57.02,132.26,14.37,24.85,100.0,2000.0,2024.0
+Luxembourg,Europe,Roots & Tubers,115.93,58.91,204.01,26.78,37.42,25.0,2000.0,2024.0
+Luxembourg,Europe,Vegetables,126.67,42.07,236.54,25.5,-29.75,275.0,2000.0,2024.0
+Madagascar,Africa,Aggregates,68.41,3.31,146.98,86.69,49.45,68.0,1991.0,2024.0
+Madagascar,Africa,Beverages,70.52,1.17,214.88,235.47,62.31,102.0,1991.0,2024.0
+Madagascar,Africa,Cereals,76.48,6.16,245.64,88.76,42.8,238.0,1991.0,2024.0
+Madagascar,Africa,Dairy & Eggs,62.88,3.1,131.38,38.31,17.19,170.0,1991.0,2024.0
+Madagascar,Africa,Fibers,65.58,5.73,144.98,33.65,32.68,238.0,1991.0,2024.0
+Madagascar,Africa,Fruits,72.42,7.57,177.29,194.9,28.11,646.0,1991.0,2024.0
+Madagascar,Africa,Meat,65.24,1.08,168.12,106.5,45.5,680.0,1991.0,2024.0
+Madagascar,Africa,Nuts,62.72,7.58,144.98,39.49,45.76,136.0,1991.0,2024.0
+Madagascar,Africa,Oilseeds,66.19,6.35,147.83,30.7,48.54,272.0,1991.0,2024.0
+Madagascar,Africa,Other Industrial,64.24,1.99,144.98,47.63,25.26,170.0,1991.0,2024.0
+Madagascar,Africa,Pulses,74.18,7.58,179.2,129.09,60.44,204.0,1991.0,2024.0
+Madagascar,Africa,Roots & Tubers,71.02,3.07,139.06,94.15,9.72,136.0,1991.0,2024.0
+Madagascar,Africa,Spices,90.97,0.3,2215.41,1863.5,28.47,306.0,1991.0,2024.0
+Madagascar,Africa,Sugar Crops,65.94,2.11,131.38,130.86,-15.1,34.0,1991.0,2024.0
+Madagascar,Africa,Vegetables,69.7,5.11,221.03,115.22,14.07,612.0,1991.0,2024.0
+Malawi,Africa,Aggregates,81.93,1.71,330.58,24.33,862.1,58.0,1996.0,2024.0
+Malawi,Africa,Beverages,91.22,6.75,169.15,21.0,-18.28,58.0,1996.0,2024.0
+Malawi,Africa,Cereals,82.07,0.91,683.85,50.63,778.57,203.0,1996.0,2024.0
+Malawi,Africa,Dairy & Eggs,83.84,0.86,401.03,38.17,456.55,116.0,1996.0,2024.0
+Malawi,Africa,Fibers,91.59,6.75,167.32,19.01,-10.35,116.0,1996.0,2024.0
+Malawi,Africa,Fruits,86.29,0.8,420.71,169.75,931.3,290.0,1996.0,2024.0
+Malawi,Africa,Meat,88.23,1.55,491.74,37.98,956.16,319.0,1996.0,2024.0
+Malawi,Africa,Nuts,116.76,3.31,543.62,20.22,934.35,58.0,1996.0,2024.0
+Malawi,Africa,Oilseeds,87.93,1.02,348.64,291.56,-9.71,145.0,1996.0,2024.0
+Malawi,Africa,Other Industrial,95.07,8.62,167.3,17.16,8.57,58.0,1996.0,2024.0
+Malawi,Africa,Pulses,74.64,0.35,405.94,115.85,704.25,223.0,1996.0,2024.0
+Malawi,Africa,Roots & Tubers,83.59,0.93,409.93,30.36,1244.78,115.0,1996.0,2024.0
+Malawi,Africa,Spices,88.2,1.25,357.06,706.84,-10.55,174.0,1996.0,2024.0
+Malawi,Africa,Sugar Crops,74.07,0.93,264.34,19.22,774.28,29.0,1996.0,2024.0
+Malawi,Africa,Vegetables,83.87,0.49,487.84,203.23,8.57,348.0,1996.0,2024.0
+Malaysia,Asia,Aggregates,75.32,22.55,173.77,41.65,21.45,68.0,1991.0,2024.0
+Malaysia,Asia,Beverages,73.49,19.31,144.65,37.64,2.21,102.0,1991.0,2024.0
+Malaysia,Asia,Cereals,71.87,33.33,109.61,20.49,64.45,135.0,1991.0,2024.0
+Malaysia,Asia,Dairy & Eggs,80.85,42.27,150.26,17.94,32.48,204.0,1991.0,2024.0
+Malaysia,Asia,Fruits,78.97,18.53,195.13,40.41,144.25,453.0,1991.0,2024.0
+Malaysia,Asia,Meat,78.13,18.47,306.79,39.22,120.45,578.0,1991.0,2024.0
+Malaysia,Asia,Nuts,80.09,43.06,142.26,7.68,27.47,102.0,1991.0,2024.0
+Malaysia,Asia,Oilseeds,77.47,12.18,213.17,56.0,119.65,204.0,1991.0,2024.0
+Malaysia,Asia,Other Industrial,91.92,17.86,246.12,97.3,-75.23,136.0,1991.0,2024.0
+Malaysia,Asia,Roots & Tubers,77.62,16.2,283.06,41.12,55.16,165.0,1991.0,2024.0
+Malaysia,Asia,Spices,71.96,22.01,145.17,48.18,18.46,170.0,1991.0,2024.0
+Malaysia,Asia,Sugar Crops,64.78,7.7,151.56,89.31,64.8,34.0,1991.0,2024.0
+Malaysia,Asia,Vegetables,88.89,32.24,327.43,33.7,45.28,522.0,1991.0,2024.0
+Maldives,Asia,Aggregates,64.46,15.42,128.63,56.33,61.33,23.0,2002.0,2024.0
+Maldives,Asia,Fruits,71.17,17.39,147.7,54.61,32.57,145.0,2002.0,2024.0
+Maldives,Asia,Nuts,84.07,3.24,139.77,55.74,62.28,23.0,2002.0,2024.0
+Maldives,Asia,Oilseeds,84.36,38.87,202.3,66.29,,22.0,2014.0,2024.0
+Maldives,Asia,Pulses,98.87,74.35,138.19,13.52,8.61,23.0,2002.0,2024.0
+Maldives,Asia,Roots & Tubers,87.6,41.76,131.25,35.59,-42.32,59.0,2010.0,2024.0
+Maldives,Asia,Vegetables,81.6,11.89,161.97,90.44,41.18,222.0,2002.0,2024.0
+Mali,Africa,Aggregates,76.51,21.57,137.15,32.97,43.84,68.0,1991.0,2024.0
+Mali,Africa,Beverages,64.49,6.41,114.4,17.09,38.26,34.0,1991.0,2024.0
+Mali,Africa,Cereals,88.48,12.91,225.1,56.19,34.0,306.0,1991.0,2024.0
+Mali,Africa,Dairy & Eggs,75.19,13.74,160.9,65.34,-5.71,238.0,1991.0,2024.0
+Mali,Africa,Fibers,85.28,36.27,124.57,16.97,60.28,170.0,1991.0,2024.0
+Mali,Africa,Fruits,92.68,9.12,651.0,123.92,371.8,528.0,1991.0,2024.0
+Mali,Africa,Meat,79.5,6.87,225.54,99.13,43.29,633.0,1991.0,2024.0
+Mali,Africa,Nuts,86.8,52.54,109.95,11.05,24.51,68.0,1991.0,2024.0
+Mali,Africa,Oilseeds,77.66,17.82,192.09,66.56,45.35,231.0,1991.0,2024.0
+Mali,Africa,Other Industrial,100.34,25.04,207.57,82.11,-6.03,117.0,1991.0,2024.0
+Mali,Africa,Pulses,88.61,22.28,300.19,40.91,32.91,136.0,1991.0,2024.0
+Mali,Africa,Roots & Tubers,74.57,17.48,148.83,50.82,581.69,136.0,1991.0,2024.0
+Mali,Africa,Spices,165.12,37.63,509.23,240.72,231.63,68.0,1991.0,2024.0
+Mali,Africa,Sugar Crops,97.07,44.2,189.23,22.44,11.09,34.0,1991.0,2024.0
+Mali,Africa,Vegetables,102.27,2.35,361.37,613.81,-98.43,380.0,1991.0,2024.0
+Malta,Europe,Aggregates,86.64,48.07,148.86,12.09,74.29,68.0,1991.0,2024.0
+Malta,Europe,Cereals,79.85,36.46,129.14,13.27,50.77,136.0,1991.0,2024.0
+Malta,Europe,Dairy & Eggs,85.78,46.93,189.53,16.96,110.82,204.0,1991.0,2024.0
+Malta,Europe,Fruits,96.99,12.77,342.96,104.81,124.68,646.0,1991.0,2024.0
+Malta,Europe,Meat,92.94,42.05,183.49,18.83,22.48,578.0,1991.0,2024.0
+Malta,Europe,Oilseeds,144.11,82.6,271.52,21.55,64.56,68.0,1991.0,2024.0
+Malta,Europe,Other Industrial,83.17,45.72,105.03,7.05,25.0,34.0,1991.0,2024.0
+Malta,Europe,Pulses,78.1,50.44,116.55,5.73,24.09,136.0,1991.0,2024.0
+Malta,Europe,Roots & Tubers,96.34,57.07,202.14,23.32,115.11,34.0,1991.0,2024.0
+Malta,Europe,Vegetables,96.07,35.45,264.03,47.13,24.88,374.0,1991.0,2024.0
+Mauritius,Africa,Aggregates,88.57,34.08,210.63,37.8,100.36,68.0,1991.0,2024.0
+Mauritius,Africa,Beverages,88.07,22.89,170.55,9.57,89.06,34.0,1991.0,2024.0
+Mauritius,Africa,Cereals,91.64,71.9,109.55,2.43,9.15,102.0,1991.0,2024.0
+Mauritius,Africa,Dairy & Eggs,75.18,18.45,157.2,15.87,52.52,136.0,1991.0,2024.0
+Mauritius,Africa,Fibers,82.56,39.93,115.08,5.02,-0.72,68.0,1991.0,2024.0
+Mauritius,Africa,Fruits,95.89,31.09,356.07,30.55,294.11,238.0,1991.0,2024.0
+Mauritius,Africa,Meat,75.15,25.71,192.19,21.89,8.07,680.0,1991.0,2024.0
+Mauritius,Africa,Nuts,100.87,30.78,241.79,10.2,193.73,68.0,1991.0,2024.0
+Mauritius,Africa,Oilseeds,90.85,28.02,352.53,32.33,88.32,102.0,1991.0,2024.0
+Mauritius,Africa,Other Industrial,75.75,34.0,107.32,6.66,2.35,34.0,1991.0,2024.0
+Mauritius,Africa,Pulses,93.35,65.3,125.3,6.63,21.82,34.0,1991.0,2024.0
+Mauritius,Africa,Roots & Tubers,96.91,16.2,332.69,54.03,295.78,136.0,1991.0,2024.0
+Mauritius,Africa,Spices,99.35,27.84,250.07,42.22,12.13,68.0,1991.0,2024.0
+Mauritius,Africa,Sugar Crops,109.46,39.27,207.55,17.12,84.76,34.0,1991.0,2024.0
+Mauritius,Africa,Vegetables,98.79,16.72,515.55,49.28,221.32,680.0,1991.0,2024.0
+Mexico,Americas,Aggregates,75.43,15.45,170.9,10.62,93.46,68.0,1991.0,2024.0
+Mexico,Americas,Beverages,91.85,7.62,420.48,128.78,9.78,102.0,1991.0,2024.0
+Mexico,Americas,Cereals,103.82,7.34,1139.64,247.27,92.6,408.0,1991.0,2024.0
+Mexico,Americas,Dairy & Eggs,75.1,13.68,171.44,26.84,113.68,170.0,1991.0,2024.0
+Mexico,Americas,Fibers,70.82,8.48,196.25,45.15,-7.6,170.0,1991.0,2024.0
+Mexico,Americas,Fruits,81.55,5.57,302.73,98.83,124.61,1182.0,1991.0,2024.0
+Mexico,Americas,Meat,70.63,12.44,154.11,17.4,151.77,646.0,1991.0,2024.0
+Mexico,Americas,Nuts,71.73,4.49,194.26,91.2,-26.18,238.0,1991.0,2024.0
+Mexico,Americas,Oilseeds,77.59,2.83,300.28,248.62,8.89,544.0,1991.0,2024.0
+Mexico,Americas,Other Industrial,71.95,6.79,151.92,136.04,11.81,238.0,1991.0,2024.0
+Mexico,Americas,Pulses,79.53,12.86,198.28,41.36,119.66,272.0,1991.0,2024.0
+Mexico,Americas,Roots & Tubers,73.4,13.9,209.72,29.15,38.29,170.0,1991.0,2024.0
+Mexico,Americas,Spices,76.88,7.23,214.04,90.14,93.85,204.0,1991.0,2024.0
+Mexico,Americas,Sugar Crops,78.98,8.02,198.61,50.51,95.26,68.0,1991.0,2024.0
+Mexico,Americas,Vegetables,79.61,4.26,289.87,46.19,122.42,884.0,1991.0,2024.0
+Mongolia,Asia,Aggregates,92.53,5.06,416.98,25.04,157.77,64.0,1993.0,2024.0
+Mongolia,Asia,Cereals,77.84,2.84,323.96,40.49,228.83,179.0,1993.0,2024.0
+Mongolia,Asia,Dairy & Eggs,97.35,2.31,750.38,100.37,55.23,224.0,1993.0,2024.0
+Mongolia,Asia,Meat,70.97,3.12,323.91,65.18,793.76,480.0,1993.0,2024.0
+Mongolia,Asia,Nuts,70.39,12.29,136.28,21.65,7.42,92.0,1993.0,2024.0
+Mongolia,Asia,Other Industrial,91.16,5.58,331.34,126.43,32.97,64.0,1993.0,2024.0
+Mongolia,Asia,Pulses,66.96,13.02,136.28,14.16,-37.97,64.0,1993.0,2024.0
+Mongolia,Asia,Roots & Tubers,59.55,3.19,182.51,75.43,147.78,32.0,1993.0,2024.0
+Mongolia,Asia,Vegetables,69.23,2.0,250.63,43.81,159.43,273.0,1993.0,2024.0
+Morocco,Africa,Aggregates,102.75,70.93,174.53,19.62,22.45,68.0,1991.0,2024.0
+Morocco,Africa,Cereals,98.86,43.27,223.61,27.9,102.64,374.0,1991.0,2024.0
+Morocco,Africa,Dairy & Eggs,111.8,84.91,204.06,19.36,33.22,238.0,1991.0,2024.0
+Morocco,Africa,Fibers,102.73,80.63,131.36,9.13,-4.27,170.0,1991.0,2024.0
+Morocco,Africa,Fruits,87.55,11.06,362.05,51.33,-41.11,1067.0,1991.0,2024.0
+Morocco,Africa,Meat,102.76,59.08,135.5,10.65,14.14,612.0,1991.0,2024.0
+Morocco,Africa,Nuts,110.38,40.91,556.98,69.91,578.29,170.0,1991.0,2024.0
+Morocco,Africa,Oilseeds,95.8,43.33,183.29,29.75,-12.94,340.0,1991.0,2024.0
+Morocco,Africa,Other Industrial,101.58,74.76,131.36,11.01,-8.27,170.0,1991.0,2024.0
+Morocco,Africa,Pulses,85.92,33.13,164.3,34.54,24.85,306.0,1991.0,2024.0
+Morocco,Africa,Roots & Tubers,111.46,80.74,194.48,18.84,-12.94,102.0,1991.0,2024.0
+Morocco,Africa,Spices,103.61,80.74,131.36,7.6,-12.94,102.0,1991.0,2024.0
+Morocco,Africa,Sugar Crops,101.69,79.43,131.37,4.54,-4.25,68.0,1991.0,2024.0
+Morocco,Africa,Vegetables,87.64,23.18,229.81,44.9,-42.5,816.0,1991.0,2024.0
+Mozambique,Africa,Aggregates,63.78,1.54,193.97,49.62,208.47,68.0,1991.0,2024.0
+Mozambique,Africa,Beverages,70.51,1.21,139.55,224.91,44.0,68.0,1991.0,2024.0
+Mozambique,Africa,Cereals,65.12,0.99,240.03,130.78,338.86,238.0,1991.0,2024.0
+Mozambique,Africa,Dairy & Eggs,63.3,1.13,211.69,103.22,100.29,170.0,1991.0,2024.0
+Mozambique,Africa,Fibers,76.75,5.22,157.93,28.46,7.91,204.0,1991.0,2024.0
+Mozambique,Africa,Fruits,75.81,4.0,145.93,96.54,-14.97,442.0,1991.0,2024.0
+Mozambique,Africa,Meat,77.44,0.99,298.3,63.17,70.44,442.0,1991.0,2024.0
+Mozambique,Africa,Nuts,76.0,3.49,128.73,27.68,-7.95,68.0,1991.0,2024.0
+Mozambique,Africa,Oilseeds,77.72,0.22,240.11,3321.93,5.1,272.0,1991.0,2024.0
+Mozambique,Africa,Other Industrial,70.34,2.43,128.73,46.32,-9.93,68.0,1991.0,2024.0
+Mozambique,Africa,Pulses,83.54,1.42,255.72,872.22,39.85,78.0,1991.0,2024.0
+Mozambique,Africa,Roots & Tubers,75.13,1.11,332.52,169.0,400.99,136.0,1991.0,2024.0
+Mozambique,Africa,Sugar Crops,76.72,7.97,128.73,22.17,2.85,34.0,1991.0,2024.0
+Mozambique,Africa,Vegetables,69.95,1.44,197.96,114.67,175.99,238.0,1991.0,2024.0
+Myanmar,Asia,Aggregates,65.23,1.2,232.49,107.04,262.08,68.0,1991.0,2024.0
+Myanmar,Asia,Beverages,83.9,3.09,396.11,79.86,88.04,68.0,1991.0,2024.0
+Myanmar,Asia,Cereals,63.63,0.46,282.94,61.7,21.75,238.0,1991.0,2024.0
+Myanmar,Asia,Dairy & Eggs,66.29,3.51,128.38,26.87,-23.34,272.0,1991.0,2024.0
+Myanmar,Asia,Fibers,68.34,2.39,175.4,214.61,571.08,204.0,1991.0,2024.0
+Myanmar,Asia,Fruits,73.55,6.89,139.9,27.07,-9.46,136.0,1991.0,2024.0
+Myanmar,Asia,Meat,67.71,5.18,128.38,9.36,-16.86,714.0,1991.0,2024.0
+Myanmar,Asia,Nuts,62.45,1.25,121.01,41.42,25.59,67.0,1991.0,2024.0
+Myanmar,Asia,Oilseeds,72.38,0.99,364.6,338.98,202.89,272.0,1991.0,2024.0
+Myanmar,Asia,Other Industrial,88.87,2.1,378.45,118.52,20.27,136.0,1991.0,2024.0
+Myanmar,Asia,Pulses,76.43,1.3,390.54,37.95,63.6,238.0,1991.0,2024.0
+Myanmar,Asia,Roots & Tubers,70.67,0.32,419.88,127.5,801.26,102.0,1991.0,2024.0
+Myanmar,Asia,Spices,80.67,8.35,152.76,19.63,15.88,34.0,1991.0,2024.0
+Myanmar,Asia,Sugar Crops,46.67,1.8,134.6,49.35,348.07,68.0,1991.0,2024.0
+Myanmar,Asia,Vegetables,72.27,0.63,536.73,55.03,-16.05,204.0,1991.0,2024.0
+Namibia,Africa,Aggregates,79.76,22.33,128.64,12.55,4.18,68.0,1991.0,2024.0
+Namibia,Africa,Cereals,69.2,9.55,234.98,26.68,140.38,204.0,1991.0,2024.0
+Namibia,Africa,Dairy & Eggs,80.15,19.93,128.64,14.17,-14.99,170.0,1991.0,2024.0
+Namibia,Africa,Fibers,103.82,43.11,192.59,19.77,1.75,68.0,1991.0,2024.0
+Namibia,Africa,Fruits,90.66,22.73,138.1,41.75,-12.91,238.0,1991.0,2024.0
+Namibia,Africa,Meat,88.55,18.93,339.36,34.39,-15.59,442.0,1991.0,2024.0
+Namibia,Africa,Oilseeds,90.55,29.57,192.59,37.73,1.75,136.0,1991.0,2024.0
+Namibia,Africa,Other Industrial,82.34,38.67,128.64,10.93,-14.17,34.0,1991.0,2024.0
+Namibia,Africa,Pulses,79.84,19.55,128.64,9.21,-11.62,68.0,1991.0,2024.0
+Namibia,Africa,Roots & Tubers,79.83,19.54,128.64,9.22,-11.62,68.0,1991.0,2024.0
+Namibia,Africa,Vegetables,80.42,19.55,128.64,9.2,-11.62,136.0,1991.0,2024.0
+Nepal,Asia,Aggregates,71.38,17.27,159.56,10.85,84.72,68.0,1991.0,2024.0
+Nepal,Asia,Beverages,78.47,33.26,215.09,30.63,68.05,68.0,1991.0,2024.0
+Nepal,Asia,Cereals,68.56,13.84,196.97,12.22,151.43,252.0,1991.0,2024.0
+Nepal,Asia,Dairy & Eggs,72.22,8.32,198.76,25.61,142.28,272.0,1991.0,2024.0
+Nepal,Asia,Fibers,79.49,18.63,230.04,31.67,114.11,170.0,1991.0,2024.0
+Nepal,Asia,Fruits,93.63,11.5,498.9,60.81,54.59,538.0,1991.0,2024.0
+Nepal,Asia,Meat,60.01,9.45,147.07,38.78,73.74,510.0,1991.0,2024.0
+Nepal,Asia,Nuts,66.22,22.27,119.25,25.45,109.55,136.0,1991.0,2024.0
+Nepal,Asia,Oilseeds,68.66,5.16,216.52,180.99,1130.83,211.0,1991.0,2024.0
+Nepal,Asia,Other Industrial,71.16,19.89,202.18,44.44,115.86,92.0,1991.0,2024.0
+Nepal,Asia,Pulses,73.48,10.16,222.05,43.63,34.91,204.0,1991.0,2024.0
+Nepal,Asia,Roots & Tubers,70.59,4.43,141.36,33.59,53.73,92.0,1991.0,2024.0
+Nepal,Asia,Spices,76.6,11.64,163.9,151.85,21.07,136.0,1991.0,2024.0
+Nepal,Asia,Sugar Crops,61.92,8.64,161.48,29.89,96.33,34.0,1991.0,2024.0
+Nepal,Asia,Vegetables,78.5,7.63,258.77,63.83,76.45,291.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Aggregates,100.2,77.13,163.65,8.85,59.5,68.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Cereals,103.18,62.82,215.9,16.16,20.0,306.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Dairy & Eggs,98.19,54.61,252.99,27.96,147.88,151.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Fibers,109.81,70.49,179.96,6.91,-17.48,66.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Fruits,101.52,41.33,236.29,27.83,61.55,442.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Meat,99.23,55.12,244.3,41.96,-3.26,650.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Oilseeds,90.56,22.72,224.44,74.3,-0.93,136.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Other Industrial,126.86,74.98,253.48,12.67,3.62,34.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Pulses,90.95,37.98,191.59,39.22,34.02,136.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Roots & Tubers,100.17,26.65,214.51,59.04,91.94,34.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Spices,106.45,82.53,152.9,8.56,31.17,34.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Sugar Crops,119.68,68.18,202.03,20.52,80.72,34.0,1991.0,2024.0
+Netherlands (Kingdom of the),Europe,Vegetables,118.48,26.65,538.48,70.36,26.09,806.0,1991.0,2024.0
+New Caledonia,Oceania,Aggregates,116.21,93.01,139.62,6.54,,20.0,2015.0,2024.0
+New Caledonia,Oceania,Beverages,85.38,66.76,107.08,13.44,,10.0,2015.0,2024.0
+New Caledonia,Oceania,Cereals,108.28,99.99,129.99,4.62,,27.0,2016.0,2024.0
+New Caledonia,Oceania,Dairy & Eggs,107.62,91.52,130.77,11.8,,40.0,2015.0,2024.0
+New Caledonia,Oceania,Fruits,121.81,54.02,188.0,20.61,,100.0,2015.0,2024.0
+New Caledonia,Oceania,Meat,105.7,90.1,125.07,8.58,,50.0,2015.0,2024.0
+New Caledonia,Oceania,Oilseeds,128.52,90.9,166.59,5.7,,20.0,2015.0,2024.0
+New Caledonia,Oceania,Other Industrial,115.55,98.7,127.9,8.6,,10.0,2015.0,2024.0
+New Caledonia,Oceania,Pulses,127.23,61.15,181.68,46.83,,20.0,2015.0,2024.0
+New Caledonia,Oceania,Roots & Tubers,102.64,36.27,179.82,34.85,,50.0,2015.0,2024.0
+New Caledonia,Oceania,Vegetables,120.16,93.07,162.93,13.78,,50.0,2015.0,2024.0
+New Zealand,Oceania,Aggregates,91.79,43.86,153.85,14.03,30.89,68.0,1991.0,2024.0
+New Zealand,Oceania,Beverages,86.14,56.39,121.07,7.64,20.57,34.0,1991.0,2024.0
+New Zealand,Oceania,Cereals,88.32,45.32,214.18,15.7,66.28,238.0,1991.0,2024.0
+New Zealand,Oceania,Dairy & Eggs,88.06,41.15,161.02,20.21,5.1,170.0,1991.0,2024.0
+New Zealand,Oceania,Fibers,85.29,51.74,123.9,6.53,29.27,68.0,1991.0,2024.0
+New Zealand,Oceania,Fruits,87.95,25.95,215.86,39.93,46.12,1054.0,1991.0,2024.0
+New Zealand,Oceania,Meat,87.01,35.71,168.31,25.01,17.09,714.0,1991.0,2024.0
+New Zealand,Oceania,Oilseeds,85.86,58.8,121.07,3.82,21.16,102.0,1991.0,2024.0
+New Zealand,Oceania,Other Industrial,77.43,30.47,123.05,56.76,29.19,68.0,1991.0,2024.0
+New Zealand,Oceania,Pulses,78.39,36.94,124.31,16.7,28.35,102.0,1991.0,2024.0
+New Zealand,Oceania,Roots & Tubers,89.17,25.59,138.18,40.63,24.27,68.0,1991.0,2024.0
+New Zealand,Oceania,Vegetables,88.9,21.96,174.54,30.39,25.63,714.0,1991.0,2024.0
+Nicaragua,Americas,Aggregates,62.87,9.31,170.16,10.04,125.11,66.0,1991.0,2023.0
+Nicaragua,Americas,Beverages,67.63,6.81,145.36,32.7,42.93,66.0,1991.0,2023.0
+Nicaragua,Americas,Cereals,67.47,5.26,310.0,22.1,176.89,165.0,1991.0,2023.0
+Nicaragua,Americas,Dairy & Eggs,67.05,10.14,190.5,33.92,214.3,132.0,1991.0,2023.0
+Nicaragua,Americas,Fibers,87.08,41.86,143.83,18.35,80.2,132.0,1991.0,2023.0
+Nicaragua,Americas,Fruits,74.78,11.68,144.7,46.38,44.43,264.0,1991.0,2023.0
+Nicaragua,Americas,Meat,70.24,5.76,199.65,40.22,106.06,429.0,1991.0,2023.0
+Nicaragua,Americas,Oilseeds,64.86,3.57,217.96,125.56,56.35,264.0,1991.0,2023.0
+Nicaragua,Americas,Other Industrial,71.91,6.28,178.44,163.37,108.52,99.0,1991.0,2023.0
+Nicaragua,Americas,Pulses,72.9,7.6,220.47,35.88,132.47,66.0,1991.0,2023.0
+Nicaragua,Americas,Roots & Tubers,62.83,4.49,286.19,36.37,189.54,99.0,1991.0,2023.0
+Nicaragua,Americas,Sugar Crops,66.26,10.04,230.87,11.63,230.48,33.0,1991.0,2023.0
+Nicaragua,Americas,Vegetables,69.22,3.69,217.51,143.94,141.2,231.0,1991.0,2023.0
+Niger,Africa,Aggregates,68.54,22.76,109.65,47.2,-44.7,68.0,1991.0,2024.0
+Niger,Africa,Cereals,59.04,15.41,117.23,45.91,-7.51,306.0,1991.0,2024.0
+Niger,Africa,Dairy & Eggs,76.51,22.91,169.16,59.1,195.99,238.0,1991.0,2024.0
+Niger,Africa,Fibers,75.99,44.47,107.14,7.8,-4.14,102.0,1991.0,2024.0
+Niger,Africa,Fruits,67.41,3.92,123.34,155.47,-31.91,127.0,1991.0,2024.0
+Niger,Africa,Meat,80.08,26.36,119.73,39.54,-7.39,612.0,1991.0,2024.0
+Niger,Africa,Oilseeds,63.66,23.1,140.19,39.54,-4.33,136.0,1991.0,2024.0
+Niger,Africa,Other Industrial,80.34,56.28,106.85,3.85,26.51,34.0,1991.0,2024.0
+Niger,Africa,Pulses,77.52,22.34,134.47,26.0,-39.06,229.0,1991.0,2024.0
+Niger,Africa,Roots & Tubers,73.84,19.79,120.28,24.87,-40.79,120.0,1991.0,2024.0
+Niger,Africa,Spices,73.07,6.59,111.49,166.43,7.93,102.0,1991.0,2024.0
+Niger,Africa,Sugar Crops,78.36,10.17,125.82,30.12,51.76,34.0,1991.0,2024.0
+Niger,Africa,Vegetables,67.08,6.07,160.44,78.03,-6.92,554.0,1991.0,2024.0
+Nigeria,Africa,Aggregates,75.1,5.39,139.27,34.48,75.07,68.0,1991.0,2024.0
+Nigeria,Africa,Beverages,164.08,14.96,532.28,49.81,-63.12,68.0,1991.0,2024.0
+Nigeria,Africa,Cereals,78.71,2.8,272.33,66.8,179.62,272.0,1991.0,2024.0
+Nigeria,Africa,Dairy & Eggs,74.47,5.11,118.39,53.78,-1.38,136.0,1991.0,2024.0
+Nigeria,Africa,Fibers,56.25,1.27,155.65,209.67,-12.81,136.0,1991.0,2024.0
+Nigeria,Africa,Fruits,78.33,3.15,170.96,51.2,-0.1,306.0,1991.0,2024.0
+Nigeria,Africa,Meat,73.07,4.89,191.38,24.21,1.8,408.0,1991.0,2024.0
+Nigeria,Africa,Nuts,87.29,10.0,186.98,17.65,-24.79,136.0,1991.0,2024.0
+Nigeria,Africa,Oilseeds,88.98,1.27,582.82,227.54,-23.49,374.0,1991.0,2024.0
+Nigeria,Africa,Other Industrial,82.92,3.81,195.85,63.1,-11.64,102.0,1991.0,2024.0
+Nigeria,Africa,Pulses,92.1,5.45,249.74,446.32,-12.99,101.0,1991.0,2024.0
+Nigeria,Africa,Roots & Tubers,74.58,3.13,154.34,43.81,44.53,170.0,1991.0,2024.0
+Nigeria,Africa,Spices,115.54,9.56,680.1,109.48,-34.64,102.0,1991.0,2024.0
+Nigeria,Africa,Sugar Crops,80.87,3.64,160.68,28.75,-20.47,34.0,1991.0,2024.0
+Nigeria,Africa,Vegetables,74.88,2.92,256.68,56.94,12.32,374.0,1991.0,2024.0
+North Macedonia,Europe,Aggregates,94.9,7.21,190.54,49.85,80.67,66.0,1992.0,2024.0
+North Macedonia,Europe,Cereals,91.06,5.34,218.29,36.13,22.9,330.0,1992.0,2024.0
+North Macedonia,Europe,Dairy & Eggs,102.79,6.08,217.55,38.76,40.79,198.0,1992.0,2024.0
+North Macedonia,Europe,Fruits,93.44,4.75,335.74,78.11,76.3,462.0,1992.0,2024.0
+North Macedonia,Europe,Meat,91.08,4.65,920.61,94.64,-26.7,297.0,1992.0,2024.0
+North Macedonia,Europe,Nuts,84.64,3.26,250.62,121.44,132.78,161.0,1992.0,2024.0
+North Macedonia,Europe,Oilseeds,83.56,7.4,189.06,49.53,16.6,231.0,1992.0,2024.0
+North Macedonia,Europe,Other Industrial,74.32,0.84,205.1,410.27,28.86,99.0,1992.0,2024.0
+North Macedonia,Europe,Pulses,80.48,3.08,229.81,52.55,-32.23,264.0,1992.0,2024.0
+North Macedonia,Europe,Roots & Tubers,116.24,9.66,241.61,89.28,129.23,33.0,1992.0,2024.0
+North Macedonia,Europe,Spices,78.18,5.34,145.69,37.56,27.59,66.0,1992.0,2024.0
+North Macedonia,Europe,Sugar Crops,82.83,10.3,120.69,56.38,35.84,33.0,1992.0,2024.0
+North Macedonia,Europe,Vegetables,89.59,1.46,497.74,100.29,103.11,693.0,1992.0,2024.0
+Norway,Europe,Aggregates,82.93,60.48,140.84,3.83,67.86,68.0,1991.0,2024.0
+Norway,Europe,Cereals,91.36,60.36,169.31,8.79,92.55,238.0,1991.0,2024.0
+Norway,Europe,Dairy & Eggs,85.38,55.78,141.16,12.22,49.86,170.0,1991.0,2024.0
+Norway,Europe,Fruits,75.6,11.43,217.78,79.17,19.96,349.0,1991.0,2024.0
+Norway,Europe,Meat,98.78,4.07,453.1,125.32,3.02,694.0,1991.0,2024.0
+Norway,Europe,Oilseeds,96.38,81.64,136.62,3.34,46.79,68.0,1991.0,2024.0
+Norway,Europe,Other Industrial,86.73,19.91,174.07,136.59,223.13,68.0,1991.0,2024.0
+Norway,Europe,Pulses,98.13,69.2,160.83,4.96,90.63,48.0,2001.0,2024.0
+Norway,Europe,Roots & Tubers,87.09,49.87,178.61,10.35,94.84,34.0,1991.0,2024.0
+Norway,Europe,Vegetables,86.51,21.08,209.61,25.99,36.88,476.0,1991.0,2024.0
+Oman,Asia,Aggregates,141.41,78.11,290.6,43.31,,24.0,2011.0,2024.0
+Oman,Asia,Cereals,88.99,38.95,154.13,49.61,,92.0,2011.0,2024.0
+Oman,Asia,Fruits,98.38,44.22,140.94,36.51,,126.0,2011.0,2024.0
+Oman,Asia,Roots & Tubers,89.71,62.81,106.91,12.03,,14.0,2011.0,2024.0
+Oman,Asia,Sugar Crops,114.87,96.78,222.14,13.04,,13.0,2012.0,2024.0
+Oman,Asia,Vegetables,117.24,27.53,527.43,56.57,,196.0,2011.0,2024.0
+Pakistan,Asia,Aggregates,77.19,14.78,317.92,20.55,322.7,68.0,1991.0,2024.0
+Pakistan,Asia,Cereals,86.32,8.68,644.51,60.82,66.55,272.0,1991.0,2024.0
+Pakistan,Asia,Dairy & Eggs,76.89,13.53,330.25,32.99,59.26,272.0,1991.0,2024.0
+Pakistan,Asia,Fibers,66.1,5.12,139.1,91.38,35.17,170.0,1991.0,2024.0
+Pakistan,Asia,Fruits,74.11,3.37,608.31,68.97,270.59,782.0,1991.0,2024.0
+Pakistan,Asia,Meat,63.75,5.13,159.5,44.61,40.84,476.0,1991.0,2024.0
+Pakistan,Asia,Nuts,70.39,2.89,395.14,101.02,525.35,170.0,1991.0,2024.0
+Pakistan,Asia,Oilseeds,70.8,2.08,448.16,164.0,35.56,408.0,1991.0,2024.0
+Pakistan,Asia,Other Industrial,83.85,19.12,348.18,39.99,48.4,102.0,1991.0,2024.0
+Pakistan,Asia,Pulses,74.69,11.49,162.26,35.84,79.4,238.0,1991.0,2024.0
+Pakistan,Asia,Roots & Tubers,65.09,11.43,169.35,36.74,46.36,102.0,1991.0,2024.0
+Pakistan,Asia,Spices,51.83,0.53,184.15,186.15,623.11,102.0,1991.0,2024.0
+Pakistan,Asia,Sugar Crops,74.23,10.27,433.41,87.38,117.66,68.0,1991.0,2024.0
+Pakistan,Asia,Vegetables,67.58,4.16,262.88,75.26,447.5,612.0,1991.0,2024.0
+Palestine,Asia,Aggregates,80.08,45.26,116.17,12.96,5.72,58.0,1996.0,2024.0
+Palestine,Asia,Cereals,70.61,23.7,118.61,41.1,32.53,174.0,1996.0,2024.0
+Palestine,Asia,Dairy & Eggs,81.92,42.64,126.9,11.3,34.68,174.0,1996.0,2024.0
+Palestine,Asia,Fruits,83.49,16.98,251.67,40.93,-36.23,725.0,1996.0,2024.0
+Palestine,Asia,Meat,80.33,36.87,112.57,13.56,11.74,261.0,1996.0,2024.0
+Palestine,Asia,Nuts,71.54,37.03,113.32,17.46,-47.3,87.0,1996.0,2024.0
+Palestine,Asia,Oilseeds,78.55,22.57,215.75,52.7,82.78,174.0,1996.0,2024.0
+Palestine,Asia,Other Industrial,90.77,35.45,132.44,26.83,75.88,29.0,1996.0,2024.0
+Palestine,Asia,Pulses,70.26,33.54,136.41,26.36,-6.4,174.0,1996.0,2024.0
+Palestine,Asia,Roots & Tubers,80.79,38.65,148.82,30.41,49.88,58.0,1996.0,2024.0
+Palestine,Asia,Spices,63.15,5.18,231.36,132.02,337.12,87.0,1996.0,2024.0
+Palestine,Asia,Vegetables,77.81,21.1,159.2,42.53,-62.18,638.0,1996.0,2024.0
+Panama,Americas,Aggregates,81.42,54.42,116.4,21.35,20.6,68.0,1991.0,2024.0
+Panama,Americas,Beverages,85.11,36.64,160.62,27.94,29.55,102.0,1991.0,2024.0
+Panama,Americas,Cereals,71.12,33.58,114.3,25.75,5.86,204.0,1991.0,2024.0
+Panama,Americas,Dairy & Eggs,84.48,51.13,130.4,19.37,3.44,136.0,1991.0,2024.0
+Panama,Americas,Fruits,77.89,18.19,305.32,137.26,98.26,442.0,1991.0,2024.0
+Panama,Americas,Meat,74.32,48.31,116.28,18.58,19.58,306.0,1991.0,2024.0
+Panama,Americas,Oilseeds,67.39,9.99,157.4,96.11,65.73,192.0,1991.0,2024.0
+Panama,Americas,Other Industrial,80.32,33.74,136.48,46.16,37.11,62.0,1991.0,2024.0
+Panama,Americas,Pulses,76.81,41.39,124.31,9.25,27.88,136.0,1991.0,2024.0
+Panama,Americas,Roots & Tubers,64.3,9.71,156.27,86.31,74.82,170.0,1991.0,2024.0
+Panama,Americas,Sugar Crops,87.51,62.51,137.4,8.45,15.09,34.0,1991.0,2024.0
+Panama,Americas,Vegetables,74.85,26.39,153.75,29.94,19.5,374.0,1991.0,2024.0
+Paraguay,Americas,Aggregates,72.68,10.91,183.21,57.96,73.05,68.0,1991.0,2024.0
+Paraguay,Americas,Beverages,84.49,43.59,123.75,33.4,13.35,34.0,1991.0,2024.0
+Paraguay,Americas,Cereals,102.87,18.82,492.19,54.89,26.92,204.0,1991.0,2024.0
+Paraguay,Americas,Dairy & Eggs,65.27,7.11,156.87,58.44,60.43,170.0,1991.0,2024.0
+Paraguay,Americas,Fibers,82.38,18.95,239.97,27.09,27.51,102.0,1991.0,2024.0
+Paraguay,Americas,Fruits,69.63,3.21,741.34,107.07,30.66,748.0,1991.0,2024.0
+Paraguay,Americas,Meat,61.29,8.73,193.43,43.84,81.49,646.0,1991.0,2024.0
+Paraguay,Americas,Oilseeds,74.79,8.3,209.22,41.14,-40.12,331.0,1991.0,2024.0
+Paraguay,Americas,Other,61.58,26.55,108.85,26.53,84.83,34.0,1991.0,2024.0
+Paraguay,Americas,Other Industrial,79.0,8.23,283.33,75.23,293.83,170.0,1991.0,2024.0
+Paraguay,Americas,Pulses,63.95,11.33,117.11,22.94,52.75,136.0,1991.0,2024.0
+Paraguay,Americas,Roots & Tubers,89.78,12.99,307.87,79.57,116.74,102.0,1991.0,2024.0
+Paraguay,Americas,Sugar Crops,83.38,17.85,179.72,15.12,73.54,34.0,1991.0,2024.0
+Paraguay,Americas,Vegetables,71.66,6.05,302.88,48.59,141.24,374.0,1991.0,2024.0
+Peru,Americas,Aggregates,77.31,14.23,158.32,17.27,89.09,68.0,1991.0,2024.0
+Peru,Americas,Beverages,75.33,7.04,227.23,56.67,40.55,102.0,1991.0,2024.0
+Peru,Americas,Cereals,69.41,2.89,207.56,98.02,116.1,374.0,1991.0,2024.0
+Peru,Americas,Dairy & Eggs,78.82,16.17,140.39,13.13,41.76,170.0,1991.0,2024.0
+Peru,Americas,Fibers,86.55,14.66,233.69,36.87,143.29,170.0,1991.0,2024.0
+Peru,Americas,Fruits,78.91,2.37,243.41,68.33,44.57,965.0,1991.0,2024.0
+Peru,Americas,Meat,80.78,18.19,182.43,17.97,95.06,612.0,1991.0,2024.0
+Peru,Americas,Nuts,77.54,26.38,188.67,35.11,50.56,204.0,1991.0,2024.0
+Peru,Americas,Oilseeds,77.93,8.21,311.52,48.53,196.96,340.0,1991.0,2024.0
+Peru,Americas,Other Industrial,108.07,4.96,492.96,329.4,85.53,136.0,1991.0,2024.0
+Peru,Americas,Pulses,72.77,4.43,184.82,40.37,72.06,306.0,1991.0,2024.0
+Peru,Americas,Roots & Tubers,72.56,8.25,197.45,40.55,76.13,170.0,1991.0,2024.0
+Peru,Americas,Spices,72.36,6.78,152.49,67.56,17.34,124.0,1991.0,2024.0
+Peru,Americas,Sugar Crops,84.52,17.58,188.64,22.12,123.81,34.0,1991.0,2024.0
+Peru,Americas,Vegetables,82.86,5.06,766.76,115.15,99.29,838.0,1991.0,2024.0
+Philippines,Asia,Aggregates,76.75,32.08,140.18,10.38,45.72,68.0,1991.0,2024.0
+Philippines,Asia,Beverages,71.59,24.34,139.53,34.81,57.77,68.0,1991.0,2024.0
+Philippines,Asia,Cereals,75.04,26.1,172.9,13.49,44.9,170.0,1991.0,2024.0
+Philippines,Asia,Dairy & Eggs,76.78,20.15,146.62,25.31,60.22,170.0,1991.0,2024.0
+Philippines,Asia,Fibers,71.54,13.22,140.38,34.95,72.63,238.0,1991.0,2024.0
+Philippines,Asia,Fruits,84.81,8.81,312.26,60.73,121.73,622.0,1991.0,2024.0
+Philippines,Asia,Meat,80.63,21.23,299.32,23.58,41.19,748.0,1991.0,2024.0
+Philippines,Asia,Nuts,101.97,23.89,372.55,43.46,228.14,102.0,1991.0,2024.0
+Philippines,Asia,Oilseeds,75.75,14.11,186.63,45.61,3.93,306.0,1991.0,2024.0
+Philippines,Asia,Other Industrial,91.46,22.77,327.86,56.74,-58.48,102.0,1991.0,2024.0
+Philippines,Asia,Pulses,78.9,29.5,137.88,57.97,29.1,164.0,1991.0,2024.0
+Philippines,Asia,Roots & Tubers,78.31,21.03,227.21,28.36,85.69,233.0,1991.0,2024.0
+Philippines,Asia,Spices,59.53,9.8,234.58,73.0,313.43,102.0,1991.0,2024.0
+Philippines,Asia,Sugar Crops,73.96,26.07,125.91,16.07,19.22,34.0,1991.0,2024.0
+Philippines,Asia,Vegetables,85.21,3.91,444.53,78.94,39.73,812.0,1991.0,2024.0
+Poland,Europe,Aggregates,86.36,10.47,191.32,18.29,80.65,68.0,1991.0,2024.0
+Poland,Europe,Beverages,90.82,32.39,312.34,61.58,172.59,34.0,1991.0,2024.0
+Poland,Europe,Cereals,88.31,7.14,234.66,25.08,78.66,408.0,1991.0,2024.0
+Poland,Europe,Dairy & Eggs,85.69,6.67,259.15,51.43,162.04,204.0,1991.0,2024.0
+Poland,Europe,Fibers,77.76,13.07,125.26,14.75,30.07,66.0,1991.0,2024.0
+Poland,Europe,Fruits,96.52,4.06,484.91,81.85,35.36,534.0,1991.0,2024.0
+Poland,Europe,Meat,82.54,4.15,216.65,33.7,77.97,680.0,1991.0,2024.0
+Poland,Europe,Nuts,83.33,11.04,150.76,96.49,25.39,158.0,1991.0,2024.0
+Poland,Europe,Oilseeds,87.13,8.96,243.02,24.03,84.15,180.0,1991.0,2024.0
+Poland,Europe,Other Industrial,82.62,8.22,337.35,78.84,24.51,102.0,1991.0,2024.0
+Poland,Europe,Pulses,85.25,15.63,223.65,21.23,68.19,204.0,1991.0,2024.0
+Poland,Europe,Roots & Tubers,87.84,8.45,289.24,50.07,150.41,34.0,1991.0,2024.0
+Poland,Europe,Sugar Crops,95.2,19.01,165.86,21.84,68.13,34.0,1991.0,2024.0
+Poland,Europe,Vegetables,79.61,6.78,344.92,32.76,11.79,714.0,1991.0,2024.0
+Portugal,Europe,Aggregates,98.89,60.7,190.65,12.41,53.18,68.0,1991.0,2024.0
+Portugal,Europe,Beverages,160.79,41.44,638.8,326.85,-9.99,68.0,1991.0,2024.0
+Portugal,Europe,Cereals,99.06,54.23,212.23,23.17,87.9,306.0,1991.0,2024.0
+Portugal,Europe,Dairy & Eggs,94.28,31.92,271.53,37.13,116.5,238.0,1991.0,2024.0
+Portugal,Europe,Fruits,91.86,4.88,745.98,145.37,39.88,999.0,1991.0,2024.0
+Portugal,Europe,Meat,106.49,50.02,1056.86,66.53,25.97,649.0,1991.0,2024.0
+Portugal,Europe,Nuts,72.8,29.3,153.19,33.81,19.41,204.0,1991.0,2024.0
+Portugal,Europe,Oilseeds,101.96,30.88,321.71,55.25,145.81,170.0,1991.0,2024.0
+Portugal,Europe,Other Industrial,68.31,20.86,113.48,76.03,5.68,93.0,1991.0,2024.0
+Portugal,Europe,Pulses,101.09,60.18,134.77,11.4,8.26,170.0,1991.0,2024.0
+Portugal,Europe,Roots & Tubers,75.52,6.94,259.72,259.44,102.8,102.0,1991.0,2024.0
+Portugal,Europe,Spices,92.82,59.08,162.29,16.92,73.55,34.0,1991.0,2024.0
+Portugal,Europe,Sugar Crops,66.28,5.02,134.95,342.1,4.63,68.0,1991.0,2024.0
+Portugal,Europe,Vegetables,97.86,14.94,324.97,57.51,-4.47,761.0,1991.0,2024.0
+Puerto Rico,Americas,Aggregates,80.01,56.84,111.19,5.91,2.17,68.0,1991.0,2024.0
+Puerto Rico,Americas,Beverages,98.76,72.28,129.87,20.36,-3.98,68.0,1991.0,2024.0
+Puerto Rico,Americas,Cereals,75.99,17.25,135.51,56.11,59.03,136.0,1991.0,2024.0
+Puerto Rico,Americas,Dairy & Eggs,73.39,27.02,118.26,41.99,18.39,170.0,1991.0,2024.0
+Puerto Rico,Americas,Fruits,78.35,13.18,176.84,62.72,44.65,510.0,1991.0,2024.0
+Puerto Rico,Americas,Meat,86.37,10.31,209.6,228.1,116.39,442.0,1991.0,2024.0
+Puerto Rico,Americas,Oilseeds,72.25,24.14,152.56,30.0,279.71,68.0,1991.0,2024.0
+Puerto Rico,Americas,Other Industrial,82.1,31.28,122.03,51.07,-11.54,68.0,1991.0,2024.0
+Puerto Rico,Americas,Pulses,123.48,50.87,273.59,35.67,-30.94,102.0,1991.0,2024.0
+Puerto Rico,Americas,Roots & Tubers,76.36,28.65,152.24,27.68,35.44,204.0,1991.0,2024.0
+Puerto Rico,Americas,Spices,89.62,60.86,115.12,8.8,-6.35,34.0,1991.0,2024.0
+Puerto Rico,Americas,Sugar Crops,86.59,35.62,126.88,46.88,33.4,68.0,1991.0,2024.0
+Puerto Rico,Americas,Vegetables,90.6,27.14,252.01,44.98,7.39,476.0,1991.0,2024.0
+Qatar,Asia,Aggregates,72.01,32.78,122.68,11.21,55.79,68.0,1991.0,2024.0
+Qatar,Asia,Cereals,102.99,44.41,283.78,41.51,29.68,204.0,1991.0,2024.0
+Qatar,Asia,Dairy & Eggs,75.35,18.37,145.43,59.25,55.17,238.0,1991.0,2024.0
+Qatar,Asia,Fruits,84.92,31.28,267.47,46.57,-46.72,340.0,1991.0,2024.0
+Qatar,Asia,Meat,82.18,22.97,193.25,39.95,47.88,374.0,1991.0,2024.0
+Qatar,Asia,Roots & Tubers,92.89,40.75,151.88,53.1,26.58,34.0,1991.0,2024.0
+Qatar,Asia,Vegetables,89.28,33.5,344.19,39.56,-8.76,630.0,1991.0,2024.0
+Republic of Korea,Asia,Aggregates,80.78,38.82,126.43,17.61,43.39,68.0,1991.0,2024.0
+Republic of Korea,Asia,Beverages,86.99,44.81,115.27,17.44,14.14,68.0,1991.0,2024.0
+Republic of Korea,Asia,Cereals,90.14,18.77,185.17,60.64,-2.49,374.0,1991.0,2024.0
+Republic of Korea,Asia,Dairy & Eggs,83.11,27.68,138.22,43.53,-16.01,204.0,1991.0,2024.0
+Republic of Korea,Asia,Fruits,108.95,7.71,485.01,117.22,-8.98,612.0,1991.0,2024.0
+Republic of Korea,Asia,Meat,80.55,15.48,137.29,57.09,25.08,612.0,1991.0,2024.0
+Republic of Korea,Asia,Nuts,79.02,26.9,140.89,28.9,31.61,136.0,1991.0,2024.0
+Republic of Korea,Asia,Oilseeds,83.52,15.01,146.93,82.77,18.73,204.0,1991.0,2024.0
+Republic of Korea,Asia,Other Industrial,84.61,42.04,123.2,13.1,24.89,102.0,1991.0,2024.0
+Republic of Korea,Asia,Pulses,79.12,21.77,132.54,32.24,24.77,102.0,1991.0,2024.0
+Republic of Korea,Asia,Roots & Tubers,102.35,51.93,155.84,35.6,11.56,68.0,1991.0,2024.0
+Republic of Korea,Asia,Spices,76.5,7.26,149.18,112.57,54.96,34.0,1991.0,2024.0
+Republic of Korea,Asia,Vegetables,85.49,8.19,331.33,153.47,16.17,646.0,1991.0,2024.0
+Republic of Moldova,Europe,Aggregates,74.09,8.41,165.72,17.25,74.39,62.0,1994.0,2024.0
+Republic of Moldova,Europe,Cereals,72.46,2.87,203.86,61.22,41.26,341.0,1994.0,2024.0
+Republic of Moldova,Europe,Dairy & Eggs,75.28,5.69,192.35,42.35,150.37,217.0,1994.0,2024.0
+Republic of Moldova,Europe,Fruits,83.3,6.1,354.91,53.88,55.41,589.0,1994.0,2024.0
+Republic of Moldova,Europe,Meat,71.29,4.11,159.73,51.92,107.38,403.0,1994.0,2024.0
+Republic of Moldova,Europe,Nuts,82.03,32.36,161.31,26.04,11.18,155.0,1994.0,2024.0
+Republic of Moldova,Europe,Oilseeds,79.08,4.74,334.45,47.41,52.18,131.0,1994.0,2024.0
+Republic of Moldova,Europe,Other Industrial,70.37,8.39,322.49,78.18,106.85,93.0,1994.0,2024.0
+Republic of Moldova,Europe,Pulses,83.68,9.45,370.21,74.72,106.62,198.0,1994.0,2024.0
+Republic of Moldova,Europe,Roots & Tubers,97.22,19.62,269.37,30.35,106.69,31.0,1994.0,2024.0
+Republic of Moldova,Europe,Sugar Crops,72.89,12.06,174.49,19.1,102.73,31.0,1994.0,2024.0
+Republic of Moldova,Europe,Vegetables,77.45,6.57,316.59,62.75,63.02,620.0,1994.0,2024.0
+Romania,Europe,Aggregates,75.26,0.69,219.47,31.96,85.66,64.0,1993.0,2024.0
+Romania,Europe,Beverages,63.8,0.7,123.46,43.81,36.59,32.0,1993.0,2024.0
+Romania,Europe,Cereals,77.08,0.62,209.86,78.21,96.54,374.0,1993.0,2024.0
+Romania,Europe,Dairy & Eggs,74.65,0.46,292.56,57.05,130.81,192.0,1993.0,2024.0
+Romania,Europe,Fibers,65.45,0.76,175.97,33.73,100.89,126.0,1993.0,2024.0
+Romania,Europe,Fruits,74.79,0.35,256.92,79.6,56.94,544.0,1993.0,2024.0
+Romania,Europe,Meat,78.2,0.5,296.8,62.39,58.28,707.0,1993.0,2024.0
+Romania,Europe,Nuts,61.1,0.69,131.35,22.13,104.79,96.0,1993.0,2024.0
+Romania,Europe,Oilseeds,70.83,0.93,202.34,35.4,73.02,288.0,1993.0,2024.0
+Romania,Europe,Other Industrial,66.21,0.59,136.16,39.82,83.43,128.0,1993.0,2024.0
+Romania,Europe,Pulses,71.73,0.29,211.01,50.11,121.98,128.0,1993.0,2024.0
+Romania,Europe,Roots & Tubers,85.58,1.23,234.09,40.43,106.62,32.0,1993.0,2024.0
+Romania,Europe,Spices,72.84,0.54,158.19,53.97,73.26,64.0,1993.0,2024.0
+Romania,Europe,Sugar Crops,69.27,5.52,126.67,31.7,58.34,32.0,1993.0,2024.0
+Romania,Europe,Vegetables,81.15,0.37,306.63,38.36,69.11,695.0,1993.0,2024.0
+Russian Federation,Europe,Aggregates,63.02,0.03,166.18,192.52,160.96,66.0,1992.0,2024.0
+Russian Federation,Europe,Beverages,60.77,0.12,129.82,96.4,93.9,33.0,1992.0,2024.0
+Russian Federation,Europe,Cereals,68.26,0.07,284.15,50.93,288.25,396.0,1992.0,2024.0
+Russian Federation,Europe,Dairy & Eggs,61.11,0.03,169.65,55.6,137.65,264.0,1992.0,2024.0
+Russian Federation,Europe,Fibers,67.75,0.18,299.13,43.48,190.1,99.0,1992.0,2024.0
+Russian Federation,Europe,Fruits,66.61,0.02,571.72,53.7,74.5,693.0,1992.0,2024.0
+Russian Federation,Europe,Meat,61.37,0.01,177.18,88.35,105.55,554.0,1992.0,2024.0
+Russian Federation,Europe,Nuts,65.11,0.1,148.41,66.58,95.65,165.0,1992.0,2024.0
+Russian Federation,Europe,Oilseeds,58.76,0.06,242.34,36.95,88.71,297.0,1992.0,2024.0
+Russian Federation,Europe,Other Industrial,68.97,0.05,185.89,67.4,16.56,99.0,1992.0,2024.0
+Russian Federation,Europe,Pulses,49.73,0.05,161.21,37.86,43.87,297.0,1992.0,2024.0
+Russian Federation,Europe,Roots & Tubers,64.2,0.07,158.94,125.99,102.65,33.0,1992.0,2024.0
+Russian Federation,Europe,Spices,63.41,0.05,153.01,123.04,132.79,33.0,1992.0,2024.0
+Russian Federation,Europe,Sugar Crops,57.51,0.1,160.19,140.48,156.8,33.0,1992.0,2024.0
+Russian Federation,Europe,Vegetables,65.76,0.02,214.1,56.65,69.7,528.0,1992.0,2024.0
+Rwanda,Africa,Aggregates,74.1,8.32,218.4,65.13,166.37,68.0,1991.0,2024.0
+Rwanda,Africa,Beverages,82.86,7.35,209.67,104.88,-44.95,68.0,1991.0,2024.0
+Rwanda,Africa,Cereals,77.42,3.88,387.77,36.93,184.99,237.0,1991.0,2024.0
+Rwanda,Africa,Dairy & Eggs,76.47,7.6,250.56,52.1,-15.12,204.0,1991.0,2024.0
+Rwanda,Africa,Fruits,83.03,6.6,349.95,53.29,228.87,351.0,1991.0,2024.0
+Rwanda,Africa,Meat,73.87,9.27,247.3,63.39,6.83,485.0,1991.0,2024.0
+Rwanda,Africa,Oilseeds,74.43,5.47,245.43,35.33,203.57,102.0,1991.0,2024.0
+Rwanda,Africa,Other Industrial,75.98,10.21,229.33,47.54,198.66,102.0,1991.0,2024.0
+Rwanda,Africa,Pulses,75.69,5.1,345.77,65.22,335.24,102.0,1991.0,2024.0
+Rwanda,Africa,Roots & Tubers,77.47,4.58,408.62,36.21,140.35,170.0,1991.0,2024.0
+Rwanda,Africa,Spices,76.67,18.95,120.81,35.41,9.57,34.0,1991.0,2024.0
+Rwanda,Africa,Sugar Crops,259.51,8.04,2000.51,69.55,2878.32,34.0,1991.0,2024.0
+Rwanda,Africa,Vegetables,86.27,3.24,414.52,109.23,329.73,314.0,1991.0,2024.0
+Saint Kitts and Nevis,Americas,Aggregates,86.4,41.87,111.73,48.06,,20.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Dairy & Eggs,68.85,41.87,100.63,7.94,,20.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Fruits,98.34,63.32,141.95,22.12,,40.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Meat,82.22,40.0,130.79,58.17,,50.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Oilseeds,114.8,99.37,130.7,2.44,,20.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Roots & Tubers,125.21,84.02,167.72,20.17,,40.0,2015.0,2024.0
+Saint Kitts and Nevis,Americas,Vegetables,101.23,50.19,166.9,34.42,,80.0,2015.0,2024.0
+Saint Lucia,Americas,Aggregates,90.35,49.19,123.0,31.34,38.93,68.0,1991.0,2024.0
+Saint Lucia,Americas,Beverages,55.25,31.28,106.25,16.4,128.45,34.0,1991.0,2024.0
+Saint Lucia,Americas,Cereals,79.76,41.25,178.21,27.4,59.44,34.0,1991.0,2024.0
+Saint Lucia,Americas,Dairy & Eggs,100.78,77.41,129.02,11.6,44.2,136.0,1991.0,2024.0
+Saint Lucia,Americas,Fruits,81.13,21.65,193.57,29.3,84.31,544.0,1991.0,2024.0
+Saint Lucia,Americas,Meat,84.11,19.6,254.11,74.04,27.18,374.0,1991.0,2024.0
+Saint Lucia,Americas,Oilseeds,49.09,8.44,111.18,14.68,281.16,68.0,1991.0,2024.0
+Saint Lucia,Americas,Pulses,96.38,78.38,115.74,2.6,6.6,68.0,1991.0,2024.0
+Saint Lucia,Americas,Roots & Tubers,103.18,41.6,393.05,99.63,-55.96,238.0,1991.0,2024.0
+Saint Lucia,Americas,Spices,82.94,18.73,171.19,85.91,21.81,136.0,1991.0,2024.0
+Saint Lucia,Americas,Vegetables,85.47,38.33,147.73,21.18,48.3,306.0,1991.0,2024.0
+Saint Vincent and the Grenadines,Americas,Aggregates,111.89,54.07,173.78,27.5,33.57,34.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Beverages,112.28,50.99,208.51,45.96,212.19,17.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Cereals,86.82,35.87,121.17,12.89,-46.13,51.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Dairy & Eggs,121.48,93.5,227.64,27.04,58.17,68.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Fruits,99.28,9.45,292.94,103.06,152.72,209.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Meat,108.17,81.63,217.14,22.82,8.51,187.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Oilseeds,108.67,71.03,241.07,26.66,153.16,51.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Pulses,113.02,79.94,148.8,14.17,,26.0,2012.0,2024.0
+Saint Vincent and the Grenadines,Americas,Roots & Tubers,108.23,21.99,202.01,85.98,138.13,85.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Spices,96.16,32.08,183.93,65.46,-35.21,47.0,2008.0,2024.0
+Saint Vincent and the Grenadines,Americas,Vegetables,102.07,52.75,189.81,20.62,-7.72,85.0,2008.0,2024.0
+Samoa,Oceania,Aggregates,111.84,75.8,146.26,28.06,,22.0,2012.0,2024.0
+Samoa,Oceania,Dairy & Eggs,123.15,100.0,138.71,7.57,,18.0,2016.0,2024.0
+Samoa,Oceania,Fruits,129.59,32.97,660.8,206.26,,130.0,2012.0,2024.0
+Samoa,Oceania,Oilseeds,132.48,91.26,183.52,10.3,,26.0,2012.0,2024.0
+Samoa,Oceania,Roots & Tubers,125.13,73.21,285.61,21.16,,39.0,2012.0,2024.0
+Saudi Arabia,Asia,Aggregates,83.86,40.26,137.84,28.55,31.55,68.0,1991.0,2024.0
+Saudi Arabia,Asia,Beverages,102.47,66.6,146.83,6.38,97.42,16.0,2009.0,2024.0
+Saudi Arabia,Asia,Cereals,90.07,33.35,251.68,28.73,23.99,238.0,1991.0,2024.0
+Saudi Arabia,Asia,Dairy & Eggs,72.6,20.62,191.11,44.36,-30.05,238.0,1991.0,2024.0
+Saudi Arabia,Asia,Fruits,95.51,51.97,195.24,33.07,40.14,292.0,1991.0,2024.0
+Saudi Arabia,Asia,Meat,86.64,24.43,316.71,47.75,62.96,408.0,1991.0,2024.0
+Saudi Arabia,Asia,Oilseeds,87.13,61.38,115.94,2.24,25.32,102.0,1991.0,2024.0
+Saudi Arabia,Asia,Other Industrial,87.88,62.56,115.65,2.63,23.42,68.0,1991.0,2024.0
+Saudi Arabia,Asia,Pulses,121.34,51.32,163.28,5.55,-50.02,68.0,1991.0,2024.0
+Saudi Arabia,Asia,Roots & Tubers,95.76,59.29,169.17,17.51,21.89,34.0,1991.0,2024.0
+Saudi Arabia,Asia,Vegetables,84.83,21.96,171.13,39.72,13.28,368.0,1991.0,2024.0
+Senegal,Africa,Aggregates,82.59,40.7,162.36,18.95,104.23,68.0,1991.0,2024.0
+Senegal,Africa,Cereals,87.85,31.71,274.24,34.4,2.24,272.0,1991.0,2024.0
+Senegal,Africa,Dairy & Eggs,84.0,31.38,112.23,40.57,-1.89,204.0,1991.0,2024.0
+Senegal,Africa,Fibers,61.28,9.85,133.82,27.85,410.79,81.0,1991.0,2024.0
+Senegal,Africa,Fruits,93.79,2.5,337.58,687.96,5152.79,157.0,1991.0,2024.0
+Senegal,Africa,Meat,81.46,14.21,699.47,113.57,32.7,340.0,1991.0,2024.0
+Senegal,Africa,Nuts,152.06,57.53,327.02,26.52,7.57,68.0,1991.0,2024.0
+Senegal,Africa,Oilseeds,93.58,38.38,147.37,36.95,-39.55,136.0,1991.0,2024.0
+Senegal,Africa,Other Industrial,88.27,39.91,139.67,10.55,29.4,79.0,1991.0,2024.0
+Senegal,Africa,Pulses,90.36,33.02,170.62,32.31,6.93,102.0,1991.0,2024.0
+Senegal,Africa,Roots & Tubers,88.15,39.06,122.41,23.89,-1.19,136.0,1991.0,2024.0
+Senegal,Africa,Spices,105.69,73.45,133.43,10.01,-13.34,34.0,1991.0,2024.0
+Senegal,Africa,Sugar Crops,104.02,76.65,127.76,10.11,5.45,34.0,1991.0,2024.0
+Senegal,Africa,Vegetables,87.34,17.63,239.13,68.39,66.39,158.0,1991.0,2024.0
+Serbia,Europe,Aggregates,103.14,48.72,199.88,12.29,69.92,38.0,2006.0,2024.0
+Serbia,Europe,Beverages,110.47,43.08,204.86,14.68,140.55,19.0,2006.0,2024.0
+Serbia,Europe,Cereals,107.9,46.43,225.16,19.29,63.47,152.0,2006.0,2024.0
+Serbia,Europe,Dairy & Eggs,98.59,24.94,215.41,27.78,135.98,114.0,2006.0,2024.0
+Serbia,Europe,Fruits,100.1,17.12,278.72,43.73,47.27,285.0,2006.0,2024.0
+Serbia,Europe,Meat,101.79,39.02,201.66,17.0,102.67,361.0,2006.0,2024.0
+Serbia,Europe,Nuts,91.22,48.75,145.71,13.9,81.44,38.0,2006.0,2024.0
+Serbia,Europe,Oilseeds,111.1,34.78,272.44,29.77,29.91,114.0,2006.0,2024.0
+Serbia,Europe,Other Industrial,89.5,26.9,194.8,36.25,69.79,57.0,2006.0,2024.0
+Serbia,Europe,Pulses,102.29,42.93,204.86,23.01,154.01,95.0,2006.0,2024.0
+Serbia,Europe,Roots & Tubers,122.0,57.71,245.96,31.93,117.24,19.0,2006.0,2024.0
+Serbia,Europe,Spices,110.47,43.08,204.86,14.68,140.55,19.0,2006.0,2024.0
+Serbia,Europe,Sugar Crops,108.9,66.89,202.15,16.92,141.27,19.0,2006.0,2024.0
+Serbia,Europe,Vegetables,109.53,27.97,465.31,57.1,58.13,247.0,2006.0,2024.0
+Seychelles,Africa,Aggregates,88.04,26.29,114.21,27.59,260.17,29.0,2008.0,2024.0
+Seychelles,Africa,Beverages,95.1,69.74,110.57,12.08,,11.0,2014.0,2024.0
+Seychelles,Africa,Dairy & Eggs,98.92,74.18,110.57,9.6,,24.0,2013.0,2024.0
+Seychelles,Africa,Fruits,96.13,24.59,155.64,26.99,34.8,159.0,2008.0,2024.0
+Seychelles,Africa,Meat,106.71,32.27,165.62,9.7,97.85,68.0,2008.0,2024.0
+Seychelles,Africa,Oilseeds,76.74,32.18,117.87,24.98,205.68,34.0,2008.0,2024.0
+Seychelles,Africa,Pulses,100.01,74.84,117.17,7.72,33.36,17.0,2008.0,2024.0
+Seychelles,Africa,Roots & Tubers,100.19,61.06,140.44,3.73,105.43,34.0,2008.0,2024.0
+Seychelles,Africa,Spices,115.99,58.54,221.66,26.24,91.75,28.0,2008.0,2024.0
+Seychelles,Africa,Vegetables,109.55,49.41,176.08,31.66,31.46,148.0,2008.0,2024.0
+Sierra Leone,Africa,Aggregates,96.4,56.26,117.53,28.22,,28.0,2011.0,2024.0
+Sierra Leone,Africa,Cereals,80.16,0.49,159.35,914.34,,62.0,1993.0,2024.0
+Sierra Leone,Africa,Dairy & Eggs,94.76,75.87,117.42,6.86,,28.0,2011.0,2024.0
+Sierra Leone,Africa,Fruits,100.99,79.24,119.07,7.99,,84.0,2011.0,2024.0
+Sierra Leone,Africa,Meat,92.95,72.93,109.22,8.26,,14.0,2011.0,2024.0
+Sierra Leone,Africa,Nuts,96.48,62.09,118.72,12.4,,14.0,2011.0,2024.0
+Sierra Leone,Africa,Oilseeds,91.19,62.7,121.79,23.39,,28.0,2011.0,2024.0
+Sierra Leone,Africa,Other Industrial,100.23,61.35,132.15,24.93,,28.0,2011.0,2024.0
+Sierra Leone,Africa,Pulses,94.58,24.28,129.79,19.99,,28.0,2011.0,2024.0
+Sierra Leone,Africa,Roots & Tubers,81.01,18.5,161.7,84.74,,42.0,2011.0,2024.0
+Sierra Leone,Africa,Vegetables,88.0,27.27,214.69,77.6,,56.0,2011.0,2024.0
+Singapore,Asia,Aggregates,93.84,69.7,182.7,7.84,92.41,68.0,1991.0,2024.0
+Singapore,Asia,Dairy & Eggs,85.27,21.5,190.44,81.22,90.29,165.0,1991.0,2024.0
+Singapore,Asia,Fruits,96.47,75.57,107.1,7.99,4.02,136.0,1991.0,2024.0
+Singapore,Asia,Meat,93.48,48.55,151.16,18.37,2.41,442.0,1991.0,2024.0
+Singapore,Asia,Oilseeds,96.93,69.9,149.9,5.83,46.31,68.0,1991.0,2024.0
+Singapore,Asia,Other Industrial,102.87,96.61,107.1,2.74,5.18,34.0,1991.0,2024.0
+Singapore,Asia,Roots & Tubers,100.04,69.9,152.62,16.14,4.02,136.0,1991.0,2024.0
+Singapore,Asia,Vegetables,92.39,21.22,197.89,36.7,36.68,286.0,1991.0,2024.0
+Slovakia,Europe,Aggregates,102.56,71.44,172.09,9.52,43.22,64.0,1993.0,2024.0
+Slovakia,Europe,Beverages,100.21,75.54,128.17,10.78,10.2,32.0,1993.0,2024.0
+Slovakia,Europe,Cereals,103.88,52.61,213.27,19.2,59.52,384.0,1993.0,2024.0
+Slovakia,Europe,Dairy & Eggs,91.33,34.97,175.6,35.59,6.71,224.0,1993.0,2024.0
+Slovakia,Europe,Fibers,97.48,39.97,139.0,22.41,12.26,62.0,1993.0,2024.0
+Slovakia,Europe,Fruits,94.72,10.1,437.24,68.14,75.46,544.0,1993.0,2024.0
+Slovakia,Europe,Meat,99.36,36.89,174.93,17.59,13.85,672.0,1993.0,2024.0
+Slovakia,Europe,Nuts,94.79,68.55,128.49,7.34,10.14,96.0,1993.0,2024.0
+Slovakia,Europe,Oilseeds,95.65,33.03,202.59,23.5,69.58,256.0,1993.0,2024.0
+Slovakia,Europe,Other Industrial,115.05,32.65,246.38,84.01,-3.04,96.0,1993.0,2024.0
+Slovakia,Europe,Pulses,93.39,56.94,152.88,18.69,9.28,278.0,1993.0,2024.0
+Slovakia,Europe,Roots & Tubers,100.59,45.54,252.76,27.27,87.07,32.0,1993.0,2024.0
+Slovakia,Europe,Spices,117.97,27.18,166.69,16.86,-66.53,32.0,1993.0,2024.0
+Slovakia,Europe,Sugar Crops,103.77,72.09,178.45,15.74,-21.67,32.0,1993.0,2024.0
+Slovakia,Europe,Vegetables,95.38,27.94,306.57,31.08,25.51,704.0,1993.0,2024.0
+Slovenia,Europe,Aggregates,90.93,28.8,167.78,10.62,67.98,66.0,1992.0,2024.0
+Slovenia,Europe,Beverages,82.24,24.96,235.67,29.17,131.71,33.0,1992.0,2024.0
+Slovenia,Europe,Cereals,93.58,6.83,269.43,47.17,39.21,385.0,1992.0,2024.0
+Slovenia,Europe,Dairy & Eggs,86.98,29.06,159.2,18.15,48.02,132.0,1992.0,2024.0
+Slovenia,Europe,Fruits,87.15,6.88,335.4,59.87,78.48,539.0,1992.0,2024.0
+Slovenia,Europe,Meat,85.69,28.47,158.17,13.56,-1.56,636.0,1992.0,2024.0
+Slovenia,Europe,Nuts,86.63,14.03,174.16,27.14,53.1,99.0,1992.0,2024.0
+Slovenia,Europe,Oilseeds,91.09,22.58,192.19,29.78,36.32,165.0,1992.0,2024.0
+Slovenia,Europe,Other Industrial,68.76,14.0,165.24,40.68,105.15,66.0,1992.0,2024.0
+Slovenia,Europe,Pulses,67.58,10.86,120.76,13.97,16.29,165.0,1992.0,2024.0
+Slovenia,Europe,Roots & Tubers,102.1,28.69,280.11,39.91,208.88,33.0,1992.0,2024.0
+Slovenia,Europe,Spices,92.45,62.53,140.65,10.89,50.38,33.0,1992.0,2024.0
+Slovenia,Europe,Sugar Crops,92.89,32.56,262.16,30.98,68.32,33.0,1992.0,2024.0
+Slovenia,Europe,Vegetables,84.36,6.93,280.11,64.18,49.79,571.0,1992.0,2024.0
+South Africa,Africa,Aggregates,68.59,13.88,189.4,11.09,165.54,68.0,1991.0,2024.0
+South Africa,Africa,Beverages,79.9,21.93,170.79,58.11,106.8,68.0,1991.0,2024.0
+South Africa,Africa,Cereals,64.67,6.83,201.3,32.41,120.35,408.0,1991.0,2024.0
+South Africa,Africa,Dairy & Eggs,68.16,14.2,197.26,23.69,37.03,136.0,1991.0,2024.0
+South Africa,Africa,Fibers,62.67,15.45,156.05,18.25,39.46,238.0,1991.0,2024.0
+South Africa,Africa,Fruits,68.53,0.6,407.27,122.02,151.05,947.0,1991.0,2024.0
+South Africa,Africa,Meat,71.64,8.81,189.04,27.28,111.62,680.0,1991.0,2024.0
+South Africa,Africa,Nuts,52.22,5.74,117.2,10.16,118.41,68.0,1991.0,2024.0
+South Africa,Africa,Oilseeds,75.53,12.76,557.04,58.29,79.94,238.0,1991.0,2024.0
+South Africa,Africa,Other Industrial,68.12,1.99,255.27,157.81,106.86,102.0,1991.0,2024.0
+South Africa,Africa,Pulses,63.13,8.72,173.22,30.28,206.15,170.0,1991.0,2024.0
+South Africa,Africa,Roots & Tubers,65.68,10.01,236.89,57.34,219.39,68.0,1991.0,2024.0
+South Africa,Africa,Spices,67.71,21.94,135.07,8.8,106.77,34.0,1991.0,2024.0
+South Africa,Africa,Sugar Crops,66.33,11.75,196.81,14.56,172.02,34.0,1991.0,2024.0
+South Africa,Africa,Vegetables,69.26,2.56,391.01,85.04,410.03,748.0,1991.0,2024.0
+Spain,Europe,Aggregates,97.38,60.59,208.01,8.17,49.76,68.0,1991.0,2024.0
+Spain,Europe,Beverages,123.06,39.51,640.97,65.94,216.23,68.0,1991.0,2024.0
+Spain,Europe,Cereals,98.66,45.61,205.04,23.42,63.28,442.0,1991.0,2024.0
+Spain,Europe,Dairy & Eggs,100.53,45.9,273.05,31.64,130.38,238.0,1991.0,2024.0
+Spain,Europe,Fibers,109.9,12.57,262.83,54.66,45.95,134.0,1991.0,2024.0
+Spain,Europe,Fruits,93.79,20.98,264.37,48.22,92.01,1155.0,1991.0,2024.0
+Spain,Europe,Meat,106.54,32.06,305.78,71.83,7.68,782.0,1991.0,2024.0
+Spain,Europe,Nuts,65.97,23.7,124.08,36.03,32.77,204.0,1991.0,2024.0
+Spain,Europe,Oilseeds,99.97,16.5,274.54,72.84,-4.86,340.0,1991.0,2024.0
+Spain,Europe,Other Industrial,79.33,18.42,215.08,80.78,77.67,170.0,1991.0,2024.0
+Spain,Europe,Pulses,96.05,50.79,253.64,34.64,15.25,306.0,1991.0,2024.0
+Spain,Europe,Roots & Tubers,89.27,28.45,206.84,43.99,36.25,102.0,1991.0,2024.0
+Spain,Europe,Spices,86.63,38.93,154.91,48.47,19.25,136.0,1991.0,2024.0
+Spain,Europe,Sugar Crops,117.27,81.55,192.46,12.99,60.9,34.0,1991.0,2024.0
+Spain,Europe,Vegetables,94.96,13.88,326.76,74.92,23.58,850.0,1991.0,2024.0
+Sri Lanka,Asia,Aggregates,81.46,14.09,376.88,25.1,224.86,68.0,1991.0,2024.0
+Sri Lanka,Asia,Beverages,96.67,10.66,467.74,85.37,2.02,102.0,1991.0,2024.0
+Sri Lanka,Asia,Cereals,85.5,5.11,428.9,40.37,221.49,204.0,1991.0,2024.0
+Sri Lanka,Asia,Dairy & Eggs,77.56,13.82,438.82,27.44,217.54,238.0,1991.0,2024.0
+Sri Lanka,Asia,Fruits,75.89,6.2,637.23,71.87,346.15,363.0,1991.0,2024.0
+Sri Lanka,Asia,Meat,85.62,3.47,1053.18,110.38,517.37,510.0,1991.0,2024.0
+Sri Lanka,Asia,Nuts,68.16,7.36,231.62,61.68,400.52,111.0,1991.0,2024.0
+Sri Lanka,Asia,Oilseeds,75.98,9.18,460.07,43.46,196.45,204.0,1991.0,2024.0
+Sri Lanka,Asia,Other Industrial,74.82,10.8,210.23,78.5,99.11,68.0,1991.0,2024.0
+Sri Lanka,Asia,Pulses,75.32,8.39,506.29,53.34,70.12,102.0,1991.0,2024.0
+Sri Lanka,Asia,Roots & Tubers,77.83,12.88,310.33,17.79,382.63,102.0,1991.0,2024.0
+Sri Lanka,Asia,Spices,70.1,3.68,315.45,106.42,350.11,204.0,1991.0,2024.0
+Sri Lanka,Asia,Sugar Crops,71.12,15.77,283.07,14.85,231.74,34.0,1991.0,2024.0
+Sri Lanka,Asia,Vegetables,80.19,10.59,410.57,39.28,224.46,476.0,1991.0,2024.0
+Suriname,Americas,Aggregates,149.49,0.03,1569.12,141.36,1574.23,68.0,1991.0,2024.0
+Suriname,Americas,Beverages,60.91,0.17,155.08,94.63,-4.82,68.0,1991.0,2024.0
+Suriname,Americas,Cereals,180.29,0.04,2300.6,448.44,1806.35,136.0,1991.0,2024.0
+Suriname,Americas,Dairy & Eggs,104.17,0.02,1007.42,84.34,1144.77,136.0,1991.0,2024.0
+Suriname,Americas,Fruits,178.81,0.0,3853.12,223.34,1146.89,510.0,1991.0,2024.0
+Suriname,Americas,Meat,113.86,0.03,1227.28,98.17,670.71,442.0,1991.0,2024.0
+Suriname,Americas,Oilseeds,122.86,0.03,1296.75,66.65,1911.99,204.0,1991.0,2024.0
+Suriname,Americas,Other Industrial,69.35,0.03,238.23,124.46,33.31,68.0,1991.0,2024.0
+Suriname,Americas,Pulses,191.01,0.07,1803.91,67.44,1974.11,68.0,1991.0,2024.0
+Suriname,Americas,Roots & Tubers,250.52,0.06,3833.72,156.97,720.92,136.0,1991.0,2024.0
+Suriname,Americas,Sugar Crops,72.41,0.14,158.08,137.59,32.08,34.0,1991.0,2024.0
+Suriname,Americas,Vegetables,105.35,0.04,1552.5,147.18,1263.66,408.0,1991.0,2024.0
+Sweden,Europe,Aggregates,102.0,76.41,184.09,7.75,60.79,68.0,1991.0,2024.0
+Sweden,Europe,Cereals,107.41,65.64,250.14,15.5,81.25,270.0,1991.0,2024.0
+Sweden,Europe,Dairy & Eggs,96.18,56.46,172.65,21.53,54.09,136.0,1991.0,2024.0
+Sweden,Europe,Fruits,91.21,29.14,225.51,46.4,16.52,374.0,1991.0,2024.0
+Sweden,Europe,Meat,86.74,58.16,126.35,15.35,24.05,476.0,1991.0,2024.0
+Sweden,Europe,Oilseeds,94.27,42.78,219.21,19.37,-13.49,98.0,1991.0,2024.0
+Sweden,Europe,Other Industrial,81.7,15.63,163.07,32.55,7.92,68.0,1991.0,2024.0
+Sweden,Europe,Pulses,104.15,38.3,234.66,42.3,4.87,136.0,1991.0,2024.0
+Sweden,Europe,Roots & Tubers,91.16,26.92,164.59,35.7,48.73,34.0,1991.0,2024.0
+Sweden,Europe,Sugar Crops,130.87,90.2,205.37,13.87,66.94,34.0,1991.0,2024.0
+Sweden,Europe,Vegetables,96.47,24.84,254.38,37.32,87.15,435.0,1991.0,2024.0
+Switzerland,Europe,Aggregates,112.13,89.93,162.62,7.08,12.11,68.0,1991.0,2024.0
+Switzerland,Europe,Beverages,104.43,71.0,159.71,15.05,-0.1,34.0,1991.0,2024.0
+Switzerland,Europe,Cereals,133.62,93.78,281.69,13.67,-2.18,340.0,1991.0,2024.0
+Switzerland,Europe,Dairy & Eggs,111.3,79.4,172.3,18.0,5.45,204.0,1991.0,2024.0
+Switzerland,Europe,Fruits,89.95,31.97,215.41,32.29,23.8,599.0,1991.0,2024.0
+Switzerland,Europe,Meat,109.0,68.09,222.41,27.33,7.58,612.0,1991.0,2024.0
+Switzerland,Europe,Nuts,97.87,72.79,115.41,6.66,1.78,102.0,1991.0,2024.0
+Switzerland,Europe,Oilseeds,127.63,77.24,272.49,13.06,10.52,133.0,1991.0,2024.0
+Switzerland,Europe,Other Industrial,126.21,49.52,428.57,103.06,10.11,102.0,1991.0,2024.0
+Switzerland,Europe,Pulses,111.82,56.47,175.83,34.96,22.15,128.0,1991.0,2024.0
+Switzerland,Europe,Roots & Tubers,102.18,80.77,139.7,7.59,26.09,34.0,1991.0,2024.0
+Switzerland,Europe,Sugar Crops,155.18,81.08,252.97,8.74,-15.28,34.0,1991.0,2024.0
+Switzerland,Europe,Vegetables,97.77,16.79,208.96,55.63,79.65,650.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Aggregates,101.22,7.71,727.34,25.56,1380.33,68.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Cereals,86.08,5.26,576.72,37.52,2037.65,272.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Dairy & Eggs,111.22,5.55,828.91,404.27,3403.99,238.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Fibers,141.71,51.54,324.92,13.05,-55.58,102.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Fruits,80.14,3.48,750.76,349.1,1552.99,774.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Meat,97.02,2.38,751.0,479.03,217.77,782.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Nuts,87.59,9.02,181.21,265.84,-8.55,136.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Oilseeds,90.68,0.93,322.38,778.48,-32.33,272.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Other Industrial,93.58,15.24,184.16,170.47,-13.67,136.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Pulses,102.08,4.3,1815.35,315.24,139.31,306.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Roots & Tubers,58.41,4.84,220.89,44.07,1052.56,34.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Spices,95.59,2.32,153.84,1259.81,142.63,102.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Sugar Crops,85.25,45.76,147.09,11.54,-49.48,34.0,1991.0,2024.0
+Syrian Arab Republic,Asia,Vegetables,65.2,0.39,248.35,749.6,7.43,714.0,1991.0,2024.0
+Tajikistan,Asia,Aggregates,64.57,0.58,135.88,42.13,21.02,64.0,1993.0,2024.0
+Tajikistan,Asia,Cereals,70.48,0.48,303.47,50.16,503.31,298.0,1993.0,2024.0
+Tajikistan,Asia,Dairy & Eggs,64.27,0.5,145.14,65.08,-31.12,160.0,1993.0,2024.0
+Tajikistan,Asia,Fibers,56.96,0.77,103.13,34.52,-4.5,96.0,1993.0,2024.0
+Tajikistan,Asia,Fruits,65.69,0.18,248.92,104.76,-14.93,533.0,1993.0,2024.0
+Tajikistan,Asia,Meat,76.67,0.6,297.77,54.42,46.88,483.0,1993.0,2024.0
+Tajikistan,Asia,Nuts,65.41,0.49,245.38,101.65,-25.96,96.0,1993.0,2024.0
+Tajikistan,Asia,Oilseeds,73.95,0.39,238.49,52.36,-19.68,244.0,1993.0,2024.0
+Tajikistan,Asia,Other Industrial,64.47,0.25,199.71,157.74,98.03,119.0,1993.0,2024.0
+Tajikistan,Asia,Pulses,65.76,0.3,176.33,53.48,6.1,128.0,1993.0,2024.0
+Tajikistan,Asia,Roots & Tubers,63.4,0.51,170.79,54.89,-18.44,32.0,1993.0,2024.0
+Tajikistan,Asia,Spices,83.89,38.28,144.74,17.05,61.35,26.0,1999.0,2024.0
+Tajikistan,Asia,Vegetables,66.83,0.24,170.79,89.21,65.82,452.0,1993.0,2024.0
+Thailand,Asia,Aggregates,82.45,39.69,135.88,13.48,-2.75,68.0,1991.0,2024.0
+Thailand,Asia,Beverages,85.18,28.97,150.46,34.4,10.69,102.0,1991.0,2024.0
+Thailand,Asia,Cereals,83.86,30.1,152.08,19.59,30.53,306.0,1991.0,2024.0
+Thailand,Asia,Dairy & Eggs,79.94,34.28,110.18,14.04,12.19,170.0,1991.0,2024.0
+Thailand,Asia,Fibers,86.8,42.12,133.67,25.62,13.74,238.0,1991.0,2024.0
+Thailand,Asia,Fruits,72.5,8.2,247.77,100.64,83.03,578.0,1991.0,2024.0
+Thailand,Asia,Meat,75.71,12.27,161.18,62.37,107.13,578.0,1991.0,2024.0
+Thailand,Asia,Nuts,80.41,33.39,138.63,18.03,35.06,136.0,1991.0,2024.0
+Thailand,Asia,Oilseeds,74.37,16.63,174.4,55.21,-10.92,340.0,1991.0,2024.0
+Thailand,Asia,Other Industrial,84.55,6.48,369.93,132.8,-4.64,204.0,1991.0,2024.0
+Thailand,Asia,Pulses,80.18,33.37,138.48,22.5,-8.97,102.0,1991.0,2024.0
+Thailand,Asia,Roots & Tubers,76.62,29.08,161.97,35.7,53.58,136.0,1991.0,2024.0
+Thailand,Asia,Spices,77.64,13.33,151.27,109.3,23.08,136.0,1991.0,2024.0
+Thailand,Asia,Sugar Crops,81.21,41.28,150.81,17.15,29.48,34.0,1991.0,2024.0
+Thailand,Asia,Vegetables,75.23,11.61,171.08,47.41,101.09,747.0,1991.0,2024.0
+Timor-Leste,Asia,Aggregates,108.68,44.23,179.17,5.76,190.87,17.0,2008.0,2024.0
+Timor-Leste,Asia,Beverages,89.57,50.62,144.31,25.25,67.7,17.0,2008.0,2024.0
+Timor-Leste,Asia,Cereals,112.31,20.56,251.24,52.28,227.33,68.0,2008.0,2024.0
+Timor-Leste,Asia,Fruits,98.59,13.84,158.37,83.0,270.81,136.0,2008.0,2024.0
+Timor-Leste,Asia,Meat,96.08,31.12,138.54,11.95,93.61,187.0,2008.0,2024.0
+Timor-Leste,Asia,Oilseeds,96.93,32.7,127.34,15.93,63.47,34.0,2008.0,2024.0
+Timor-Leste,Asia,Pulses,97.14,62.64,117.92,5.34,19.05,34.0,2008.0,2024.0
+Timor-Leste,Asia,Roots & Tubers,101.83,18.03,177.26,27.1,428.01,51.0,2008.0,2024.0
+Timor-Leste,Asia,Vegetables,98.66,63.43,125.75,14.45,3.51,136.0,2008.0,2024.0
+Togo,Africa,Aggregates,78.61,26.29,128.01,16.61,52.71,68.0,1991.0,2024.0
+Togo,Africa,Beverages,77.84,19.56,150.37,68.86,-27.05,68.0,1991.0,2024.0
+Togo,Africa,Cereals,79.38,19.84,260.86,44.86,245.54,263.0,1991.0,2024.0
+Togo,Africa,Dairy & Eggs,79.99,26.24,133.28,8.62,41.28,136.0,1991.0,2024.0
+Togo,Africa,Fibers,120.85,51.6,220.08,30.79,0.12,102.0,1991.0,2024.0
+Togo,Africa,Fruits,65.41,11.46,217.3,39.13,49.81,248.0,1991.0,2024.0
+Togo,Africa,Meat,80.01,14.34,137.29,35.42,23.43,408.0,1991.0,2024.0
+Togo,Africa,Nuts,83.25,51.48,113.19,6.98,87.84,68.0,1991.0,2024.0
+Togo,Africa,Oilseeds,77.95,10.25,201.37,104.0,39.66,349.0,1991.0,2024.0
+Togo,Africa,Other Industrial,72.71,25.35,130.69,32.49,48.7,68.0,1991.0,2024.0
+Togo,Africa,Pulses,79.07,30.68,146.32,20.9,92.49,152.0,1991.0,2024.0
+Togo,Africa,Roots & Tubers,70.65,21.09,144.63,18.38,68.25,204.0,1991.0,2024.0
+Togo,Africa,Spices,82.82,13.58,154.44,97.18,28.6,102.0,1991.0,2024.0
+Togo,Africa,Vegetables,83.44,16.1,135.48,40.09,66.74,195.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Aggregates,76.87,32.8,122.94,27.32,28.39,68.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Beverages,82.2,28.29,123.62,48.22,12.6,68.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Cereals,87.25,50.8,194.24,26.84,1.7,136.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Dairy & Eggs,82.28,23.03,123.44,19.45,20.91,136.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Fruits,82.13,21.82,262.55,61.3,24.13,510.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Meat,66.61,13.83,158.5,35.78,1.6,387.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Oilseeds,78.05,26.73,122.02,12.76,14.08,68.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Other Industrial,83.82,24.92,122.82,29.58,21.73,68.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Pulses,70.34,16.96,170.28,41.33,-2.78,136.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Roots & Tubers,65.95,13.98,179.73,52.37,140.32,238.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Spices,85.0,24.92,111.84,29.94,1.21,34.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Sugar Crops,78.03,43.01,110.64,6.94,-3.71,34.0,1991.0,2024.0
+Trinidad and Tobago,Americas,Vegetables,70.87,7.96,282.91,72.0,53.98,397.0,1991.0,2024.0
+Tunisia,Africa,Aggregates,80.21,41.27,169.01,5.34,116.28,68.0,1991.0,2024.0
+Tunisia,Africa,Cereals,80.14,39.44,215.21,24.73,94.69,272.0,1991.0,2024.0
+Tunisia,Africa,Dairy & Eggs,78.03,39.9,182.99,11.19,109.14,238.0,1991.0,2024.0
+Tunisia,Africa,Fibers,94.21,71.14,119.05,4.45,18.71,102.0,1991.0,2024.0
+Tunisia,Africa,Fruits,93.05,28.02,367.97,49.31,13.87,1020.0,1991.0,2024.0
+Tunisia,Africa,Meat,75.4,26.26,184.95,33.55,91.15,646.0,1991.0,2024.0
+Tunisia,Africa,Nuts,77.69,32.12,134.56,5.15,59.43,170.0,1991.0,2024.0
+Tunisia,Africa,Oilseeds,87.12,23.42,162.85,63.25,17.07,204.0,1991.0,2024.0
+Tunisia,Africa,Other Industrial,85.08,44.45,108.07,23.93,-0.54,102.0,1991.0,2024.0
+Tunisia,Africa,Pulses,83.41,36.58,148.71,26.67,17.91,272.0,1991.0,2024.0
+Tunisia,Africa,Roots & Tubers,83.23,41.55,152.56,12.89,115.85,34.0,1991.0,2024.0
+Tunisia,Africa,Spices,89.87,48.67,137.99,27.87,19.38,102.0,1991.0,2024.0
+Tunisia,Africa,Sugar Crops,87.74,60.32,106.06,4.32,6.96,34.0,1991.0,2024.0
+Tunisia,Africa,Vegetables,94.65,22.08,649.38,54.3,133.1,782.0,1991.0,2024.0
+Turkmenistan,Asia,Aggregates,90.7,21.73,190.67,20.26,61.39,56.0,1997.0,2024.0
+Turkmenistan,Asia,Cereals,90.64,20.98,179.91,10.08,57.44,168.0,1997.0,2024.0
+Turkmenistan,Asia,Dairy & Eggs,89.12,22.08,188.67,8.6,75.22,140.0,1997.0,2024.0
+Turkmenistan,Asia,Fibers,89.45,52.49,116.33,7.21,-9.99,84.0,1997.0,2024.0
+Turkmenistan,Asia,Fruits,91.88,32.75,174.9,17.61,49.71,224.0,1997.0,2024.0
+Turkmenistan,Asia,Meat,93.24,11.25,312.35,16.57,165.07,336.0,1997.0,2024.0
+Turkmenistan,Asia,Nuts,91.96,20.98,178.26,13.22,73.72,84.0,1997.0,2024.0
+Turkmenistan,Asia,Oilseeds,89.5,52.49,116.33,8.81,-9.99,56.0,1997.0,2024.0
+Turkmenistan,Asia,Other Industrial,92.55,11.27,308.2,30.17,69.31,84.0,1997.0,2024.0
+Turkmenistan,Asia,Pulses,89.94,21.26,192.78,10.25,79.94,56.0,1997.0,2024.0
+Turkmenistan,Asia,Roots & Tubers,87.35,22.49,151.12,14.05,51.37,28.0,1997.0,2024.0
+Turkmenistan,Asia,Sugar Crops,90.03,20.98,155.78,22.37,45.47,28.0,1997.0,2024.0
+Turkmenistan,Asia,Vegetables,94.99,14.73,218.31,65.73,26.04,280.0,1997.0,2024.0
+TÃ¼rkiye,Other,Aggregates,146.12,0.11,1619.51,33.71,1157.06,68.0,1991.0,2024.0
+TÃ¼rkiye,Other,Beverages,116.15,0.07,960.53,32.57,1143.0,34.0,1991.0,2024.0
+TÃ¼rkiye,Other,Cereals,127.97,0.05,1501.29,43.57,1470.85,408.0,1991.0,2024.0
+TÃ¼rkiye,Other,Dairy & Eggs,134.02,0.05,1925.4,71.82,970.58,238.0,1991.0,2024.0
+TÃ¼rkiye,Other,Fibers,74.74,0.09,295.46,32.17,191.38,136.0,1991.0,2024.0
+TÃ¼rkiye,Other,Fruits,148.16,0.08,2325.01,95.11,952.28,986.0,1991.0,2024.0
+TÃ¼rkiye,Other,Meat,113.32,0.02,1744.66,111.18,402.43,884.0,1991.0,2024.0
+TÃ¼rkiye,Other,Nuts,113.32,0.04,1859.29,81.69,1156.99,238.0,1991.0,2024.0
+TÃ¼rkiye,Other,Oilseeds,139.72,0.06,1785.81,53.09,1895.43,374.0,1991.0,2024.0
+TÃ¼rkiye,Other,Other Industrial,114.04,0.06,1148.63,231.53,815.34,170.0,1991.0,2024.0
+TÃ¼rkiye,Other,Pulses,124.62,0.04,1331.68,51.38,1251.29,272.0,1991.0,2024.0
+TÃ¼rkiye,Other,Roots & Tubers,97.88,0.08,1123.32,45.23,1166.94,68.0,1991.0,2024.0
+TÃ¼rkiye,Other,Spices,152.77,0.08,2610.0,134.4,1299.41,136.0,1991.0,2024.0
+TÃ¼rkiye,Other,Sugar Crops,139.84,0.09,924.48,62.94,1200.93,34.0,1991.0,2024.0
+TÃ¼rkiye,Other,Vegetables,140.37,0.03,3871.58,153.46,655.81,884.0,1991.0,2024.0
+Ukraine,Europe,Aggregates,78.9,1.1,309.03,47.38,337.57,62.0,1994.0,2024.0
+Ukraine,Europe,Beverages,72.39,21.91,206.5,34.02,300.36,31.0,1994.0,2024.0
+Ukraine,Europe,Cereals,75.07,0.53,624.1,49.06,444.57,372.0,1994.0,2024.0
+Ukraine,Europe,Dairy & Eggs,80.88,0.57,347.5,106.54,544.85,248.0,1994.0,2024.0
+Ukraine,Europe,Fibers,65.12,2.05,183.27,179.66,273.16,93.0,1994.0,2024.0
+Ukraine,Europe,Fruits,94.93,0.25,4742.86,131.83,281.43,743.0,1994.0,2024.0
+Ukraine,Europe,Meat,85.56,0.5,862.12,44.9,611.6,465.0,1994.0,2024.0
+Ukraine,Europe,Nuts,76.44,0.79,258.68,34.38,387.4,182.0,1994.0,2024.0
+Ukraine,Europe,Oilseeds,78.69,0.61,561.15,221.73,209.5,279.0,1994.0,2024.0
+Ukraine,Europe,Other Industrial,68.81,1.51,227.8,69.34,174.22,93.0,1994.0,2024.0
+Ukraine,Europe,Pulses,55.61,0.34,210.56,41.5,459.57,243.0,1994.0,2024.0
+Ukraine,Europe,Roots & Tubers,82.82,1.51,232.68,99.59,163.57,31.0,1994.0,2024.0
+Ukraine,Europe,Spices,58.25,0.79,191.29,79.02,67.75,31.0,1994.0,2024.0
+Ukraine,Europe,Sugar Crops,70.2,1.54,252.57,50.15,241.35,31.0,1994.0,2024.0
+Ukraine,Europe,Vegetables,82.06,0.79,714.63,62.75,332.38,646.0,1994.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Aggregates,93.2,59.62,166.73,9.36,64.79,68.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Beverages,121.05,71.46,311.76,13.08,265.02,34.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Cereals,101.05,39.35,229.21,21.71,75.21,271.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Dairy & Eggs,88.89,60.25,168.33,21.16,0.02,170.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Fibers,80.88,30.08,129.94,15.77,20.92,66.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Fruits,92.43,21.22,488.87,40.39,77.29,374.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Meat,84.26,18.92,200.88,36.78,27.27,646.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Oilseeds,90.93,32.33,228.99,32.62,48.29,102.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Other Industrial,68.22,17.18,142.67,124.22,86.18,68.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Pulses,87.59,28.69,188.96,37.41,85.38,146.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Roots & Tubers,94.63,34.88,253.67,39.05,120.94,34.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Sugar Crops,109.31,76.6,211.23,12.38,104.62,34.0,1991.0,2024.0
+United Kingdom of Great Britain and Northern Ireland,Europe,Vegetables,86.22,4.96,323.4,139.87,61.98,646.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Aggregates,70.0,12.7,135.96,129.36,189.89,68.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Cereals,75.72,9.55,144.67,39.62,81.2,196.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Dairy & Eggs,79.47,23.4,113.89,30.8,31.13,102.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Fruits,64.79,2.78,178.78,121.92,310.61,204.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Nuts,73.17,23.37,110.66,6.98,38.08,68.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Oilseeds,73.52,2.45,166.72,289.71,53.68,162.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Other Industrial,66.67,8.9,139.56,15.13,74.15,34.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Pulses,78.13,0.09,152.83,2057.24,67.11,107.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Roots & Tubers,71.91,11.61,145.02,85.71,74.13,115.0,1991.0,2024.0
+United Republic of Tanzania,Africa,Vegetables,72.9,13.69,178.54,55.2,224.59,251.0,1991.0,2024.0
+United States of America,Americas,Aggregates,85.51,53.92,151.73,14.65,26.14,68.0,1991.0,2024.0
+United States of America,Americas,Beverages,62.37,11.52,137.5,79.0,500.09,68.0,1991.0,2024.0
+United States of America,Americas,Cereals,98.62,34.21,498.13,42.47,94.62,374.0,1991.0,2024.0
+United States of America,Americas,Dairy & Eggs,79.0,28.48,196.46,36.04,192.46,136.0,1991.0,2024.0
+United States of America,Americas,Fibers,93.71,31.59,232.31,31.5,-8.15,102.0,1991.0,2024.0
+United States of America,Americas,Fruits,89.0,16.99,387.85,65.42,37.94,1121.0,1991.0,2024.0
+United States of America,Americas,Meat,80.61,32.51,273.68,46.24,120.41,544.0,1991.0,2024.0
+United States of America,Americas,Nuts,65.0,16.51,162.28,49.13,-8.39,233.0,1991.0,2024.0
+United States of America,Americas,Oilseeds,84.91,25.16,262.89,48.79,40.13,340.0,1991.0,2024.0
+United States of America,Americas,Other Industrial,78.56,24.85,156.42,75.53,55.66,102.0,1991.0,2024.0
+United States of America,Americas,Pulses,83.78,14.75,155.96,53.79,46.13,199.0,1991.0,2024.0
+United States of America,Americas,Roots & Tubers,90.12,55.12,148.0,14.78,39.03,102.0,1991.0,2024.0
+United States of America,Americas,Spices,84.51,17.18,289.51,31.95,200.35,34.0,1991.0,2024.0
+United States of America,Americas,Sugar Crops,104.49,77.78,167.07,12.41,-7.78,68.0,1991.0,2024.0
+United States of America,Americas,Vegetables,87.92,12.25,312.29,54.19,65.29,905.0,1991.0,2024.0
+Uruguay,Americas,Aggregates,74.19,3.68,223.34,21.13,177.84,68.0,1991.0,2024.0
+Uruguay,Americas,Cereals,78.18,1.98,372.27,55.48,149.18,306.0,1991.0,2024.0
+Uruguay,Americas,Dairy & Eggs,75.43,3.5,237.61,31.88,176.52,136.0,1991.0,2024.0
+Uruguay,Americas,Fruits,65.91,1.79,240.6,54.97,91.79,544.0,1991.0,2024.0
+Uruguay,Americas,Meat,65.68,0.95,256.42,70.66,125.11,630.0,1991.0,2024.0
+Uruguay,Americas,Oilseeds,71.37,2.39,289.58,46.41,72.74,204.0,1991.0,2024.0
+Uruguay,Americas,Other Industrial,69.71,2.14,284.24,162.49,538.65,136.0,1991.0,2024.0
+Uruguay,Americas,Pulses,63.18,25.75,114.37,5.79,65.78,136.0,1991.0,2024.0
+Uruguay,Americas,Roots & Tubers,58.11,2.39,155.33,33.49,141.1,68.0,1991.0,2024.0
+Uruguay,Americas,Sugar Crops,63.78,25.75,114.61,9.89,66.86,34.0,1991.0,2024.0
+Uruguay,Americas,Vegetables,59.68,0.75,237.26,66.91,67.0,442.0,1991.0,2024.0
+Vanuatu,Oceania,Aggregates,90.19,64.95,112.23,5.17,27.45,26.0,1999.0,2024.0
+Vanuatu,Oceania,Beverages,85.77,31.46,115.57,24.53,26.75,52.0,1999.0,2024.0
+Vanuatu,Oceania,Cereals,83.85,38.01,117.0,7.29,32.06,78.0,1999.0,2024.0
+Vanuatu,Oceania,Fruits,87.92,50.68,116.04,6.25,26.4,130.0,1999.0,2024.0
+Vanuatu,Oceania,Oilseeds,90.36,47.41,118.03,18.69,26.06,78.0,1999.0,2024.0
+Vanuatu,Oceania,Roots & Tubers,92.74,76.02,114.04,3.74,26.16,52.0,1999.0,2024.0
+Vanuatu,Oceania,Spices,92.98,76.02,115.51,5.28,27.12,26.0,1999.0,2024.0
+Vanuatu,Oceania,Vegetables,83.85,38.01,117.0,7.29,32.06,78.0,1999.0,2024.0
+Viet Nam,Asia,Aggregates,64.34,14.9,121.43,11.35,53.3,68.0,1991.0,2024.0
+Viet Nam,Asia,Beverages,129.51,4.72,447.0,1424.22,-35.6,68.0,1991.0,2024.0
+Viet Nam,Asia,Cereals,63.66,13.67,190.66,24.38,42.86,170.0,1991.0,2024.0
+Viet Nam,Asia,Dairy & Eggs,64.03,10.6,156.05,34.36,-16.68,136.0,1991.0,2024.0
+Viet Nam,Asia,Fibers,61.06,7.78,151.0,48.8,50.4,136.0,1991.0,2024.0
+Viet Nam,Asia,Fruits,67.55,11.56,182.7,77.93,46.59,374.0,1991.0,2024.0
+Viet Nam,Asia,Meat,58.65,6.81,183.76,41.46,432.01,510.0,1991.0,2024.0
+Viet Nam,Asia,Nuts,71.7,23.68,206.64,24.42,227.9,102.0,1991.0,2024.0
+Viet Nam,Asia,Oilseeds,58.79,13.16,136.03,8.2,92.91,170.0,1991.0,2024.0
+Viet Nam,Asia,Other Industrial,70.03,7.61,242.27,95.74,98.64,102.0,1991.0,2024.0
+Viet Nam,Asia,Pulses,54.85,8.78,126.8,38.5,139.75,102.0,1991.0,2024.0
+Viet Nam,Asia,Roots & Tubers,68.29,9.08,200.5,20.04,189.4,102.0,1991.0,2024.0
+Viet Nam,Asia,Spices,57.8,10.37,198.06,81.15,103.23,102.0,1991.0,2024.0
+Viet Nam,Asia,Sugar Crops,66.98,27.87,121.42,13.53,50.15,34.0,1991.0,2024.0
+Viet Nam,Asia,Vegetables,69.88,11.97,316.62,26.21,114.62,238.0,1991.0,2024.0
+Yemen,Asia,Aggregates,93.83,3.96,577.28,41.86,524.93,68.0,1991.0,2024.0
+Yemen,Asia,Beverages,60.18,4.32,128.86,18.86,59.47,34.0,1991.0,2024.0
+Yemen,Asia,Cereals,129.2,2.39,1346.92,18.84,1041.68,238.0,1991.0,2024.0
+Yemen,Asia,Dairy & Eggs,80.37,1.66,641.73,88.58,666.35,238.0,1991.0,2024.0
+Yemen,Asia,Fibers,71.42,14.67,118.33,18.67,42.84,102.0,1991.0,2024.0
+Yemen,Asia,Fruits,92.66,3.53,1716.14,111.71,74.18,646.0,1991.0,2024.0
+Yemen,Asia,Meat,86.25,2.78,1062.66,87.59,906.52,374.0,1991.0,2024.0
+Yemen,Asia,Oilseeds,84.11,3.82,355.56,110.98,13.11,102.0,1991.0,2024.0
+Yemen,Asia,Other Industrial,101.31,3.31,1112.32,172.25,1063.07,102.0,1991.0,2024.0
+Yemen,Asia,Pulses,78.22,2.98,383.98,66.9,282.67,238.0,1991.0,2024.0
+Yemen,Asia,Roots & Tubers,129.3,4.66,810.5,30.96,670.82,34.0,1991.0,2024.0
+Yemen,Asia,Vegetables,91.13,3.44,1407.09,117.15,96.81,554.0,1991.0,2024.0
+Zambia,Africa,Aggregates,104.96,3.3,324.45,232.5,451.91,40.0,2005.0,2024.0
+Zambia,Africa,Cereals,138.29,29.49,798.31,55.42,673.49,115.0,2005.0,2024.0
+Zambia,Africa,Dairy & Eggs,136.49,4.35,333.55,126.2,3863.43,62.0,2005.0,2024.0
+Zambia,Africa,Fruits,139.04,46.21,310.16,14.4,355.77,75.0,2010.0,2024.0
+Zambia,Africa,Meat,100.0,37.8,142.19,17.49,73.59,75.0,2010.0,2024.0
+Zambia,Africa,Oilseeds,214.77,22.06,1080.47,139.47,1857.83,55.0,2005.0,2024.0
+Zambia,Africa,Pulses,76.91,41.03,119.67,11.31,-58.47,40.0,2005.0,2024.0
+Zambia,Africa,Roots & Tubers,81.82,10.45,266.38,60.32,50.77,55.0,2005.0,2024.0
+Zambia,Africa,Vegetables,124.66,61.91,296.66,14.53,202.6,75.0,2010.0,2024.0
+Zimbabwe,Africa,Aggregates,6497.92,0.33,173292.74,367.22,,44.0,1991.0,2018.0
+Zimbabwe,Africa,Cereals,8766.33,0.21,408938.11,138.58,,178.0,1991.0,2018.0
+Zimbabwe,Africa,Dairy & Eggs,2575.46,0.33,33661.7,143.6,,40.0,1991.0,2018.0
+Zimbabwe,Africa,Fibers,55.28,1.02,165.92,45.15,,42.0,1991.0,2018.0
+Zimbabwe,Africa,Fruits,6902.13,0.12,336501.06,105.33,,273.0,1991.0,2018.0
+Zimbabwe,Africa,Meat,7889.55,0.22,283660.58,294.67,,88.0,1991.0,2018.0
+Zimbabwe,Africa,Oilseeds,12441.5,0.28,669268.85,13599.03,,125.0,1991.0,2018.0
+Zimbabwe,Africa,Other Industrial,5212.57,0.63,92320.17,299.56,,25.0,1991.0,2018.0
+Zimbabwe,Africa,Pulses,38162.71,0.11,1826611.51,424.64,,83.0,1991.0,2018.0
+Zimbabwe,Africa,Roots & Tubers,17562.35,0.4,334522.13,486.55,,42.0,1991.0,2018.0
+Zimbabwe,Africa,Sugar Crops,14856.62,0.04,231040.89,880.47,,21.0,1991.0,2018.0
+Zimbabwe,Africa,Vegetables,9641.79,0.12,379513.88,323.38,,315.0,1991.0,2018.0
