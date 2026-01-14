@@ -1,0 +1,62 @@
+================================================================================
+DECLARACIÓN SOBRE EL USO DE INTELIGENCIA ARTIFICIAL EN EL PROYECTO
+================================================================================
+Proyecto: Análisis y Visualización de Datos FAOSTAT Food Prices
+Autor: Abdallah Tegguer
+================================================================================
+
+ACLARACIÓN IMPORTANTE SOBRE EL USO DE IA
+================================================================================
+
+La inteligencia artificial NO fue utilizada para crear el código de este 
+proyecto. Su uso fue únicamente como herramienta auxiliar en las siguientes 
+tareas específicas:
+
+1. AL INICIO DEL PROYECTO:
+   - Creación de un roadmap de tareas a realizar
+   - Organización de la estructura del proyecto
+   - Planificación de pasos a seguir
+   Objetivo: Acelerar la fase de planificación inicial
+
+2. AL FINAL DEL PROYECTO:
+   - Mejora de la legibilidad del código (añadir comentarios, formateo)
+   - Corrección de errores gramaticales y ortográficos en comentarios
+   - Revisión de documentación
+   Objetivo: Hacer el código más fácil de leer y comprender
+
+3. DURANTE EL DESARROLLO (uso parcial):
+   - Consulta puntual para resolver errores específicos
+   - Identificación de inconsistencias en el código
+   - Combinado con foros especializados (Stack Overflow, etc.)
+   Objetivo: Depuración y resolución de problemas técnicos
+
+CONCLUSIÓN
+================================================================================
+
+La inteligencia artificial NO fue utilizada para:
+✗ Programar el código del proyecto
+✗ Desarrollar la lógica de transformación de datos
+✗ Crear los algoritmos de cálculo de métricas
+✗ Interferir con el desarrollo central del proyecto
+
+La inteligencia artificial SÍ fue utilizada como:
+✓ Herramienta de planificación inicial (roadmap)
+✓ Asistente para mejorar la presentación del código
+✓ Recurso complementario para resolver dudas técnicas
+
+JUSTIFICACIÓN
+================================================================================
+
+Este proyecto representó una oportunidad para trabajar en un caso real de 
+análisis de datos y reforzar mis habilidades de programación en Python. 
+
+El desarrollo completo del código, la lógica de transformación de datos, y 
+todas las decisiones técnicas fueron realizadas de manera autónoma, utilizando 
+mis conocimientos previos y aprendizaje continuo.
+
+El uso de IA se limitó estrictamente a funciones de apoyo que no comprometieron 
+el valor educativo ni la autenticidad del trabajo realizado.
+
+================================================================================
+Fecha: Enero 2026
+================================================================================
