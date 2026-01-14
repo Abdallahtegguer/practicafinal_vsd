@@ -1,6 +1,4 @@
-# practicafinal_vsd
-================================================================================
-README - FAOSTAT Food Prices Data Analysis
+FAOSTAT Food Prices Data Analysis
 ================================================================================
 Autor: Abdallah Tegguer
 Proyecto: Análisis y Visualización de Datos de Precios Alimentarios
