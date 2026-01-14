@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAOSTAT Food Prices - Dashboard | Abdallah Tegguer</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #ffffff;
+        }
+        .header {
+            background: rgba(0,0,0,0.3);
+            padding: 30px;
+            text-align: center;
+            border-bottom: 3px solid #E69F00;
+        }
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #E69F00, #56B4E9);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header p { color: #aaa; font-size: 1.1em; }
+        .author { margin-top: 10px; color: #E69F00; font-size: 0.95em; font-weight: 500; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            padding: 20px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card.full-width { grid-column: 1 / -1; }
+        .card h2 {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            color: #E69F00;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .card h2::before {
+            content: '';
+            width: 4px;
+            height: 20px;
+            background: #E69F00;
+            border-radius: 2px;
+        }
+        .chart-container { position: relative; height: 350px; }
+        .chart-container.large { height: 420px; }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        .stat-card {
+            background: rgba(255,255,255,0.08);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            border-left: 4px solid #E69F00;
+        }
+        .stat-card:nth-child(2) { border-left-color: #56B4E9; }
+        .stat-card:nth-child(3) { border-left-color: #009E73; }
+        .stat-card:nth-child(4) { border-left-color: #CC79A7; }
+        .stat-card:nth-child(5) { border-left-color: #D55E00; }
+        .stat-value { font-size: 1.8em; font-weight: bold; color: #fff; }
+        .stat-label { color: #aaa; font-size: 0.85em; margin-top: 5px; }
+        .filters {
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            padding: 12px 15px;
+            margin-bottom: 15px;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        .filters label { color: #aaa; font-size: 0.9em; }
+        .filters select {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .insights {
+            background: rgba(230, 159, 0, 0.1);
+            border: 1px solid rgba(230, 159, 0, 0.3);
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        .insights h3 { color: #E69F00; font-size: 0.95em; margin-bottom: 10px; }
+        .insights ul { list-style: none; color: #ccc; font-size: 0.88em; }
+        .insights li { padding: 4px 0; padding-left: 20px; position: relative; }
+        .insights li::before { content: '→'; position: absolute; left: 0; color: #E69F00; }
+        .legend-inline {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 10px;
+            justify-content: center;
+        }
+        .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.8em; color: #bbb; }
+        .legend-color { width: 12px; height: 12px; border-radius: 3px; }
+        .table-container { overflow-x: auto; margin-top: 10px; max-height: 350px; overflow-y: auto; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.85em; }
+        th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid rgba(255,255,255,0.1); }
+        th { background: rgba(230, 159, 0, 0.2); color: #E69F00; font-weight: 600; position: sticky; top: 0; }
+        tr:hover { background: rgba(255,255,255,0.05); }
+        .trend-up { color: #ff6b6b; }
+        .footer {
+            text-align: center;
+            padding: 25px;
+            color: #666;
+            font-size: 0.85em;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            margin-top: 30px;
+        }
+        .footer a { color: #E69F00; text-decoration: none; }
+        @media (max-width: 1000px) {
+            .dashboard-grid { grid-template-columns: 1fr; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌾 Evolución Global de Precios de Alimentos</h1>
+        <p>Análisis de datos FAOSTAT · Producer Price Index (1991-2024)</p>
+        <p class="author">Proyecto de Visualización de Datos | Abdallah Tegguer</p>
+    </div>
+    
+    <div class="container">
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-value">161</div>
+                <div class="stat-label">Países analizados</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">234</div>
+                <div class="stat-label">Productos</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">34</div>
+                <div class="stat-label">Años de datos</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">+3160%</div>
+                <div class="stat-label">Mayor incremento (Irán)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">5</div>
+                <div class="stat-label">Regiones</div>
+            </div>
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="card full-width">
+                <h2>Evolución del Índice de Precios por Región (1991-2024)</h2>
+                <div class="filters">
+                    <label>Categoría:</label>
+                    <select id="categoryFilter">
+                        <option value="Aggregates">Agricultura (General)</option>
+                        <option value="Cereals">Cereales</option>
+                        <option value="Fruits">Frutas</option>
+                        <option value="Vegetables">Vegetales</option>
+                        <option value="Meat">Carnes</option>
+                    </select>
+                </div>
+                <div class="chart-container large">
+                    <canvas id="lineChartRegional"></canvas>
+                </div>
+                <div class="legend-inline">
+                    <div class="legend-item"><div class="legend-color" style="background:#E69F00"></div> África</div>
+                    <div class="legend-item"><div class="legend-color" style="background:#56B4E9"></div> Américas</div>
+                    <div class="legend-item"><div class="legend-color" style="background:#009E73"></div> Asia</div>
+                    <div class="legend-item"><div class="legend-color" style="background:#0072B2"></div> Europa</div>
+                    <div class="legend-item"><div class="legend-color" style="background:#CC79A7"></div> Oceanía</div>
+                </div>
+                <div class="insights">
+                    <h3>📊 Hallazgos clave</h3>
+                    <ul>
+                        <li><strong>Américas</strong> muestra el mayor incremento sostenido: de 29.7 (1991) a 215.1 (2024)</li>
+                        <li><strong>Europa</strong> mantiene mayor estabilidad relativa en todo el período</li>
+                        <li>Dos crisis evidentes: <strong>2007-2008</strong> y <strong>2020-2022</strong></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>Top 15 Países - Mayor Incremento (2010-2023)</h2>
+                <div class="chart-container">
+                    <canvas id="barCountries"></canvas>
+                </div>
+            </div>
+            
+            <div class="card">
+                <h2>Top 15 Productos más Volátiles</h2>
+                <div class="chart-container">
+                    <canvas id="barProducts"></canvas>
+                </div>
+            </div>
+            
+            <div class="card full-width">
+                <h2>Comparación de Países Seleccionados (1991-2024)</h2>
+                <div class="filters">
+                    <label>Ver:</label>
+                    <select id="countryPreset">
+                        <option value="diverse">Diversidad regional</option>
+                        <option value="top">Top incrementos</option>
+                        <option value="stable">Más estables</option>
+                    </select>
+                </div>
+                <div class="chart-container large">
+                    <canvas id="lineChartCountries"></canvas>
+                </div>
+            </div>
+            
+            <div class="card full-width">
+                <h2>Ranking de Países por Métricas</h2>
+                <div class="table-container">
+                    <table id="countryTable">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>País</th>
+                                <th>Región</th>
+                                <th>Precio Promedio</th>
+                                <th>Volatilidad (%)</th>
+                                <th>Tendencia 2010-2023 (%)</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="footer">
+        <p>Fuente: <a href="https://www.fao.org/faostat/en/#data/PP" target="_blank">FAOSTAT - FAO</a></p>
+        <p>Índice base: 2014-2016 = 100 | © 2024 Abdallah Tegguer</p>
+    </div>
+
+<script>
+// DATOS REALES
+const regionalData = {
+  "Aggregates": {
+    "years": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    "Africa": [25.5,27.04,27.83,30.14,33.63,35.34,37.62,40.62,39.92,40.51,43.14,45.33,54.02,77.7,156.79,null,null,72.4,76.03,77.43,84.8,90.19,93.83,98.5,98.12,102.14,106.45,110.73,118.34,123.6,128.46,139.98,145.02,150.88],
+    "Americas": [29.68,32.45,34.44,37.22,40.06,42.26,43.15,44.88,44.6,47.06,48.81,50.56,54.22,57.26,58.82,61.52,68.15,77.09,79.0,81.94,87.48,91.42,93.81,97.76,99.94,101.86,106.36,111.36,120.35,128.66,144.4,170.55,197.59,215.12],
+    "Asia": [31.88,32.82,33.75,35.22,39.23,41.55,42.32,43.01,43.1,43.35,44.34,45.05,46.84,51.3,53.57,57.1,62.71,70.88,74.18,80.17,87.57,90.01,93.48,98.92,98.89,102.05,106.02,109.83,116.22,125.0,138.94,162.31,178.08,194.94],
+    "Europe": [79.1,61.98,64.41,63.51,63.79,65.49,66.63,66.72,66.47,70.94,74.79,74.3,76.27,76.57,75.9,76.96,87.87,93.57,79.34,89.1,98.26,102.83,105.43,103.94,99.23,96.81,107.26,108.65,109.94,111.53,123.33,157.49,150.7,165.89],
+    "Oceania": [35.25,38.26,40.11,39.14,41.78,44.28,43.32,54.94,54.31,56.38,63.37,66.5,64.09,65.49,67.33,65.21,71.85,86.6,75.74,78.33,90.4,91.55,95.6,104.24,93.88,100.43,100.25,104.68,105.08,105.73,117.53,128.96,122.98,128.85]
+  },
+  "Cereals": {
+    "years": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    "Africa": [23.7,26.76,25.82,27.59,35.17,35.19,37.21,40.28,39.91,39.34,42.08,46.16,54.11,74.7,143.92,null,null,79.59,79.82,77.36,84.28,91.29,92.66,96.5,97.89,105.61,106.61,111.58,120.89,131.39,137.78,161.38,170.93,181.69],
+    "Americas": [25.21,26.02,28.12,31.72,36.19,43.61,44.7,45.28,41.64,45.14,46.71,52.82,60.59,60.91,57.8,63.17,72.92,87.12,83.92,87.18,100.45,101.55,96.97,96.45,100.04,103.5,104.4,112.71,119.61,134.84,160.08,191.06,201.6,225.02],
+    "Asia": [46.15,46.92,43.84,42.98,54.56,60.6,59.4,58.69,59.84,57.21,57.91,57.83,59.99,63.7,64.91,68.65,68.78,76.53,78.51,81.93,88.65,91.42,94.87,97.78,99.09,103.09,106.32,111.24,119.01,127.82,148.54,177.1,187.82,210.78],
+    "Europe": [101.21,82.23,76.45,70.96,68.0,74.84,71.39,65.23,64.78,68.81,71.36,66.85,72.71,71.37,63.52,70.35,102.81,98.67,72.29,90.93,113.53,125.48,110.22,100.1,102.38,97.53,100.67,110.52,109.91,113.83,135.46,174.67,141.99,153.67],
+    "Oceania": [47.6,50.07,50.1,52.58,62.4,62.21,61.02,58.32,51.14,51.55,57.39,63.97,74.03,63.55,60.83,60.81,74.77,90.54,95.86,92.49,90.44,94.13,100.42,100.88,97.73,101.25,96.24,100.83,114.55,116.32,114.55,125.48,128.77,136.4]
+  },
+  "Fruits": {
+    "years": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    "Africa": [32.68,35.04,34.45,35.28,42.11,42.02,43.47,46.22,45.66,44.96,46.74,51.28,58.48,78.29,138.49,null,null,80.22,82.4,84.28,89.78,94.29,97.22,100.05,98.45,101.48,105.74,113.67,125.62,130.78,134.9,148.58,155.18,165.34],
+    "Americas": [29.85,33.14,32.94,38.31,42.16,44.98,44.6,47.35,47.68,48.19,49.02,51.87,56.56,57.87,60.94,65.72,68.99,73.29,77.57,79.71,85.33,89.76,91.76,95.51,98.94,105.36,113.26,118.7,126.58,133.78,144.75,161.46,183.43,202.2],
+    "Asia": [41.93,42.18,42.88,44.5,47.4,49.51,50.71,52.13,52.44,52.38,52.48,53.8,56.64,58.31,59.16,64.3,69.74,79.68,78.99,86.03,89.69,92.73,94.73,98.17,99.52,102.22,104.68,111.46,118.97,127.09,140.25,153.66,171.87,184.45],
+    "Europe": [69.39,47.97,48.58,51.74,55.57,56.64,61.14,61.75,61.69,59.87,65.63,68.06,74.74,70.39,72.16,73.68,84.01,89.86,80.19,90.15,90.51,98.31,99.52,93.39,100.33,106.23,115.87,112.5,117.94,131.5,140.43,149.88,160.04,175.8],
+    "Oceania": [52.19,54.51,49.82,50.48,53.02,54.98,53.87,57.13,64.51,62.81,66.69,69.24,70.93,70.34,68.43,72.26,83.15,79.79,82.91,84.23,90.8,87.69,97.5,102.56,98.62,98.8,110.65,116.96,115.01,112.92,121.05,127.9,129.85,133.75]
+  },
+  "Vegetables": {
+    "years": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    "Africa": [34.56,36.64,35.91,37.49,42.9,42.53,44.72,46.72,46.06,45.55,47.02,50.97,60.41,89.12,200.48,null,null,76.94,81.77,85.4,89.38,96.07,97.74,98.88,98.43,102.6,105.61,113.3,129.42,136.69,134.33,156.14,165.58,169.69],
+    "Americas": [29.56,32.65,37.2,39.27,44.25,43.32,46.2,50.71,48.73,50.67,50.94,54.42,56.54,58.16,63.55,65.6,70.28,76.31,81.04,89.79,86.14,89.65,92.14,94.89,100.44,104.5,112.76,112.79,123.2,132.44,144.05,162.4,174.28,186.45],
+    "Asia": [40.09,39.14,39.39,40.16,42.33,44.03,45.13,49.43,45.57,46.22,48.23,48.63,51.18,53.08,55.32,62.39,67.82,75.18,74.92,81.63,88.09,91.84,96.19,96.72,98.99,104.25,107.63,113.99,118.89,125.34,137.34,157.89,165.4,174.81],
+    "Europe": [69.43,55.7,58.73,61.88,61.94,61.92,65.31,66.5,66.05,67.63,71.58,74.41,80.09,73.88,77.77,84.37,90.96,90.29,85.3,97.5,92.12,94.83,102.5,94.34,102.13,103.51,102.59,112.67,119.93,116.72,125.08,143.09,153.6,167.17],
+    "Oceania": [53.13,53.02,51.07,62.21,66.44,58.34,55.74,59.86,60.34,58.12,59.41,57.53,61.16,60.8,61.93,66.16,71.51,75.97,82.99,82.32,86.97,85.25,90.84,99.69,91.59,106.03,110.69,111.21,108.7,108.47,112.65,120.06,123.27,126.77]
+  },
+  "Meat": {
+    "years": [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    "Africa": [29.68,31.91,32.39,35.89,38.69,39.87,42.28,43.97,44.23,44.42,46.76,50.88,53.82,62.02,83.61,null,null,76.16,79.44,80.91,89.13,93.6,96.6,99.54,97.98,102.48,109.56,115.33,120.66,124.64,127.99,134.05,140.85,146.6],
+    "Americas": [32.85,37.06,39.1,42.37,45.64,48.82,49.88,50.05,49.76,55.27,57.66,60.4,64.36,67.92,65.32,66.55,71.13,75.0,76.99,80.62,85.98,90.04,92.94,96.9,100.2,102.85,106.05,110.32,116.28,123.59,138.34,154.82,184.51,212.77],
+    "Asia": [34.08,35.41,35.95,34.9,38.12,40.06,40.78,40.83,41.73,42.64,44.91,45.95,48.7,52.63,56.9,61.07,65.48,70.99,76.01,82.52,89.04,91.8,95.33,98.77,99.35,101.87,104.39,109.67,117.6,122.7,129.76,139.76,152.82,164.73],
+    "Europe": [85.85,71.92,71.58,74.17,72.6,75.45,77.67,74.15,71.27,73.63,80.42,79.37,77.79,79.94,79.29,79.49,81.69,88.7,88.32,88.15,95.15,99.87,101.75,100.77,99.93,99.3,102.26,103.78,107.17,108.41,113.31,124.05,127.86,136.29],
+    "Oceania": [63.25,60.7,62.07,62.7,60.04,58.93,61.3,62.49,61.97,66.5,72.53,77.67,74.6,75.19,77.36,75.67,77.53,80.73,86.82,87.97,95.06,94.98,93.41,95.84,97.94,105.86,110.54,116.57,115.74,120.69,125.22,124.02,120.45,118.33]
+  }
+};
+
+const countryMetrics = [
+    {area: "Iran (Islamic Republic of)", region: "Asia", avg: 125.58, volatility: 101.22, trend: 3160.11},
+    {area: "Argentina", region: "Americas", avg: 95.63, volatility: 516.59, trend: 1870.46},
+    {area: "Suriname", region: "Americas", avg: 139.07, volatility: 206.17, trend: 1574.23},
+    {area: "Syrian Arab Republic", region: "Asia", avg: 88.37, volatility: 697.62, trend: 1380.33},
+    {area: "Türkiye", region: "Asia", avg: 130.47, volatility: 104.60, trend: 1157.06},
+    {area: "Belarus", region: "Europe", avg: 78.23, volatility: 219.58, trend: 915.67},
+    {area: "Malawi", region: "Africa", avg: 85.80, volatility: 215.28, trend: 862.10},
+    {area: "Yemen", region: "Asia", avg: 91.62, volatility: 132.19, trend: 524.93},
+    {area: "Ghana", region: "Africa", avg: 65.12, volatility: 1171.78, trend: 523.36},
+    {area: "Zambia", region: "Africa", avg: 127.08, volatility: 230.39, trend: 451.91},
+    {area: "Egypt", region: "Africa", avg: 97.23, volatility: 447.79, trend: 438.94},
+    {area: "Ukraine", region: "Europe", avg: 80.80, volatility: 178.11, trend: 337.57},
+    {area: "Guinea", region: "Africa", avg: 105.59, volatility: 295.31, trend: 334.94},
+    {area: "Pakistan", region: "Asia", avg: 71.50, volatility: 198.29, trend: 322.70},
+    {area: "Ethiopia", region: "Africa", avg: 72.97, volatility: 98.52, trend: 285.55}
+];
+
+const productMetrics = [
+    {item: "Pomelos y grapefruits", category: "Fruits", volatility: 9971.42},
+    {item: "Tomatoes", category: "Vegetables", volatility: 9610.33},
+    {item: "Plums and sloes", category: "Fruits", volatility: 9159.44},
+    {item: "Livestock", category: "Aggregates", volatility: 9084.56},
+    {item: "Natural gums", category: "Industrial", volatility: 8987.07},
+    {item: "Palm kernels", category: "Oilseeds", volatility: 8965.79},
+    {item: "Agriculture", category: "Aggregates", volatility: 8941.13},
+    {item: "Pulses, Total", category: "Pulses", volatility: 8818.97},
+    {item: "Oranges", category: "Fruits", volatility: 8795.47},
+    {item: "Sisal, raw", category: "Fibers", volatility: 8782.59},
+    {item: "Wool", category: "Industrial", volatility: 8474.99},
+    {item: "Other berries", category: "Fruits", volatility: 8353.24},
+    {item: "Cereals n.e.c.", category: "Cereals", volatility: 8128.83},
+    {item: "Silk-worm cocoons", category: "Industrial", volatility: 7971.61},
+    {item: "Hazelnuts", category: "Nuts", volatility: 7770.95}
+];
+
+const countryYearData = {
+    years: [1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024],
+    countries: {
+        "Iran": [1.2,1.46,1.78,2.31,3.74,4.05,4.64,5.74,7.17,7.93,8.31,9.52,10.78,13.52,13.86,17.63,19.65,26.07,28.25,30.33,35.47,52.71,87.35,97.56,100.71,101.73,110.71,182.39,228.72,337.87,534.09,836.89,988.79,1185.8],
+        "Argentina": [5.58,5.83,7.07,6.87,6.97,8.1,7.53,6.18,5.45,5.66,5.55,15.02,16.61,17.27,15.82,17.9,22.91,27.64,28.34,32.26,40.2,49.27,58.71,77.35,92.8,129.85,150.17,225.14,286.76,338.11,394.09,488.2,635.67,701.84],
+        "Brazil": [0.03,0.03,0.54,14.3,20.52,22.89,24.06,25.03,26.18,28.24,30.26,36.17,44.73,46.48,44.19,43.9,49.83,57.63,59.8,60.78,71.71,82.24,89.24,93.31,96.5,110.19,105.1,95.02,99.43,123.24,178.64,203.08,224.78,259.11],
+        "Egypt": [21.67,22.6,23.18,25.34,26.98,28.25,29.55,30.96,31.13,31.4,32.08,33.15,36.8,41.97,45.43,50.09,59.18,66.53,64.65,73.83,86.58,88.49,92.06,93.19,99.78,107.03,140.84,146.67,261.18,276.64,226.57,317.25,397.9,388.18],
+        "Germany": [96.58,91.47,82.13,84.75,86.33,83.34,81.04,81.61,77.12,77.77,84.71,80.17,83.94,82.04,76.67,85.82,104.62,104.77,75.78,94.77,112.29,112.22,119.5,107.43,98.07,94.51,106.62,111.08,112.13,109.6,120.48,166.13,145.43,157.06],
+        "Japan": [124.58,118.98,129.01,120.8,117.73,116.58,106.82,112.6,109.39,101.42,99.06,93.95,102.77,102.08,98.14,98.06,93.5,92.91,92.77,98.38,95.33,99.04,99.12,95.83,98.64,105.54,107.98,109.71,107.25,111.35,109.15,110.78,116.4,120.84],
+        "Australia": [57.31,61.51,63.65,63.31,75.35,78.59,72.21,71.65,67.99,65.82,72.88,79.99,83.98,75.3,71.16,74.31,87.38,106.29,91.32,82.49,91.55,88.78,96.13,98.03,99.41,102.56,96.27,103.82,114.9,115.37,110.82,120.86,118.3,114.55],
+        "USA": [54.92,53.92,58.98,55.43,67.33,75.62,60.53,61.98,56.45,55.06,59.0,61.61,67.19,66.92,67.42,74.86,97.41,99.06,85.62,104.85,120.91,127.35,113.69,109.15,100.3,90.55,98.46,97.98,102.12,109.73,123.11,151.73,132.26,144.14]
+    }
+};
+
+const countryPresets = {
+    diverse: ["Germany", "Japan", "Brazil", "Egypt", "Australia"],
+    top: ["Iran", "Argentina", "Egypt", "Brazil"],
+    stable: ["Japan", "Australia", "Germany", "USA"]
+};
+
+const regionColors = {'Africa':'#E69F00','Americas':'#56B4E9','Asia':'#009E73','Europe':'#0072B2','Oceania':'#CC79A7'};
+const countryColors = ['#E69F00','#56B4E9','#009E73','#0072B2','#CC79A7','#D55E00','#F0E442','#999'];
+const catColors = {'Fruits':'#56B4E9','Vegetables':'#009E73','Aggregates':'#E69F00','Industrial':'#CC79A7','Oilseeds':'#F0E442','Pulses':'#0072B2','Fibers':'#D55E00','Cereals':'#E69F00','Nuts':'#999'};
+
+let lineChartRegional, lineChartCountries;
+
+function createRegionalLineChart(category='Aggregates') {
+    const ctx = document.getElementById('lineChartRegional').getContext('2d');
+    const data = regionalData[category];
+    if (lineChartRegional) lineChartRegional.destroy();
+    const regions = ['Africa','Americas','Asia','Europe','Oceania'];
+    const datasets = regions.map(r => ({
+        label: r, data: data[r], borderColor: regionColors[r], backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 0, pointHoverRadius: 6, tension: 0.3, spanGaps: true
+    }));
+    lineChartRegional = new Chart(ctx, {
+        type: 'line',
+        data: {labels: data.years, datasets},
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            interaction: {intersect: false, mode: 'index'},
+            plugins: {legend: {display: false}},
+            scales: {
+                x: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa', maxTicksLimit: 12}},
+                y: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa'}}
+            }
+        }
+    });
+}
+
+function createBarCountries() {
+    const ctx = document.getElementById('barCountries').getContext('2d');
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: countryMetrics.map(c => c.area.length > 18 ? c.area.substring(0,16)+'...' : c.area),
+            datasets: [{data: countryMetrics.map(c => c.trend), backgroundColor: countryMetrics.map(c => regionColors[c.region]||'#999'), borderRadius: 4}]
+        },
+        options: {
+            indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+            plugins: {legend: {display: false}},
+            scales: {
+                x: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa'}},
+                y: {grid: {display: false}, ticks: {color: '#ccc', font: {size: 10}}}
+            }
+        }
+    });
+}
+
+function createBarProducts() {
+    const ctx = document.getElementById('barProducts').getContext('2d');
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: productMetrics.map(p => p.item.length > 18 ? p.item.substring(0,16)+'...' : p.item),
+            datasets: [{data: productMetrics.map(p => p.volatility), backgroundColor: productMetrics.map(p => catColors[p.category]||'#999'), borderRadius: 4}]
+        },
+        options: {
+            indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+            plugins: {legend: {display: false}},
+            scales: {
+                x: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa'}},
+                y: {grid: {display: false}, ticks: {color: '#ccc', font: {size: 9}}}
+            }
+        }
+    });
+}
+
+function createCountryLineChart(preset='diverse') {
+    const ctx = document.getElementById('lineChartCountries').getContext('2d');
+    const selected = countryPresets[preset];
+    if (lineChartCountries) lineChartCountries.destroy();
+    const datasets = selected.map((c,i) => ({
+        label: c, data: countryYearData.countries[c], borderColor: countryColors[i], backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 0, pointHoverRadius: 5, tension: 0.3
+    }));
+    lineChartCountries = new Chart(ctx, {
+        type: 'line',
+        data: {labels: countryYearData.years, datasets},
+        options: {
+            responsive: true, maintainAspectRatio: false,
+            plugins: {legend: {position: 'top', labels: {color: '#ccc', usePointStyle: true}}},
+            scales: {
+                x: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa', maxTicksLimit: 10}},
+                y: {grid: {color: 'rgba(255,255,255,0.08)'}, ticks: {color: '#aaa'}}
+            }
+        }
+    });
+}
+
+function populateTable() {
+    const tbody = document.querySelector('#countryTable tbody');
+    countryMetrics.forEach((c,i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `<td>${i+1}</td><td>${c.area}</td><td style="color:${regionColors[c.region]||'#999'}">${c.region}</td><td>${c.avg.toFixed(1)}</td><td>${c.volatility.toFixed(1)}%</td><td class="trend-up">+${c.trend.toFixed(1)}%</td>`;
+        tbody.appendChild(tr);
+    });
+}
+
+document.getElementById('categoryFilter').addEventListener('change', e => createRegionalLineChart(e.target.value));
+document.getElementById('countryPreset').addEventListener('change', e => createCountryLineChart(e.target.value));
+
+createRegionalLineChart('Aggregates');
+createBarCountries();
+createBarProducts();
+createCountryLineChart('diverse');
+populateTable();
+</script>
+</body>
+</html>
